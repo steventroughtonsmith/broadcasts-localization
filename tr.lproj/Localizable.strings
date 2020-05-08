@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Oynat";
+"SHORTCUT_PAUSE" = "Duraklat";
+
+"TOOLBAR_NOTHING_PLAYING" = "Hiçbir şey çalmıyor";
+"TOOLBAR_STREAMING_RADIO" = "Canlı Radyo";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Oynat/Duraklat";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Oynat/Duraklat";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Sesi Kapat";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Ses";
+
+"SIDEBAR_TITLE_LIBRARY" = "Kütüphane";
+"SIDEBAR_TITLE_STATIONS" = "Koleksiyonlar";
+"SIDEBAR_TITLE_RADIO" = "Radyo";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Tüm Kanallar";
+"SIDEBAR_CATEGORY_RECENTS" = "Son Oynatılanlar";
+
+"LIST_HEADER_STATION" = "Kanal";
+
+"MENU_NEW" = "Yeni";
+"MENU_NEW_STATION" = "Kanal";
+"MENU_NEW_GROUP" = "Koleksiyon…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Yeni Kanal";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Yeni Koleksiyon";
+
+"MENU_VIEW_AS_GRID" = "Izgara";
+"MENU_VIEW_AS_LIST" = "Liste";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Izgara Olarak Göster";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Liste Olarak Göster";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Sidebar'ı Göster";
+"MENU_VIEW_HIDE_SIDEBAR" = "Sidebar'ı Gizle";
+
+"MENU_HELP_GETSUPPORT" = "Twitter Üzerinden Destek Al…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Hoş Geldin Ekranını Göster";
+
+"PLAYBACK_ERROR_STALL" = "Kanal bağlantısı koptu.";
+
+"SEARCH_PLACEHOLDER" = "Ara";
+
+"ALERT_OK" = "Tamam";
+"ALERT_ADD" = "Ekle";
+"ALERT_CANCEL" = "İptal";
+"ALERT_DELETE" = "Sil";
+
+"ADD_STATION_WINDOW_TITLE" = "Yeni Kanal Ekle";
+"EDIT_STATION_WINDOW_TITLE" = "Kanalı Düzenle";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "İsim";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://kanal/adresi";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Resim Seç";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Yeni Koleksiyon Ekle";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Koleksiyonu Düzenle";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Koleksiyonlarım";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Düzenle";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Koleksiyonu Sil";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Paylaş";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Düzenle";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Kanalı Sil";
+"STATION_CONTEXT_MOVE" = "Koleksiyona Taşı";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "\"%@\" Sil";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bu koleksiyonu ve içindeki tüm kanalları silmek istediğinizden emin misiniz?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "\"%@\" Sil";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Bu kanalı silmek istediğinizden emin misiniz?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Kanal Yok";
+
+"WELCOME_COPY" = "Broadcasts'e Hoşgeldiniz! İsterseniz, kütüphanenizi başlatabileceğimiz evimizde önceden ayarlanmış bazı istasyonlarımız var.\n\nnYa da isterseniz kendi istasyonlarınızı manuel olarak ekleyin veya Dizin'deki binlerce istasyondan birini seçin.";
+
+"WELCOME_UPSELL" = "Broadcasts'e Hoşgeldiniz! Bu bedava sürümde, kütüphanenizi başlatabileceğimiz evimizde önceden ayarlanmış bazı istasyonlarımız var.\n\nOr, eğer ücretli sürüme geçerseniz, kendi istasyonlarınızı manuel olarak ekleyebilir veya Dizin'deki binlerce istasyondan birini seçebilirsiniz.";
+
+"WELCOME_ADD_PRESETS" = "Önayar Ekle";
+"WELCOME_NO_THANKS" = "Hayır Teşekkürler";
+
+"GENERATED_COLLECTION_TITLE" = "Koleksiyonum";
+
+"UPSELL_COPY" = "Broadcasts'i kullandığınız için teşekkürler!\n\nBroadcasts'in gelişmiş özelliklerini program içi satın alma ile açabilirsiniz.\n\nVeya, önceden belirlenmiş kanalları düzenlemeye veya kullanmaya devam edebilirsiniz!";
+"UPSELL_BUY" = "Satın Al (%@)";
+"UPSELL_NOT_AVAILABLE" = "Mevcut Değil";
+"UPSELL_RESTORE" = "Satın Almaları Geri Yükle";
+"UPSELL_NO_THANKS" = "Hayır Teşekkürler";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Yeni Koleksiyon";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Kanal Ekle";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Koleksiyonları Göster";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Sidebar'ı Aç/Kapat";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Görünümü Aç/Kapat";
+
+"IMAGE_WELL_REMOVE" = "Kaldır";
+"IMAGE_WELL_PASTE" = "Yapıştır";
+"IMAGE_WELL_COPY" = "Kopyala";
+
+"CARPLAY_EMPTY_LIBRARY" = "Koleksiyon Yok";
+"CARPLAY_ALL_STATIONS" = "Bütün Kanallar";
+
+"MAC_ADD_STATION_BUTTON" = "Kanal Ekle";
+"MAC_EDIT_STATION_BUTTON" = "Kanalı Düzenle";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Koleksiyon Ekle";
+"MAC_EDIT_COLLECTION_BUTTON" = "Koleksiyonu Düzenle";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Kanal Tarayıcısı";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Ülkeler";
+"STATION_DIRECTORY_STATIONS" = "%@ Kanal";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Kanal";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Bağlantı Yok";
+"STATION_DIRECTORY_CONNECTING" = "Yükleniyor…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Manuel Olarak Ekle";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Bitti";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Ülke Ara";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Kanal Ara";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Manuel Olarak Ekle";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Dizinden Ekle";
+
+"LIBRARY_STATE_UPLOADING" = "Gönderiliyor…";
+"LIBRARY_STATE_DOWNLOADING" = "İndiriliyor";
+"LIBRARY_STATE_PREPARING" = "Hazırlanıyor";
+"LIBRARY_STATE_READY" = "Güncel";
+"LIBRARY_STATE_MIGRATING" = "Taşınıyor…";
+"LIBRARY_STATE_LOCALONLY" = "Sadece Yerel";
+
+"TV_TAB_ALL_STATIONS" = "Bütün Kanallar";
+"TV_TAB_RECENTS" = "Son Oynatılanlar";
+"TV_TAB_COLLECTIONS" = "Koleksiyonlar";
+
+"TV_NO_LIBRARY_MESSAGE" = "Broadcasts kütüphanenizi iPhone, iPad veya Mac üzerinden başlatın, Apple TV ile senkronize olacaktır.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Şimdi Çalıyor";
+"WATCH_SOURCE_RECENTS" = "Son Oynatılanlar";
+"WATCH_SOURCE_COLLECTIONS" = "Koleksiyonlar";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Senkronize ediliyor...";
+
+"ALERT_IMPORT" = "İçeri Al";
+"IMPORT_TITLE" = "\"%@\" içeri al?";
+"IMPORT_BODY" = "Paylaşılan bu koleksiyon %ld kanal içermektedir.";
+
+"MOVE_DIALOG_TITLE" = "Taşı \"%@\"";
+"MOVE_DIALOG_BODY" = "Bu kanalı taşımak için bir koleksiyon seçin.";
