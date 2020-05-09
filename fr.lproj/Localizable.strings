@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Lecture";
+"SHORTCUT_PAUSE" = "Pause";
+
+"TOOLBAR_NOTHING_PLAYING" = "Rien en lecture";
+"TOOLBAR_STREAMING_RADIO" = "Diffusion Radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Lecture/Pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Lecture/Pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Basculer en Muet";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliothèque";
+"SIDEBAR_TITLE_STATIONS" = "Collections";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Toutes les Stations";
+"SIDEBAR_CATEGORY_RECENTS" = "Récents";
+
+"LIST_HEADER_STATION" = "Station";
+
+"MENU_NEW" = "Nouveau";
+"MENU_NEW_STATION" = "Station…";
+"MENU_NEW_GROUP" = "Collection…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nouvelle Station";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nouvelle Collection";
+
+"MENU_VIEW_AS_GRID" = "en Grille";
+"MENU_VIEW_AS_LIST" = "en Liste";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Voir En Grille";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Voir En Liste";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Afficher la Barre Latérale";
+"MENU_VIEW_HIDE_SIDEBAR" = "Masquer la Barre Latérale";
+
+"MENU_HELP_GETSUPPORT" = "Obtenir du Support sur Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Afficher le Panneau de Bienvenue";
+
+"PLAYBACK_ERROR_STALL" = "La connexion à la station a été perdue.";
+
+"SEARCH_PLACEHOLDER" = "Rechercher";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Ajouter";
+"ALERT_CANCEL" = "Annuler";
+"ALERT_DELETE" = "Supprimer";
+
+"ADD_STATION_WINDOW_TITLE" = "Ajouter une Nouvelle Station";
+"EDIT_STATION_WINDOW_TITLE" = "Modifier la Station";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nom";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://chemin/vers/flux";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Sélectionner une Image";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Ajouter une Nouvelle Collection";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Modifier la Collection";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Ma Collection";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Modifier";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Supprimer la Collection";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Partager";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Modifier";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Supprimer la Station";
+"STATION_CONTEXT_MOVE" = "Déplacer vers une Collection";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Supprimer « %@ »";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Êtes-vous sûr de vouloir supprimer cette collection et toutes les stations qu'elle contient ?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Supprimer « %@ »";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Êtes-vous sûr de vouloir supprimer cette station ?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Aucune Station";
+
+"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous avons quelques stations préréglées de chez nous avec lesquelles nous pouvons commencer votre bibliothèque.\n\nOu, si vous préférez, ajoutez vos propres stations manuellement ou choisissez-en parmi des milliers dans le Catalogue.";
+
+"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations préréglées de notre maison avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez ajouter vos propres stations manuellement ou en choisir parmi des milliers dans le Catalogue.";
+
+"WELCOME_ADD_PRESETS" = "Ajouter les Préréglages";
+"WELCOME_NO_THANKS" = "Non Merci";
+
+"GENERATED_COLLECTION_TITLE" = "Ma Collection";
+
+"UPSELL_COPY" = "Merci d'utiliser Broadcasts ! Vous pouvez débloquer les fonctionnalités avancées de Broadcasts avec un achat intégré, si vous le souhaitez.\n\nOu, si vous préférez, continuez à utiliser et à modifier les stations préréglées !";
+"UPSELL_BUY" = "Acheter (%@)";
+"UPSELL_NOT_AVAILABLE" = "Non Disponible";
+"UPSELL_RESTORE" = "Restaurer l'Achat";
+"UPSELL_NO_THANKS" = "Non Merci";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nouvelle Collection";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Ajouter une Station";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Afficher les Collections";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Basculer la Barre Latérale";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Basculer l'Affichage";
+
+"IMAGE_WELL_REMOVE" = "Supprimer";
+"IMAGE_WELL_PASTE" = "Coller";
+"IMAGE_WELL_COPY" = "Copier";
+
+"CARPLAY_EMPTY_LIBRARY" = "Aucune Collection";
+"CARPLAY_ALL_STATIONS" = "Toutes les Stations";
+
+"MAC_ADD_STATION_BUTTON" = "Ajouter une Station";
+"MAC_EDIT_STATION_BUTTON" = "Modifier la Station";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Ajouter une Collection";
+"MAC_EDIT_COLLECTION_BUTTON" = "Modifier la Collection";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Catalogue de Stations";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Pays";
+"STATION_DIRECTORY_STATIONS" = "%@ Station";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Stations";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Aucune Connexion";
+"STATION_DIRECTORY_CONNECTING" = "Chargement…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Ajouter Manuellement";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "OK";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Rechercher les Pays";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Rechercher les Stations";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Ajouter Manuellement";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Ajouter Depuis le Catalogue";
+
+"LIBRARY_STATE_UPLOADING" = "Chargement…";
+"LIBRARY_STATE_DOWNLOADING" = "Téléchargement…";
+"LIBRARY_STATE_PREPARING" = "Préparation…";
+"LIBRARY_STATE_READY" = "À jour";
+"LIBRARY_STATE_MIGRATING" = "Migration…";
+"LIBRARY_STATE_LOCALONLY" = "Local Uniquement";
+
+"TV_TAB_ALL_STATIONS" = "Toutes les Stations";
+"TV_TAB_RECENTS" = "Récemment Diffusés";
+"TV_TAB_COLLECTIONS" = "Collections";
+
+"TV_NO_LIBRARY_MESSAGE" = "Commencez votre bibliothèque Broadcasts sur iPhone, iPad ou Mac et elle se synchronisera avec votre Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "En Lecture";
+"WATCH_SOURCE_RECENTS" = "Récents";
+"WATCH_SOURCE_COLLECTIONS" = "Collections";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronisation…";
+
+"ALERT_IMPORT" = "Importer";
+"IMPORT_TITLE" = "Importer « %@ » ?";
+"IMPORT_BODY" = "Cette collection partagée contient %ld stations.";
+
+"MOVE_DIALOG_TITLE" = "Déplacer « %@ »";
+"MOVE_DIALOG_BODY" = "Choisissez une collection où déplacer cette station.";
