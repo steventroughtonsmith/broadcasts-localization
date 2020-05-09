@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   MobileRadio
 
@@ -75,14 +75,14 @@
 "STATION_CONTEXT_MOVE" = "Verschieben in Sammlung";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "\"%@\" löschen";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bist du sicher, dass du diese Sammlung und alle darin enthaltenen Sender löschen möchtest?"
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bist du sicher, dass du diese Sammlung und alle darin enthaltenen Sender löschen möchtest?";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "\"%@\" löschen";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "Bist du sicher, dass du diesen Sender löschen möchtest?";
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Keine Sender";
 
-"WELCOME_COPY" = "Willkommen bei Broadcasts! Wenn du möchtest, haben wir ein paar voreingestellte Sender aus unserer Heimat um deine Bibliothek zu starten.\n\Andernfalls, füge einfach deine eigenen Sender hinzu oder wähle aus tausenden Sendern im Sender-Verzeichnis."
+"WELCOME_COPY" = "Willkommen bei Broadcasts! Wenn du möchtest, haben wir ein paar voreingestellte Sender aus unserer Heimat um deine Bibliothek zu starten.\n\Andernfalls, füge einfach deine eigenen Sender hinzu oder wähle aus tausenden Sendern im Sender-Verzeichnis.";
 
 "WELCOME_UPSELL" = "Willkommen bei Broadcasts! In dieser kostenlosen Version haben wir ein paar voreingestellte Sender aus unserer Heimat um deine Bibliothek zu starten.\n\nWenn du ein Upgrade auf die bezahlte Version machst, kannst du deine eigenen Sender hinzufügen oder einfach aus den tausenden im Sender-Verzeichnis auswählen.";
 
@@ -159,3 +159,4 @@
 
 "MOVE_DIALOG_TITLE" = "\"%@\" verschieben";
 "MOVE_DIALOG_BODY" = "Wähle eine Sammlung aus in die der Sender verschoben werden soll.";
+

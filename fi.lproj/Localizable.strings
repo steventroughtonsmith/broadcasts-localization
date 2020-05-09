@@ -67,7 +67,7 @@
 "EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Kokoelmani";
 
 "SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Muokkaa";
-"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Poista kokoelma;
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Poista kokoelma";
 "SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Jaa";
 
 "STATION_CONTEXT_EDIT_COLLECTION" = "Muokkaa";
@@ -146,7 +146,7 @@
 
 "TV_NO_LIBRARY_MESSAGE" = "Luo Broadcasts-kirjastosi iPhonella, iPadilla tai Macilla ja se synkronoituu Apple TV:lle.";
 
-"WATCH_NOW_PLAYING_TITLE" = "Toistetaan;
+"WATCH_NOW_PLAYING_TITLE" = "Toistetaan";
 "WATCH_SOURCE_RECENTS" = "Viimeaikaiset";
 "WATCH_SOURCE_COLLECTIONS" = "Kokoelmat";
 
