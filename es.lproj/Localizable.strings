@@ -107,7 +107,7 @@
 "IMAGE_WELL_PASTE" = "Pegar";
 "IMAGE_WELL_COPY" = "Copiar";
 
-"CARPLAY_EMPTY_LIBRARY" = "No colecciones";
+"CARPLAY_EMPTY_LIBRARY" = "Sin colecciones";
 "CARPLAY_ALL_STATIONS" = "Todas las emisoras";
 
 "MAC_ADD_STATION_BUTTON" = "Agregar emisora";
