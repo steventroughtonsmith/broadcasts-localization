@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "پخش";
+"SHORTCUT_PAUSE" = "توقف";
+
+"TOOLBAR_NOTHING_PLAYING" = "چیزی پخش نمی‌شود";
+"TOOLBAR_STREAMING_RADIO" = "در حال پخش رادیو";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "پخش/توقف";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "پخش/توقف";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "تغییر وضعیت سکوت";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "حجم صدا";
+
+"SIDEBAR_TITLE_LIBRARY" = "کتابخانه";
+"SIDEBAR_TITLE_STATIONS" = "دسته‌ها";
+"SIDEBAR_TITLE_RADIO" = "رادیو";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "همه ایستگاه‌ها";
+"SIDEBAR_CATEGORY_RECENTS" = "اخیر";
+
+"LIST_HEADER_STATION" = "ایستگاه";
+
+"MENU_NEW" = "جدید";
+"MENU_NEW_STATION" = "ایستگاه…";
+"MENU_NEW_GROUP" = "دسته…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "ایستگاه جدید";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "دسته جدید";
+
+"MENU_VIEW_AS_GRID" = "مربعی";
+"MENU_VIEW_AS_LIST" = "لیستی";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "نمایش به صورت مربعی";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "نمایش به صورت لیستی";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "نمایش ستون کناری";
+"MENU_VIEW_HIDE_SIDEBAR" = "مخفی کردن ستون کناری";
+
+"MENU_HELP_GETSUPPORT" = "پشتیبانی در توییتر…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "نمایش صفحه خوش‌آمدگویی";
+
+"PLAYBACK_ERROR_STALL" = "ارتباط با ایستگاه قطع شده است.";
+
+"SEARCH_PLACEHOLDER" = "جستجو";
+
+"ALERT_OK" = "بسیار خب";
+"ALERT_ADD" = "افزودن";
+"ALERT_CANCEL" = "انصراف";
+"ALERT_DELETE" = "حذف";
+
+"ADD_STATION_WINDOW_TITLE" = "افزودن کانال جدید";
+"EDIT_STATION_WINDOW_TITLE" = "ویرایش کانال";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "نام";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "انتخاب تصویر";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "افزودن دسته جدید";
+"EDIT_COLLECTION_WINDOW_TITLE" = "ویرایش دسته";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "دسته من";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "ویرایش";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "حذف دسته";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "اشتراک گذاری";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "ویرایش";
+"STATION_CONTEXT_DELETE_COLLECTION" = "حذف ایستگاه";
+"STATION_CONTEXT_MOVE" = "انتقال به دسته";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "حذف \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "از حذف این دسته و همه ایستگاه‌های داخل آن اطمینان دارید؟";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "حذف \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "آیا از حذف این دسته اطمینان دارید؟";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "بدون ایستگاه";
+
+"WELCOME_COPY" = "به Broadcasts خوش آمدید. اگر مایل باشید، ما چند ایستگاه رادیویی از محل زندگی خودمان به شما معرفی می‌کنیم تا کتابخانه‌تان را با آن آغاز کنید.\n\nیا اینکه اگر ترجیح می‌دهید به نسخه غیررایگان به روز رسانی کنید تا بتوانید ایستگاه‌های دلخواه خود را اضافه کنید یا از بین هزاران ایستگاه در فهرست نرم‌افزار انتخاب کنید.";
+
+"WELCOME_UPSELL" = “به Broadcasts خوش آمدید. اگر مایل باشید، ما چند ایستگاه رادیویی از محل زندگی خودمان به شما معرفی می‌کنیم تا کتابخانه‌تان را با آن آغاز کنید.\n\nیا اینکه اگر ترجیح می‌دهید به نسخه غیررایگان به روز رسانی کنید تا بتوانید ایستگاه‌های دلخواه خود را اضافه کنید یا از بین هزاران ایستگاه در فهرست نرم‌افزار انتخاب کنید.”;
+
+"WELCOME_ADD_PRESETS" = "افزودن ایستگاه‌های پیش‌فرض";
+"WELCOME_NO_THANKS" = "خیر. متشکرم.";
+
+"GENERATED_COLLECTION_TITLE" = "دسته من";
+
+"UPSELL_COPY" = "از اینکه از Broadcasts استفاده می‌کنید از شما سپاسگزاریم.\n\nاگر مایلید، می‌توانید امکانات پیشرفته را با یک خرید درون‌برنامه‌ای فعال کنید. یا اگر ترجیح می‌دهید، به استفاده از نرم‌افزار ادامه دهید و ایستگاه‌های پیش‌فرض را ویرایش کنید.";
+"UPSELL_BUY" = "خرید (%@)";
+"UPSELL_NOT_AVAILABLE" = "موجود نیست";
+"UPSELL_RESTORE" = "بازگردانی خرید";
+"UPSELL_NO_THANKS" = "خیر. متشکرم.";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "دسته جدید";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "افزودن ایستگاه";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "نمایش دسته‌ها";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "نمایش/مخفی کردن ستون کناری";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "تغییر وضعیت نمایش";
+
+"IMAGE_WELL_REMOVE" = "حذف";
+"IMAGE_WELL_PASTE" = "چسباندن";
+"IMAGE_WELL_COPY" = "کپی";
+
+"CARPLAY_EMPTY_LIBRARY" = "بدون دسته";
+"CARPLAY_ALL_STATIONS" = "همه ایستگاه‌ها";
+
+"MAC_ADD_STATION_BUTTON" = "افزودن ایستگاه";
+"MAC_EDIT_STATION_BUTTON" = "ویرایش ایستگاه";
+
+"MAC_ADD_COLLECTION_BUTTON" = "افزودن دسته";
+"MAC_EDIT_COLLECTION_BUTTON" = "ویرایش دسته";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "جستجوگر ایستگاه";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "کشورها";
+"STATION_DIRECTORY_STATIONS" = "%@ ایستگاه";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ ایستگاه";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "اتصال برقرار نیست";
+"STATION_DIRECTORY_CONNECTING" = "در حال دریافت…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "افزودن دستی";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "تمام";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "جستجوی کشور";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "جستجوی ایستگاه";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "افزودن ایستگاه";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "افزودن از فهرست";
+
+"LIBRARY_STATE_UPLOADING" = "در حال آپلود…";
+"LIBRARY_STATE_DOWNLOADING" = "در حال دانلود…";
+"LIBRARY_STATE_PREPARING" = "در حال آماده‌سازی…";
+"LIBRARY_STATE_READY" = "به روز";
+"LIBRARY_STATE_MIGRATING" = "در حال انتقال…";
+"LIBRARY_STATE_LOCALONLY" = "فقط در دستگاه شما";
+
+"TV_TAB_ALL_STATIONS" = "همه ایستگاه‌ها";
+"TV_TAB_RECENTS" = "اخیراً پخش شده";
+"TV_TAB_COLLECTIONS" = "دسته‌ها";
+
+"TV_NO_LIBRARY_MESSAGE" = "کتابخانه خود را در آیفون، آیپد و مک بسازید تا به اپل تی‌وی منتقل شود.";
+
+"WATCH_NOW_PLAYING_TITLE" = "در حال پخش";
+"WATCH_SOURCE_RECENTS" = "اخیر";
+"WATCH_SOURCE_COLLECTIONS" = "دسته‌ها";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "در حال همگام‌سازی…";
+
+"ALERT_IMPORT" = "وارد کردن";
+"IMPORT_TITLE" = "\"%@\" وارد شود؟";
+"IMPORT_BODY" = "این دسته شامل %ld ایستگاه است.";
+
+"MOVE_DIALOG_TITLE" = "انتقال \"%@\"";
+"MOVE_DIALOG_BODY" = "دسته‌ای که می‌خواهید این ایستگاه را به آن منتقل کنید انتخاب کنید.";
