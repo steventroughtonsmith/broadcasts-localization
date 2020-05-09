@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Αναπαραγωγή";
+"SHORTCUT_PAUSE" = "Παύση";
+
+"TOOLBAR_NOTHING_PLAYING" = "Δεν Παίζει Τίποτα";
+"TOOLBAR_STREAMING_RADIO" = "Μετάδοση Ράδιου";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Αναπαραγωγή/Παύση";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Αναπαραγωγή/Παύση";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Αλλαγή Σίγασης";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Ήχος";
+
+"SIDEBAR_TITLE_LIBRARY" = "Βιβλιοθήκη";
+"SIDEBAR_TITLE_STATIONS" = "Συλλογές";
+"SIDEBAR_TITLE_RADIO" = "Ράδιο";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Όλοι οι Σταθμοί";
+"SIDEBAR_CATEGORY_RECENTS" = "Πρόσφατα";
+
+"LIST_HEADER_STATION" = "Σταθμός";
+
+"MENU_NEW" = "Νέο";
+"MENU_NEW_STATION" = "Σταθμός…";
+"MENU_NEW_GROUP" = "Συλλογή…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Νέος Σταθμός";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Νέα Συλλογή";
+
+"MENU_VIEW_AS_GRID" = "ως Πλέγμα";
+"MENU_VIEW_AS_LIST" = "ως Λίστα";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Προβολή ως Πλέγμα";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Προβολή ως Λίστα";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Εμφάνιση Πλευρικής Μπάρας";
+"MENU_VIEW_HIDE_SIDEBAR" = "Απόκρυψη Πλευρικής Μπάρας";
+
+"MENU_HELP_GETSUPPORT" = "Λάβετε Υποστήριξη στο Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Εμφάνιση Πίνακα Καλωσορίσματος";
+
+"PLAYBACK_ERROR_STALL" = "Χάθηκε η σύνδεση στο σταθμό.";
+
+"SEARCH_PLACEHOLDER" = "Αναζήτηση";
+
+"ALERT_OK" = "Εντάξει";
+"ALERT_ADD" = "Προσθήκη";
+"ALERT_CANCEL" = "Άκυρο";
+"ALERT_DELETE" = "Διαγραφή";
+
+"ADD_STATION_WINDOW_TITLE" = "Προσθήκη Νέου Σταθμού";
+"EDIT_STATION_WINDOW_TITLE" = "Επεξεργασία Σταθμού";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Όνομα";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://διεύθυνση/της/μετάδοσης";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Επιλογή Εικόνας";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Προσθήκη Νέας Συλλογής";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Επεξεργασία Συλλογής";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Η Συλλογή μου";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Επεξεργασία";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Διαγραφή Συλλογής";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Μοιράσου";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Επεξεργασία";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Διαγραφή Σταθμού";
+"STATION_CONTEXT_MOVE" = "Μεταφορά σε Συλλογή";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Διαγραφή \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή τη συλλογή και όλους τους σταθμούς μέσα της;";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Διαγραφή \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το σταθμό;";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Κανένας Σταθμός";
+
+"WELCOME_COPY" = "Καλώς ορίσατε στο Broadcasts! Αν θέλετε, έχουμε κάποιους προκαθορισμένους σταθμούς από το σπίτι μας με τους οποίους μπορούμε να ξεκινήσουμε τη βιβλιοθήκη σας.\n\nή, αν προτιμάτε, προσθέστε τους σταθμούς μόνοι σας ή επιλέξτε από χιλιάδες από το Ευρετήριο.";
+
+"WELCOME_UPSELL" = "Καλώς ορίσατε στο Broadcasts! Στη δωρεάν έκδοση έχουμε κάποιους προκαθορισμένους σταθμούς από το σπίτι μας με τους οποίους μπορούμε να ξεκινήσουμε τη βιβλιοθήκη σας.\n\nή, αν προτιμάτε να αναβαθμιστείτε στην πληρωμένη έκδοση, μπορείτε να προσθέστε τους σταθμούς μόνοι σας ή να επιλέξετε από χιλιάδες σταθμούς από το Ευρετήριο.";
+
+"WELCOME_ADD_PRESETS" = "Προσθήκη Προκαθορισμένων";
+"WELCOME_NO_THANKS" = "Όχι Ευχαριστώ";
+
+"GENERATED_COLLECTION_TITLE" = "Η Συλλογή μου";
+
+"UPSELL_COPY" = "Ευχαριστώ που χρησιμοποιείτε το Broadcasts!\n\nΜπορείτε να ξεκλειδώσετε τα προηγμένα χαρακτηριστικά του Broadcasts με αγορά μέσα στην εφαρμογή, αν θέλετε.\n\nΉ, αν προτιμάτε, μπορείτε να συνεχίσετε να χρησιμοποιείτε και να επεξεργάζεστε τους προεπιλεγμένους σταθμούς!";
+"UPSELL_BUY" = "Αγορά (%@)";
+"UPSELL_NOT_AVAILABLE" = "Μη Διαθέσιμη";
+"UPSELL_RESTORE" = "Επαναφορά Αγοράς";
+"UPSELL_NO_THANKS" = "Όχι Ευχαριστώ";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Νέα Συλλογή";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Νέος Σταθμός";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Προβολή Συλλογών";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Εμφάνιση Πλευρικής Μπάρας";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Εμφάνιση Προβολής";
+
+"IMAGE_WELL_REMOVE" = "Αφαίρεση";
+"IMAGE_WELL_PASTE" = "Επικόλληση";
+"IMAGE_WELL_COPY" = "Αντιγραφή";
+
+"CARPLAY_EMPTY_LIBRARY" = "Καμία Συλλογή";
+"CARPLAY_ALL_STATIONS" = "Όλοι οι Σταθμοί";
+
+"MAC_ADD_STATION_BUTTON" = "Προσθήκη Σταθμού";
+"MAC_EDIT_STATION_BUTTON" = "Επεξεργασία Σταθμού";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Προσθήκη Συλλογής";
+"MAC_EDIT_COLLECTION_BUTTON" = "Επεξεργασία Συλλογής";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Πλοηγητής Σταθμών";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Χώρες";
+"STATION_DIRECTORY_STATIONS" = "%@ Σταθμός";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Σταθμοί";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Χωρίς Σύνδεση";
+"STATION_DIRECTORY_CONNECTING" = "Φόρτωση…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Μη Αυτόματη Προσθήκη";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Τέλος";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Αναζήτηση Χωρών";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Αναζήτηση Σταθμών";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Μη Αυτόματη Προσθήκη";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Προσθήκη από Ευρετήριο";
+
+"LIBRARY_STATE_UPLOADING" = "Μεταφόρτωση…";
+"LIBRARY_STATE_DOWNLOADING" = "Λήψη…";
+"LIBRARY_STATE_PREPARING" = "Προετοιμασία…";
+"LIBRARY_STATE_READY" = "Ενημερωμένη";
+"LIBRARY_STATE_MIGRATING" = "Μεταφορά…";
+"LIBRARY_STATE_LOCALONLY" = "Τοπικά Μόνο";
+
+"TV_TAB_ALL_STATIONS" = "Όλοι οι Σταθμοί";
+"TV_TAB_RECENTS" = "Πρόσφατα Παιγμένο";
+"TV_TAB_COLLECTIONS" = "Συλλογές";
+
+"TV_NO_LIBRARY_MESSAGE" = "Ξεκινήστε τη βιβλιοθήκη σας στο Broadcasts από iPhone, iPad ή Mac και θα συγχρονιστεί και στο Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Παίζει Τώρα";
+"WATCH_SOURCE_RECENTS" = "Πρόσφατα";
+"WATCH_SOURCE_COLLECTIONS" = "Συλλογές";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Συγχρονισμός…";
+
+"ALERT_IMPORT" = "Εισαγωγή";
+"IMPORT_TITLE" = "Εισαγωγή \"%@\"?";
+"IMPORT_BODY" = "Αυτή η μοιρασμένη συλλογή περιέχει %ld σταθμούς.";
+
+"MOVE_DIALOG_TITLE" = "Μεταφορά \"%@\"";
+"MOVE_DIALOG_BODY" = "Επιλέξτε συλλογή για να μεταφέρετε αυτό το σταθμό.";
