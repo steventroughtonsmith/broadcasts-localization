@@ -1,0 +1,160 @@
+/*
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Odtwórz";
+"SHORTCUT_PAUSE" = "Pauza";
+
+"TOOLBAR_NOTHING_PLAYING" = "Brak Transmisji";
+"TOOLBAR_STREAMING_RADIO" = "Transmisja Radia";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Odtwórz/Pauza";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Odtwórz/Pauza";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Przełącz Wyciszenie";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Głośność";
+
+"SIDEBAR_TITLE_LIBRARY" = "Biblioteka";
+"SIDEBAR_TITLE_STATIONS" = "Kolekcje";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Wszystkie Stacje";
+"SIDEBAR_CATEGORY_RECENTS" = "Ostatnie";
+
+"LIST_HEADER_STATION" = "Stacja";
+
+"MENU_NEW" = "Nowa";
+"MENU_NEW_STATION" = "Stacja…";
+"MENU_NEW_GROUP" = "Kolekcja…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nowa Stacja";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nowa Kolekcja";
+
+"MENU_VIEW_AS_GRID" = "jako Siatke";
+"MENU_VIEW_AS_LIST" = "jako Listę";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Pokaż jako Siatkę";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Pokaż jako Listę";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Pokaż Pasek Boczny";
+"MENU_VIEW_HIDE_SIDEBAR" = "Ukryj Pasek Boczny";
+
+"MENU_HELP_GETSUPPORT" = "Wsparcie na Twitterze…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Pokaż Okno Powitalne";
+
+"PLAYBACK_ERROR_STALL" = "Połącznie ze stacją utracone.";
+
+"SEARCH_PLACEHOLDER" = "Szukaj";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Dodaj";
+"ALERT_CANCEL" = "Anuluj";
+"ALERT_DELETE" = "Usuń";
+
+"ADD_STATION_WINDOW_TITLE" = "Dodaj Nową Stację";
+"EDIT_STATION_WINDOW_TITLE" = "Edytuj Stację";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nazwa";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://ścieżka/stacji";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Wybierz Okładkę";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Dodaj Nową Kolekcję";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Edytuj Kolekcję";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Moja Kolekcja";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Edytuj";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Usuń Kolekcję";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Udostępnij";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Edytuj";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Usuń Stację";
+"STATION_CONTEXT_MOVE" = "Umieść w Kolekcji";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Usuń \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Czy na pewno chcesz usunąć tę kolekcję i wszystkie powiązane stacje?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Usuń \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Czy na pewno chcesz usunąć tę stację?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Brak Stacji";
+
+"WELCOME_COPY" = "Witamy w Broadcasts! Dodaliśmy już parę naszych Irlandzkich stacji radiowych, aby twoja biblioteka nie była pusta.\n\nJeżeli wolisz, możesz dodać ręcznie własne stacje lub wybrać którąś z tysiąca stacji w naszym katalogu.";
+
+"WELCOME_UPSELL" = "Witamy w Broadcasts! W tej darmowej wersji dodaliśmy już parę naszych Irlandzkich stacji radiowych, aby biblioteka nie była pusta.\n\nJeżeli przejdziesz do płatnej wersji, możliwe będzie dodanie ręcznie własnych stacji lub wybranie którejś z tysiąca stacji w naszym katalogu.";
+
+"WELCOME_ADD_PRESETS" = "Dodaj Stacje Początkowe";
+"WELCOME_NO_THANKS" = "Nie, dziękuję";
+
+"GENERATED_COLLECTION_TITLE" = "Moja Kolekcja";
+
+"UPSELL_COPY" = "Dzięki za korzystanie z Broadcasts!\n\nJeżeli chcesz, możesz odblokować zaawansowane funkcje zakupem w aplikacji.\n\nJeżeli wolisz, możesz po prostu edytować lub korzystać dalej ze stacji początkowych!";
+"UPSELL_BUY" = "Kup (%@)";
+"UPSELL_NOT_AVAILABLE" = "Zakup Nie Dostępny";
+"UPSELL_RESTORE" = "Odnów Zakup";
+"UPSELL_NO_THANKS" = "Nie, Dziękuję";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nowa Kolekcja";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Dodaj Stację";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Pokaż Kolekcje";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Przełącz Pasek Boczny";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Przełącz Widok";
+
+"IMAGE_WELL_REMOVE" = "Usuń";
+"IMAGE_WELL_PASTE" = "Wklej";
+"IMAGE_WELL_COPY" = "Kopiuj";
+
+"CARPLAY_EMPTY_LIBRARY" = "Brak Kolekcji";
+"CARPLAY_ALL_STATIONS" = "Wszystkie Stacje";
+
+"MAC_ADD_STATION_BUTTON" = "Dodaje Stację";
+"MAC_EDIT_STATION_BUTTON" = "Edytuj Stację";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Dodaj Kolekcję";
+"MAC_EDIT_COLLECTION_BUTTON" = "Edytuj Kolekcję";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Przeglądaj Stacje"
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Kraje";
+"STATION_DIRECTORY_STATIONS" = "Stacja %@";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "Stacje %@";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Brak Połączenia";
+"STATION_DIRECTORY_CONNECTING" = "Ładuję…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Dodaj Ręcznie";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Gotowe";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Szukaj Kraj";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Szukaj Stację";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Dodaj Ręcznie";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Dodaj z Katalogu";
+
+"LIBRARY_STATE_UPLOADING" = "Wysyłam…";
+"LIBRARY_STATE_DOWNLOADING" = "Pobieram…";
+"LIBRARY_STATE_PREPARING" = "Przygotowuję…";
+"LIBRARY_STATE_READY" = "Aktualny";
+"LIBRARY_STATE_MIGRATING" = "Migruję…";
+"LIBRARY_STATE_LOCALONLY" = "Tylko Lokalny";
+
+"TV_TAB_ALL_STATIONS" = "Wszystkie Stacje";
+"TV_TAB_RECENTS" = "Ostatnio Odtwarzane";
+"TV_TAB_COLLECTIONS" = "Kolekcje";
+
+"TV_NO_LIBRARY_MESSAGE" = "Biblioteka na Apple TV zsynchronizuje się po utworzeniu jej na iPhonie, iPadzie lub Macu";
+
+"WATCH_NOW_PLAYING_TITLE" = "Teraz Odtwarzane";
+"WATCH_SOURCE_RECENTS" = "Ostatnie";
+"WATCH_SOURCE_COLLECTIONS" = "Kolekcje";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronizuję…";
+
+"ALERT_IMPORT" = "Importuj";
+"IMPORT_TITLE" = "Importować \"%@\"?";
+"IMPORT_BODY" = "Ta udostępniana kolekcja zawiera %ld stacji.";
+
+"MOVE_DIALOG_TITLE" = "Przenieść \"%@\"";
+"MOVE_DIALOG_BODY" = "Wybierz kolekcję, do której chcesz przenieść tą stację.";
