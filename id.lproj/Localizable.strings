@@ -9,28 +9,28 @@
 "SHORTCUT_PLAY" = "Mainkan";
 "SHORTCUT_PAUSE" = "Jeda";
 
-"TOOLBAR_NOTHING_PLAYING" = "Nothing playing";
-"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+"TOOLBAR_NOTHING_PLAYING" = "Tidak memutar apapun";
+"TOOLBAR_STREAMING_RADIO" = "Aliran Radio";
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Mainkan/Jeda";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "Mainkan/Jeda";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Beralih Diam";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Beralih ke Diam";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
 
 "SIDEBAR_TITLE_LIBRARY" = "Pustaka";
 "SIDEBAR_TITLE_STATIONS" = "Koleksi";
 "SIDEBAR_TITLE_RADIO" = "Radio";
 
-"SIDEBAR_CATEGORY_ALL_STATIONS" = "Semua Stasiun";
-"SIDEBAR_CATEGORY_RECENTS" = "Baru saja dimainkan";
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Semua Siaran";
+"SIDEBAR_CATEGORY_RECENTS" = "Terakhir dimainkan";
 
-"LIST_HEADER_STATION" = "Stasiun";
+"LIST_HEADER_STATION" = "Siaran";
 
 "MENU_NEW" = "Baru";
-"MENU_NEW_STATION" = "Stasiun…";
+"MENU_NEW_STATION" = "Siaran…";
 "MENU_NEW_GROUP" = "Koleksi…";
 
-"DISCOVERABILITY_HUD_NEW_STATION" = "Stasiun Baru";
+"DISCOVERABILITY_HUD_NEW_STATION" = "Siaran Baru";
 "DISCOVERABILITY_HUD_NEW_GROUP" = "Koleksi Baru";
 
 "MENU_VIEW_AS_GRID" = "sebagai Kisi";
@@ -45,7 +45,7 @@
 "MENU_HELP_GETSUPPORT" = "Dapatkan dukungan melalui Twitter…";
 "MENU_HELP_SHOW_WELCOME_SCREEN" = "Tunjukkan Panel Selamat Datang";
 
-"PLAYBACK_ERROR_STALL" = "Koneksi ke stasiun telah hilang.";
+"PLAYBACK_ERROR_STALL" = "Koneksi ke Siaran telah hilang.";
 
 "SEARCH_PLACEHOLDER" = "Cari";
 
@@ -54,11 +54,11 @@
 "ALERT_CANCEL" = "Batal";
 "ALERT_DELETE" = "Hapus";
 
-"ADD_STATION_WINDOW_TITLE" = "Tambah Stasiun Baru";
-"EDIT_STATION_WINDOW_TITLE" = "Sunting Stasiun";
+"ADD_STATION_WINDOW_TITLE" = "Tambah Siaran Baru";
+"EDIT_STATION_WINDOW_TITLE" = "Sunting Siaran";
 
 "EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nama";
-"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://tautan/untuk/streaming";
 "EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Pilih Gambar";
 
 "ADD_COLLECTION_WINDOW_TITLE" = "Tambah Koleksi Baru";
@@ -68,37 +68,37 @@
 
 "SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Sunting";
 "SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Hapus Koleksi";
-"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Bagi";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Bagikan";
 
 "STATION_CONTEXT_EDIT_COLLECTION" = "Sunting";
-"STATION_CONTEXT_DELETE_COLLECTION" = "Hapus Stasiun";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Hapus Siaran";
 "STATION_CONTEXT_MOVE" = "Pindah ke Koleksi";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Hapus \"%@\"";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Anda yakin untuk menghapus koleksi ini dan semua stasiun di dalamnya?";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Anda yakin untuk menghapus Koleksi ini dan semua Siaran di dalamnya?";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Hapus \"%@\"";
-"CONTEXT_ALERT_DELETE_STATION_BODY" = "Anda yakin untuk menghapus stasiun ini?";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Anda yakin untuk menghapus Siaran ini?";
 
-"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Tidak ada Stasiun";
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Tidak ada Siaran";
 
-"WELCOME_COPY" = "Selamat datang di Broadcasts! Jika anda menginginkannya, kami telah menyediakan stasiun dari negara kami untuk mengisi pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk versi berbayar, anda bisa menambakan stasiun pilihan anda secara manualatau memilih dari ribuan stasiun di dalam Direktori.";
+"WELCOME_COPY" = "Selamat datang di Broadcasts! Jika anda menginginkannya, kami telah menyediakan Siaran dari negara kami sebagai pengisi awal pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk membeli, anda bisa menambakan Siaran pilihan anda secara manual, atau memilih dari ribuan Siaran di dalam Direktori.";
 
-"WELCOME_UPSELL" = "Selamat datang di Broadcasts! Di versi tidak berbayar ini, kami telah menyediakan stasiun dari negara kami untuk mengisi pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk versi berbayar, anda bisa menambakan stasiun pilihan anda secara manualatau memilih dari ribuan stasiun di dalam Direktori.";
+"WELCOME_UPSELL" = "Selamat datang di Broadcasts! Di versi tidak berbayar ini, kami telah menyediakan Siaran dari negara kami sebagai pengisi awal pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk membeli, anda bisa menambakan Siaran pilihan anda secara manual, atau memilih dari ribuan Siaran di dalam Direktori.";
 
-"WELCOME_ADD_PRESETS" = "Add Presets";
+"WELCOME_ADD_PRESETS" = "Tambahkan Preset";
 "WELCOME_NO_THANKS" = "Tidak, Terima kasih";
 
 "GENERATED_COLLECTION_TITLE" = "Koleksiku";
 
-"UPSELL_COPY" = "Terima kasih telah menggunakan Broadcasts!\n\nJika menginginkannya, anda bisa membuka fasilitas tambahan di Broadcasts dengan pembelian di dalam aplikasi.\n\nAtau, jika anda mau, anda bisa langsung menggunakan dan menyunting stasiun yang sudah ada!";
+"UPSELL_COPY" = "Terima kasih telah menggunakan Broadcasts!\n\nJika menginginkannya, anda bisa menambah fasilitas lanjutan di Broadcasts dengan melakukan pembelian di dalam aplikasi.\n\nAtau, anda bisa langsung menggunakan dan juga menyunting Siaran yang sudah ada!";
 "UPSELL_BUY" = "Pembelian (%@)";
 "UPSELL_NOT_AVAILABLE" = "Tidak Tersedia";
 "UPSELL_RESTORE" = "Pulihkan Pembelian";
 "UPSELL_NO_THANKS" = "Tidak, Terima kasih";
 
 "TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Koleksi Baru";
-"TOOLBAR_ADD_STATION_TOOLTIP" = "Tambah Stasiun";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Tambah Siaran";
 "TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Perlihatkan Koleksi";
 "TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Beralih ke Bilah Samping";
 "TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Beralih Tampilan";
@@ -108,18 +108,18 @@
 "IMAGE_WELL_COPY" = "Salin";
 
 "CARPLAY_EMPTY_LIBRARY" = "Tidak ada koleksi";
-"CARPLAY_ALL_STATIONS" = "Semua Stasiun";
+"CARPLAY_ALL_STATIONS" = "Semua Siaran";
 
-"MAC_ADD_STATION_BUTTON" = "Tambah Stasiun";
-"MAC_EDIT_STATION_BUTTON" = "Sunting Stasiun";
+"MAC_ADD_STATION_BUTTON" = "Tambah Siaran";
+"MAC_EDIT_STATION_BUTTON" = "Sunting Siaran";
 
 "MAC_ADD_COLLECTION_BUTTON" = "Tambah Koleksi";
 "MAC_EDIT_COLLECTION_BUTTON" = "Sunting Koleksi";
 
-"STATION_DIRECTORY_WINDOW_TITLE" = "Pencari Stasiun";
+"STATION_DIRECTORY_WINDOW_TITLE" = "Pencari Siaran";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Negara";
-"STATION_DIRECTORY_STATIONS" = "%@ Stasiun";
-"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Stasiun";
+"STATION_DIRECTORY_STATIONS" = "%@ Siaran";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Siaran";
 
 "STATION_DIRECTORY_NO_CONNECTION" = "Tidak ada koneksi";
 "STATION_DIRECTORY_CONNECTING" = "Memuat…";
@@ -128,7 +128,7 @@
 "STATION_DIRECTORY_TOOLBAR_DONE" = "Selesai";
 
 "STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Mencari Negara";
-"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Mencari Stasiun";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Mencari Siaran";
 
 "ADD_STATION_CONTEXT_ADD_STATION" = "Menambahkan manual";
 "ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Menambahkan dari Direktori";
@@ -138,13 +138,13 @@
 "LIBRARY_STATE_PREPARING" = "Mempersiapkan…";
 "LIBRARY_STATE_READY" = "Terkini";
 "LIBRARY_STATE_MIGRATING" = "Memindahkan…";
-"LIBRARY_STATE_LOCALONLY" = "Hanya Lokal";
+"LIBRARY_STATE_LOCALONLY" = "Hanya di dalam penyimpanan lokal";
 
-"TV_TAB_ALL_STATIONS" = "Semua Stasiun";
+"TV_TAB_ALL_STATIONS" = "Semua Siaran";
 "TV_TAB_RECENTS" = "Baru saja dimainkan";
 "TV_TAB_COLLECTIONS" = "Koleksi";
 
-"TV_NO_LIBRARY_MESSAGE" = "Mulai pustaka Broadcasts mu di iPhone, iPad atau Mac dan sinkronkan ke  Apple TV.";
+"TV_NO_LIBRARY_MESSAGE" = "Mulai pustaka Broadcasts-mu di iPhone, iPad atau Mac dan sinkronkan ke Apple TV.";
 
 "WATCH_NOW_PLAYING_TITLE" = "Sedang dimainkan";
 "WATCH_SOURCE_RECENTS" = "Baru saja";
@@ -154,7 +154,7 @@
 
 "ALERT_IMPORT" = "Impor";
 "IMPORT_TITLE" = "Impor \"%@\"?";
-"IMPORT_BODY" = "Koleksi bersama ini memiliki %ld stasiun.";
+"IMPORT_BODY" = "Koleksi bersama ini memiliki %ld Siaran.";
 
 "MOVE_DIALOG_TITLE" = "Pindah \"%@\"";
-"MOVE_DIALOG_BODY" = "Pilih koleksi untuk memindahkan stasiun ini ke.";
+"MOVE_DIALOG_BODY" = "Pilih koleksi untuk memindahkan Siaran ini ke.";
