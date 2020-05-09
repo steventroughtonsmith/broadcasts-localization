@@ -1,0 +1,160 @@
+/*
+  Localizable.strings
+  MobileRadio
+
+  Created by Andrei Vidrasco on 10/05/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Play";
+"SHORTCUT_PAUSE" = "Pause";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nothing playing";
+"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Play/Pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Play/Pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Toggle Mute";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
+
+"SIDEBAR_TITLE_LIBRARY" = "Library";
+"SIDEBAR_TITLE_STATIONS" = "Collections";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "All Stations";
+"SIDEBAR_CATEGORY_RECENTS" = "Recents";
+
+"LIST_HEADER_STATION" = "Station";
+
+"MENU_NEW" = "New";
+"MENU_NEW_STATION" = "Station…";
+"MENU_NEW_GROUP" = "Collection…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "New Station";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "New Collection";
+
+"MENU_VIEW_AS_GRID" = "as Grid";
+"MENU_VIEW_AS_LIST" = "as List";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "View As Grid";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "View As List";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Show Sidebar";
+"MENU_VIEW_HIDE_SIDEBAR" = "Hide Sidebar";
+
+"MENU_HELP_GETSUPPORT" = "Get Support on Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Show Welcome Panel";
+
+"PLAYBACK_ERROR_STALL" = "Connection to station has been lost.";
+
+"SEARCH_PLACEHOLDER" = "Search";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Add";
+"ALERT_CANCEL" = "Cancel";
+"ALERT_DELETE" = "Delete";
+
+"ADD_STATION_WINDOW_TITLE" = "Add New Station";
+"EDIT_STATION_WINDOW_TITLE" = "Edit Station";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Name";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Select Image";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Add New Collection";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Edit Collection";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "My Collection";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Edit";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Delete Collection";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Share";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Edit";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Delete Station";
+"STATION_CONTEXT_MOVE" = "Move to Collection";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Delete \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Are you sure you want to delete this collection and all of the stations in it?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Delete \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Are you sure you want to delete this station?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "No Stations";
+
+"WELCOME_COPY" = "Welcome to Broadcasts! If you'd like, we have some preset stations from our home that we can start your library with.\n\nOr, if you prefer, add your own stations manually or choose from thousands in the Directory.";
+
+"WELCOME_UPSELL" = "Welcome to Broadcasts! In this free version, we have some preset stations from our home that we can start your library with.\n\nOr, if you prefer to upgrade to the paid version, you can add your own stations manually or choose from thousands in the Directory.";
+
+"WELCOME_ADD_PRESETS" = "Add Presets";
+"WELCOME_NO_THANKS" = "No Thanks";
+
+"GENERATED_COLLECTION_TITLE" = "My Collection";
+
+"UPSELL_COPY" = "Thanks for using Broadcasts!\n\nYou can unlock the advanced features of Broadcasts with an in-app purchase, if you'd like.\n\nOr, if you prefer, continue to use and edit the preset stations!";
+"UPSELL_BUY" = "Purchase (%@)";
+"UPSELL_NOT_AVAILABLE" = "Not Available";
+"UPSELL_RESTORE" = "Restore Purchase";
+"UPSELL_NO_THANKS" = "No Thanks";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "New Collection";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Add Station";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Show Collections";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Toggle Sidebar";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Toggle View";
+
+"IMAGE_WELL_REMOVE" = "Remove";
+"IMAGE_WELL_PASTE" = "Paste";
+"IMAGE_WELL_COPY" = "Copy";
+
+"CARPLAY_EMPTY_LIBRARY" = "No Collections";
+"CARPLAY_ALL_STATIONS" = "All Stations";
+
+"MAC_ADD_STATION_BUTTON" = "Add Station";
+"MAC_EDIT_STATION_BUTTON" = "Edit Station";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Add Collection";
+"MAC_EDIT_COLLECTION_BUTTON" = "Edit Collection";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Station Browser";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Countries";
+"STATION_DIRECTORY_STATIONS" = "%@ Station";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Stations";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "No Connection";
+"STATION_DIRECTORY_CONNECTING" = "Loading…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Add Manually";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Done";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Search Countries";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Search Stations";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Add Manually";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Add From Directory";
+
+"LIBRARY_STATE_UPLOADING" = "Uploading…";
+"LIBRARY_STATE_DOWNLOADING" = "Downloading…";
+"LIBRARY_STATE_PREPARING" = "Preparing…";
+"LIBRARY_STATE_READY" = "Up to Date";
+"LIBRARY_STATE_MIGRATING" = "Migrating…";
+"LIBRARY_STATE_LOCALONLY" = "Local Only";
+
+"TV_TAB_ALL_STATIONS" = "All Stations";
+"TV_TAB_RECENTS" = "Recently Played";
+"TV_TAB_COLLECTIONS" = "Collections";
+
+"TV_NO_LIBRARY_MESSAGE" = "Start your Broadcasts library on iPhone, iPad or Mac and it will sync to Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Now Playing";
+"WATCH_SOURCE_RECENTS" = "Recents";
+"WATCH_SOURCE_COLLECTIONS" = "Collections";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Syncing…";
+
+"ALERT_IMPORT" = "Import";
+"IMPORT_TITLE" = "Import \"%@\"?";
+"IMPORT_BODY" = "This shared collection contains %ld stations.";
+
+"MOVE_DIALOG_TITLE" = "Move \"%@\"";
+"MOVE_DIALOG_BODY" = "Choose a collection to move this station to.";
