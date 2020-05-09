@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Reproduir";
+"SHORTCUT_PAUSE" = "Pausa";
+
+"TOOLBAR_NOTHING_PLAYING" = "Res en reproducció";
+"TOOLBAR_STREAMING_RADIO" = "Ràdio en Streaming";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Reproduir/Pausa";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Reproduir/Pausa";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Silenci";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volum";
+
+"SIDEBAR_TITLE_LIBRARY" = "Biblioteca";
+"SIDEBAR_TITLE_STATIONS" = "Col·leccions";
+"SIDEBAR_TITLE_RADIO" = "Ràdio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Totes les emissores";
+"SIDEBAR_CATEGORY_RECENTS" = "Recents";
+
+"LIST_HEADER_STATION" = "Emissora";
+
+"MENU_NEW" = "Nou";
+"MENU_NEW_STATION" = "Emissora…";
+"MENU_NEW_GROUP" = "Col·lecció…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nova emissora";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nova col·lecció";
+
+"MENU_VIEW_AS_GRID" = "com quadrícula";
+"MENU_VIEW_AS_LIST" = "com llista";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Veure com quadrícula";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Veure com a llista";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Mostra la barra lateral";
+"MENU_VIEW_HIDE_SIDEBAR" = "Oculta la barra lateral";
+
+"MENU_HELP_GETSUPPORT" = "Obtenir suport via Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Mostra panell de benvinguda";
+
+"PLAYBACK_ERROR_STALL" = "S'ha perdut la connexió a l'emissora.";
+
+"SEARCH_PLACEHOLDER" = "Cercar";
+
+"ALERT_OK" = "Acceptar";
+"ALERT_ADD" = "Afegir";
+"ALERT_CANCEL" = "Cancel";
+"ALERT_DELETE" = "eliminar";
+
+"ADD_STATION_WINDOW_TITLE" = "Afegir nova emissora";
+"EDIT_STATION_WINDOW_TITLE" = "Edita emissora";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nom";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://ruta/a/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Seleccionar imatge";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Afegir nova col·lecció";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Edita col·lecció";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "La meva col·lecció";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Edita";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Eliminar col·lecció";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Compartir";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Edita";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Eliminar emissora";
+"STATION_CONTEXT_MOVE" = "Mou a la col·lecció";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Eliminar \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Esteu segur que voleu eliminar aquesta col·lecció i totes les emissores que conté?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Eliminar \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "¿Segur que vols eliminar aquesta emissora?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Sense emissores";
+
+"WELCOME_COPY" = "Benvingut a Broadcasts! Si ho desitja, tenim algunes emissores predefinides del nostre país amb les que podem estrenar la seva biblioteca.\n\nO, si ho prefereix, afegiu les seves pròpies emissores manualment o triï entre milers en el directori.";
+
+"WELCOME_UPSELL" = "Benvingut a Broadcasts! En aquesta versió gratuïta, tenim algunes emissores predefinides del nostre país amb les que podem estrenar la seva biblioteca.\n\nO, si prefereix actualitzar a la versió de pagament, pot afegir les seves pròpies emissores manualment o triar entre milers en el directori.";
+
+"WELCOME_ADD_PRESETS" = "Afegir emissores predefinides";
+"WELCOME_NO_THANKS" = "No, gràcies";
+
+"GENERATED_COLLECTION_TITLE" = "La meva col·lecció";
+
+"UPSELL_COPY" = "Gràcies per utilitzar Broadcasts!\n\nPodeu desbloquejar les funcions avançades de Broadcasts amb una compra a l'aplicació, si ho desitja.\n\nO, si ho prefereix, continuï fent servir i editant les emissores predefinides.";
+"UPSELL_BUY" = "Compra (%@)";
+"UPSELL_NOT_AVAILABLE" = "No disponible";
+"UPSELL_RESTORE" = "Restaurar compra";
+"UPSELL_NO_THANKS" = "No, gràcies";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nova col·lecció";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Afegir emissora";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Mostra col·leccions";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Mostra/oculta barra lateral";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Mostra/oculta vista";
+
+"IMAGE_WELL_REMOVE" = "Eliminar";
+"IMAGE_WELL_PASTE" = "Enganxa";
+"IMAGE_WELL_COPY" = "Copiar";
+
+"CARPLAY_EMPTY_LIBRARY" = "Sense col·leccions";
+"CARPLAY_ALL_STATIONS" = "Totes les emissores";
+
+"MAC_ADD_STATION_BUTTON" = "Afegir emissora";
+"MAC_EDIT_STATION_BUTTON" = "Edita emissora";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Afegir col·lecció";
+"MAC_EDIT_COLLECTION_BUTTON" = "Edita col·lecció";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Navegació per les emissores";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Països";
+"STATION_DIRECTORY_STATIONS" = "%@ emissora";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ emissores";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Sense connexió";
+"STATION_DIRECTORY_CONNECTING" = "Carregant…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Afegir manualment";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Fet";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Cercar països";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Cercar emissores";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Afegir manualment";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Afegir des del directori";
+
+"LIBRARY_STATE_UPLOADING" = "Pujant…";
+"LIBRARY_STATE_DOWNLOADING" = "Baixant…";
+"LIBRARY_STATE_PREPARING" = "Preparant…";
+"LIBRARY_STATE_READY" = "Actualitzat";
+"LIBRARY_STATE_MIGRATING" = "Migrant…";
+"LIBRARY_STATE_LOCALONLY" = "Només locals";
+
+"TV_TAB_ALL_STATIONS" = "Totes les emissores";
+"TV_TAB_RECENTS" = "Recentment reproduït";
+"TV_TAB_COLLECTIONS" = "Col·leccions";
+
+"TV_NO_LIBRARY_MESSAGE" = "Inicieu la vostra biblioteca de Broadcasts en iPhone, iPad o Mac i es sincronitzarà amb Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "En reproducció";
+"WATCH_SOURCE_RECENTS" = "Recents";
+"WATCH_SOURCE_COLLECTIONS" = "Col·leccions";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sincronitzant…";
+
+"ALERT_IMPORT" = "Importa";
+"IMPORT_TITLE" = "¿Importa \"%@\"?";
+"IMPORT_BODY" = "Aquesta col·lecció compartida conté% ld emissores.";
+
+"MOVE_DIALOG_TITLE" = "Moure \"%@\"";
+"MOVE_DIALOG_BODY" = "Trieu una col·lecció a on moure aquesta emissora.";
