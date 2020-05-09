@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Mainkan";
+"SHORTCUT_PAUSE" = "Jeda";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nothing playing";
+"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Mainkan/Jeda";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Mainkan/Jeda";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Beralih Diam";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
+
+"SIDEBAR_TITLE_LIBRARY" = "Pustaka";
+"SIDEBAR_TITLE_STATIONS" = "Koleksi";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Semua Stasiun";
+"SIDEBAR_CATEGORY_RECENTS" = "Baru saja dimainkan";
+
+"LIST_HEADER_STATION" = "Stasiun";
+
+"MENU_NEW" = "Baru";
+"MENU_NEW_STATION" = "Stasiun…";
+"MENU_NEW_GROUP" = "Koleksi…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Stasiun Baru";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Koleksi Baru";
+
+"MENU_VIEW_AS_GRID" = "sebagai Kisi";
+"MENU_VIEW_AS_LIST" = "sebagai Daftar";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Tunjukkan sebagai Kisi";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Tunjukkan sebagai Daftar";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Tunjukkan Bilah Samping";
+"MENU_VIEW_HIDE_SIDEBAR" = "Sembunyikan Bilah Samping";
+
+"MENU_HELP_GETSUPPORT" = "Dapatkan dukungan melalui Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Tunjukkan Panel Selamat Datang";
+
+"PLAYBACK_ERROR_STALL" = "Koneksi ke stasiun telah hilang.";
+
+"SEARCH_PLACEHOLDER" = "Cari";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Tambah";
+"ALERT_CANCEL" = "Batal";
+"ALERT_DELETE" = "Hapus";
+
+"ADD_STATION_WINDOW_TITLE" = "Tambah Stasiun Baru";
+"EDIT_STATION_WINDOW_TITLE" = "Sunting Stasiun";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nama";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Pilih Gambar";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Tambah Koleksi Baru";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Sunting Koleksi";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Koleksiku";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Sunting";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Hapus Koleksi";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Bagi";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Sunting";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Hapus Stasiun";
+"STATION_CONTEXT_MOVE" = "Pindah ke Koleksi";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Hapus \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Anda yakin untuk menghapus koleksi ini dan semua stasiun di dalamnya?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Hapus \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Anda yakin untuk menghapus stasiun ini?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Tidak ada Stasiun";
+
+"WELCOME_COPY" = "Selamat datang di Broadcasts! Jika anda menginginkannya, kami telah menyediakan stasiun dari negara kami untuk mengisi pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk versi berbayar, anda bisa menambakan stasiun pilihan anda secara manualatau memilih dari ribuan stasiun di dalam Direktori.";
+
+"WELCOME_UPSELL" = "Selamat datang di Broadcasts! Di versi tidak berbayar ini, kami telah menyediakan stasiun dari negara kami untuk mengisi pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk versi berbayar, anda bisa menambakan stasiun pilihan anda secara manualatau memilih dari ribuan stasiun di dalam Direktori.";
+
+"WELCOME_ADD_PRESETS" = "Add Presets";
+"WELCOME_NO_THANKS" = "Tidak, Terima kasih";
+
+"GENERATED_COLLECTION_TITLE" = "Koleksiku";
+
+"UPSELL_COPY" = "Terima kasih telah menggunakan Broadcasts!\n\nJika menginginkannya, anda bisa membuka fasilitas tambahan di Broadcasts dengan pembelian di dalam aplikasi.\n\nAtau, jika anda mau, anda bisa langsung menggunakan dan menyunting stasiun yang sudah ada!";
+"UPSELL_BUY" = "Pembelian (%@)";
+"UPSELL_NOT_AVAILABLE" = "Tidak Tersedia";
+"UPSELL_RESTORE" = "Pulihkan Pembelian";
+"UPSELL_NO_THANKS" = "Tidak, Terima kasih";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Koleksi Baru";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Tambah Stasiun";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Perlihatkan Koleksi";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Beralih ke Bilah Samping";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Beralih Tampilan";
+
+"IMAGE_WELL_REMOVE" = "Hapus";
+"IMAGE_WELL_PASTE" = "Tempel";
+"IMAGE_WELL_COPY" = "Salin";
+
+"CARPLAY_EMPTY_LIBRARY" = "Tidak ada koleksi";
+"CARPLAY_ALL_STATIONS" = "Semua Stasiun";
+
+"MAC_ADD_STATION_BUTTON" = "Tambah Stasiun";
+"MAC_EDIT_STATION_BUTTON" = "Sunting Stasiun";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Tambah Koleksi";
+"MAC_EDIT_COLLECTION_BUTTON" = "Sunting Koleksi";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Pencari Stasiun";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Negara";
+"STATION_DIRECTORY_STATIONS" = "%@ Stasiun";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Stasiun";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Tidak ada koneksi";
+"STATION_DIRECTORY_CONNECTING" = "Memuat…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Menambahkan Manual";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Selesai";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Mencari Negara";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Mencari Stasiun";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Menambahkan manual";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Menambahkan dari Direktori";
+
+"LIBRARY_STATE_UPLOADING" = "Mengunggah…";
+"LIBRARY_STATE_DOWNLOADING" = "Mengunduh…";
+"LIBRARY_STATE_PREPARING" = "Mempersiapkan…";
+"LIBRARY_STATE_READY" = "Terkini";
+"LIBRARY_STATE_MIGRATING" = "Memindahkan…";
+"LIBRARY_STATE_LOCALONLY" = "Hanya Lokal";
+
+"TV_TAB_ALL_STATIONS" = "Semua Stasiun";
+"TV_TAB_RECENTS" = "Baru saja dimainkan";
+"TV_TAB_COLLECTIONS" = "Koleksi";
+
+"TV_NO_LIBRARY_MESSAGE" = "Mulai pustaka Broadcasts mu di iPhone, iPad atau Mac dan sinkronkan ke  Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Sedang dimainkan";
+"WATCH_SOURCE_RECENTS" = "Baru saja";
+"WATCH_SOURCE_COLLECTIONS" = "Koleksi";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sinkronisasi…";
+
+"ALERT_IMPORT" = "Impor";
+"IMPORT_TITLE" = "Impor \"%@\"?";
+"IMPORT_BODY" = "Koleksi bersama ini memiliki %ld stasiun.";
+
+"MOVE_DIALOG_TITLE" = "Pindah \"%@\"";
+"MOVE_DIALOG_BODY" = "Pilih koleksi untuk memindahkan stasiun ini ke.";
