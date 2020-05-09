@@ -1,0 +1,161 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Christoffer Tønnessen on 2020-05-09.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Spill av";
+"SHORTCUT_PAUSE" = "Pause";
+
+"TOOLBAR_NOTHING_PLAYING" = "Ingenting spilles";
+"TOOLBAR_STREAMING_RADIO" = "Internettradio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Spill av/Pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Spill av/Pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Lydløs";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volum";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliotek";
+"SIDEBAR_TITLE_STATIONS" = "Samling";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Alle stasjoner";
+"SIDEBAR_CATEGORY_RECENTS" = "Nylig avspilte";
+
+"LIST_HEADER_STATION" = "Stasjon";
+
+"MENU_NEW" = "Ny";
+"MENU_NEW_STATION" = "Stasjon…";
+"MENU_NEW_GROUP" = "Samling…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Ny stasjon";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Ny samling";
+
+"MENU_VIEW_AS_GRID" = "som rutenett";
+"MENU_VIEW_AS_LIST" = "som liste";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Se som rutenett";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Se som liste";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Vis sidemeny";
+"MENU_VIEW_HIDE_SIDEBAR" = "Gjem sidemeny";
+
+"MENU_HELP_GETSUPPORT" = "Få hjelp på Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Vis velkomstskjerm";
+
+"PLAYBACK_ERROR_STALL" = "Kobling til stasjonen er brutt.";
+
+"SEARCH_PLACEHOLDER" = "Søk";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Legg til";
+"ALERT_CANCEL" = "Avbryt";
+"ALERT_DELETE" = "Slett";
+
+"ADD_STATION_WINDOW_TITLE" = "Legg til ny stasjon";
+"EDIT_STATION_WINDOW_TITLE" = "Rediger stasjon";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Navn";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://adresse/til/stasjonen";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Velg bilde";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Legg til ny samling";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Rediger samling";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Min samling";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Rediger";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Slett samling";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Del";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Rediger";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Slett stasjon";
+"STATION_CONTEXT_MOVE" = "Flytt til min samling";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Slett \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Er du sikker på at du vil slette denne samlingen og alle stasjonene i den?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Slett \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Er du sikker på at du vil slette denne stasjonen?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Ingen stasjoner";
+
+"WELCOME_COPY" = "Velkommen til Broadcasts! Vi har noen forhåndsvalgte stasjoner fra vårt hjem du kan legge til om du ønsker.\n\nDu kan også legge til dine egne stasjoner og velge fra vår katalog med tusner av stasjoner.";
+
+"WELCOME_UPSELL" = "Velkommen til Broadcasts! I denne gratisversjonen har vi noen forhåndsvalgte stasjoner fra vårt hjem.\n\nHvis du ønsker å oppgradere til vår betalingsversjon kan du legge til dine egne stasjoner, eller velge fra vår katalog med tusner av stasjoner.";
+
+"WELCOME_ADD_PRESETS" = "Legg til forhåndsvalgte";
+"WELCOME_NO_THANKS" = "Nei takk";
+
+"GENERATED_COLLECTION_TITLE" = "Min samling";
+
+"UPSELL_COPY" = "Takk for at du bruker Broadcasts!\n\nDu kan låse opp ny funksjonalitet med kjøp i app, hvis du ønsker dette.\n\nØnsker du ikke kan du fortsette å bruke appen og redigere de ferdigutvalte stasjonene!";
+
+"UPSELL_BUY" = "Kjøp (%@)";
+"UPSELL_NOT_AVAILABLE" = "Ikke tilgjengelig";
+"UPSELL_RESTORE" = "Gjennopprett kjøp";
+"UPSELL_NO_THANKS" = "Nei takk";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Ny samling";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Legg til stasjon";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Vis samlinger";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Vis/skjul sidemenu";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Vis/skjul";
+
+"IMAGE_WELL_REMOVE" = "Fjern";
+"IMAGE_WELL_PASTE" = "Lim inn";
+"IMAGE_WELL_COPY" = "Kopier";
+
+"CARPLAY_EMPTY_LIBRARY" = "Ingen samlinger";
+"CARPLAY_ALL_STATIONS" = "Alle stasjoner";
+
+"MAC_ADD_STATION_BUTTON" = "Legg til stasjon";
+"MAC_EDIT_STATION_BUTTON" = "Rediger stasjon";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Legg til samling";
+"MAC_EDIT_COLLECTION_BUTTON" = "Rediger samling";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Stasjonsutforsker";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Land";
+"STATION_DIRECTORY_STATIONS" = "%@stasjon";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@stasjoner";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Ingen tilkobling";
+"STATION_DIRECTORY_CONNECTING" = "Laster…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Legg til manuelt";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Ferdig";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Søk i land";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Søk i stasjoner";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Legg til manuelt";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Legg til fra katalog";
+
+"LIBRARY_STATE_UPLOADING" = "Laster opp…";
+"LIBRARY_STATE_DOWNLOADING" = "Laster ned…";
+"LIBRARY_STATE_PREPARING" = "Forbereder…";
+"LIBRARY_STATE_READY" = "Oppdatert";
+"LIBRARY_STATE_MIGRATING" = "Migrerer…";
+"LIBRARY_STATE_LOCALONLY" = "Kun lokalt";
+
+"TV_TAB_ALL_STATIONS" = "Alle stasjoner";
+"TV_TAB_RECENTS" = "Nylig avspilt";
+"TV_TAB_COLLECTIONS" = "Samlinger";
+
+"TV_NO_LIBRARY_MESSAGE" = "Start Broadcasts-biblioteket ditt på iPhone, iPad eller Mac og det vil synkronisere til Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Spilles nå";
+"WATCH_SOURCE_RECENTS" = "Nylige";
+"WATCH_SOURCE_COLLECTIONS" = "Samlinger";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synkroniserer…";
+
+"ALERT_IMPORT" = "Importer";
+"IMPORT_TITLE" = "Importere \"%@\"?";
+"IMPORT_BODY" = "Denne delte samlinger inneholder %ld stasjoner.";
+
+"MOVE_DIALOG_TITLE" = "Flytt \"%@\"";
+"MOVE_DIALOG_BODY" = "Velg en samling denne stasjonen skal flyttes til.";
