@@ -82,16 +82,16 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Sem estações";
 
-"WELCOME_COPY" = "Bem-vindo ao Broadcasts! Se você quiser, temos algumas estações predefinidas para que você comece a sua biblioteca.\n\nOr, se você preferir, pode adicionar as suas próprias estações manualmente ou procurar no diretório.";
+"WELCOME_COPY" = "Bem-vindo ao Broadcasts! Se você quiser, temos algumas estações predefinidas para que você comece a sua biblioteca.\n\nOu, se você preferir, pode adicionar as suas próprias estações manualmente ou procurar no diretório.";
 
-"WELCOME_UPSELL" = "Bem-vindo ao Broadcasts! Nesta versão gratuita, nós temos algumas estações predefinidas para você começar a sua biblioteca.\n\nOr, se você preferir ir para a versão paga, você poderá adicionar as suas próprias estações manualmente ou procurar no diretório.";
+"WELCOME_UPSELL" = "Bem-vindo ao Broadcasts! Nesta versão gratuita, nós temos algumas estações predefinidas para você começar a sua biblioteca.\n\nOu, se você preferir ir para a versão paga, você poderá adicionar as suas próprias estações manualmente ou procurar no diretório.";
 
 "WELCOME_ADD_PRESETS" = "Adicionar estações predefinidas";
 "WELCOME_NO_THANKS" = "Não, obrigado";
 
 "GENERATED_COLLECTION_TITLE" = "Minha coleção";
 
-"UPSELL_COPY" = "Obrigado por usar o Broadcasts!\n\n Você pode desbloquear as funcionalidades avançadas com uma compra interna, se você quiser.\n\nOr, se você preferir, pode continuar a usar e editar as estações predefinidas!";
+"UPSELL_COPY" = "Obrigado por usar o Broadcasts!\n\n Você pode desbloquear as funcionalidades avançadas com uma compra interna, se você quiser.\n\nOu, se você preferir, pode continuar a usar e editar as estações predefinidas!";
 "UPSELL_BUY" = "Comprar (%@)";
 "UPSELL_NOT_AVAILABLE" = "Indísponivel";
 "UPSELL_RESTORE" = "Restaurar compra";
