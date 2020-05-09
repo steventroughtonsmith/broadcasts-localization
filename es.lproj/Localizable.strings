@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Reproducir";
+"SHORTCUT_PAUSE" = "Pausa";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nada en reproducción";
+"TOOLBAR_STREAMING_RADIO" = "Radio en Streaming";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Reproducir/Pausa";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Reproducir/Pausa";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Silenciar";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volumen";
+
+"SIDEBAR_TITLE_LIBRARY" = "Biblioteca";
+"SIDEBAR_TITLE_STATIONS" = "Colecciones";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Todas las emisoras";
+"SIDEBAR_CATEGORY_RECENTS" = "Recientes";
+
+"LIST_HEADER_STATION" = "Emisora";
+
+"MENU_NEW" = "Nuevo";
+"MENU_NEW_STATION" = "Emisora…";
+"MENU_NEW_GROUP" = "Colección…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nueva emisora";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nueva colección";
+
+"MENU_VIEW_AS_GRID" = "como cuadrícula";
+"MENU_VIEW_AS_LIST" = "como lista";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Ver como cuadrícula";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Ver como lista";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Mostrar barra lateral";
+"MENU_VIEW_HIDE_SIDEBAR" = "Ocultar barra lateral";
+
+"MENU_HELP_GETSUPPORT" = "Obtener soporte vía Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Mostrar panel de bienvenida";
+
+"PLAYBACK_ERROR_STALL" = "Se ha perdido la conexión a la emisora.";
+
+"SEARCH_PLACEHOLDER" = "Buscar";
+
+"ALERT_OK" = "Aceptar";
+"ALERT_ADD" = "Añadir";
+"ALERT_CANCEL" = "Cancelar";
+"ALERT_DELETE" = "Eliminar";
+
+"ADD_STATION_WINDOW_TITLE" = "Agregar nueva emisora";
+"EDIT_STATION_WINDOW_TITLE" = "Editar emisora";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nombre";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://ruta/a/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Seleccionar imagen";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Agregar nueva colección";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Editar colección";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Mi colección";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Editar";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Eliminar colección";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Compartir";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Editar";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Eliminar emisora";
+"STATION_CONTEXT_MOVE" = "Mover a la colección";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Eliminar \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "¿Está seguro de que desea eliminar esta colección y todas las emisoras que contiene?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Eliminar \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "¿Seguro que quieres eliminar esta emisora?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Sin emisoras";
+
+"WELCOME_COPY" = "¡Bienvenido a Broadcasts! Si lo desea, tenemos algunas emisoras predefinidas de nuestro país con las que podemos estrenar su biblioteca. \n\nO, si lo prefiere, agregue sus propias emisoras manualmente o elija entre miles en el directorio.";
+
+"WELCOME_UPSELL" = "¡Bienvenido a Broadcasts! En esta versión gratuita, tenemos algunas emisoras predefinidas de nuestro país con las que podemos estrenar su biblioteca. \n\nO, si prefiere actualizar a la versión de pago, puede agregar sus propias emisoras manualmente o elegir entre miles en el directorio.";
+
+"WELCOME_ADD_PRESETS" = "Agregar emisoras predefinidas";
+"WELCOME_NO_THANKS" = "No, gracias";
+
+"GENERATED_COLLECTION_TITLE" = "Mi colección";
+
+"UPSELL_COPY" = "¡Gracias por usar Broadcasts!\n\nPuede desbloquear las funciones avanzadas de Broadcasts con una compra en la aplicación, si lo desea.\n\nO, si lo prefiere, continúe usando y editando las emisoras predefinidas.";
+"UPSELL_BUY" = "Compra (%@)";
+"UPSELL_NOT_AVAILABLE" = "No disponible";
+"UPSELL_RESTORE" = "Restaurar compra";
+"UPSELL_NO_THANKS" = "No, gracias";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nueva colección";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Agregar emisora";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Mostrar colecciones";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Mostrar/ocultar barra lateral";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Mostrar/ocultar vista";
+
+"IMAGE_WELL_REMOVE" = "Eliminar";
+"IMAGE_WELL_PASTE" = "Pegar";
+"IMAGE_WELL_COPY" = "Copiar";
+
+"CARPLAY_EMPTY_LIBRARY" = "No colecciones";
+"CARPLAY_ALL_STATIONS" = "Todas las emisoras";
+
+"MAC_ADD_STATION_BUTTON" = "Agregar emisora";
+"MAC_EDIT_STATION_BUTTON" = "Editar emisora";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Agregar colección";
+"MAC_EDIT_COLLECTION_BUTTON" = "Editar colección";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Navegador de emisoras";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Países";
+"STATION_DIRECTORY_STATIONS" = "%@ emisora";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "% @ emisoras";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Sin conexión";
+"STATION_DIRECTORY_CONNECTING" = "Cargando…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Agregar manualmente";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Hecho";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Buscar países";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Buscar emisoras";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Agregar manualmente";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Agregar desde el directorio";
+
+"LIBRARY_STATE_UPLOADING" = "Subiendo…";
+"LIBRARY_STATE_DOWNLOADING" = "Descargando…";
+"LIBRARY_STATE_PREPARING" = "Preparando…";
+"LIBRARY_STATE_READY" = "Actualizado";
+"LIBRARY_STATE_MIGRATING" = "Migrando…";
+"LIBRARY_STATE_LOCALONLY" = "Solo locales";
+
+"TV_TAB_ALL_STATIONS" = "Todas las emisoras";
+"TV_TAB_RECENTS" = "Recientemente reproducido";
+"TV_TAB_COLLECTIONS" = "Colecciones";
+
+"TV_NO_LIBRARY_MESSAGE" = "Inicie su biblioteca de Broadcasts en iPhone, iPad o Mac y se sincronizará con Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Reproduciendo";
+"WATCH_SOURCE_RECENTS" = "Recientes";
+"WATCH_SOURCE_COLLECTIONS" = "Colecciones";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sincronizando…";
+
+"ALERT_IMPORT" = "Importar";
+"IMPORT_TITLE" = "¿Importar \"%@\"?";
+"IMPORT_BODY" = "Esta colección compartida contiene% ld emisoras.";
+
+"MOVE_DIALOG_TITLE" = "Mover \"%@\"";
+"MOVE_DIALOG_BODY" = "Elija una colección a donde mover esta emisora.";
