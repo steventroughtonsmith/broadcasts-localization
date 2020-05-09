@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Andrii K. on 05/09/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Грати";
+"SHORTCUT_PAUSE" = "Пауза";
+
+"TOOLBAR_NOTHING_PLAYING" = "Нічого не грає";
+"TOOLBAR_STREAMING_RADIO" = "Програю Радіо";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Грати/Пауза";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Грати/Пауза";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Перемикач Без звуку";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Гучність";
+
+"SIDEBAR_TITLE_LIBRARY" = "Бібліотека";
+"SIDEBAR_TITLE_STATIONS" = "Колекції";
+"SIDEBAR_TITLE_RADIO" = "Радіо";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Всі станції";
+"SIDEBAR_CATEGORY_RECENTS" = "Нещодавні";
+
+"LIST_HEADER_STATION" = "Станція";
+
+"MENU_NEW" = "Нове";
+"MENU_NEW_STATION" = "Станція…";
+"MENU_NEW_GROUP" = "Колекція…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Нова Станція";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Нова Колекція";
+
+"MENU_VIEW_AS_GRID" = "Сітка";
+"MENU_VIEW_AS_LIST" = "Список";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Показати Сіткою";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Показати Списком";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Показати бічну панель";
+"MENU_VIEW_HIDE_SIDEBAR" = "Сховати бічну панель";
+
+"MENU_HELP_GETSUPPORT" = "Отримати допомогу в Твітері…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Показати панель привітання";
+
+"PLAYBACK_ERROR_STALL" = "Немає звязку зі станцією.";
+
+"SEARCH_PLACEHOLDER" = "Пошук";
+
+"ALERT_OK" = "Гаразд";
+"ALERT_ADD" = "Додати";
+"ALERT_CANCEL" = "Скасувати";
+"ALERT_DELETE" = "Видалити";
+
+"ADD_STATION_WINDOW_TITLE" = "Додати нову Станцію";
+"EDIT_STATION_WINDOW_TITLE" = "Редагувати Станцію";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Назва";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://шлях/до/станції";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Виберіть Зображення";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Додати Нову Колекцію";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Редагувати Колекцію";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Моя Колекція";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Редагувати";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Видалити Колекцію";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Поширити";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Редагувати";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Видалити Станцію";
+"STATION_CONTEXT_MOVE" = "Перенести до Колекції";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Видалити \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Ви впевнені що хочете видалити цю колекцію і всі її станції?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Видалити \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Ви впевнені що хочете видалити цю станцію?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Немає Станцій";
+
+"WELCOME_COPY" = "Вітаємо в Broadcasts! Якщо бажаєте, ми маємо певні станції якими можна розпочати вашу бібліотеку.\n\nАбо Ви можете додати ваші власні станції вручну чи вибирати з тисяч станцій в Каталозі";
+
+"WELCOME_UPSELL" = "Вітаємо в Broadcasts! У цій безкоштовній версії, ми маємо певні станції якими можна розпочати вашу бібліотеку.\n\n  Якщо Ви  можете додати ваші власні станції вручну чи вибрата з тисяч в Каталозі. Якщо Ви перейдете на платну версію то зможете додати ваші власні станції вручну чи вибирати з тисяч станцій в Каталозі.";
+
+"WELCOME_ADD_PRESETS" = "Додати попередньо встановлені";
+"WELCOME_NO_THANKS" = "Ні, дякую";
+
+"GENERATED_COLLECTION_TITLE" = "Моя Колекція";
+
+"UPSELL_COPY" = "Дякуємо за користування Broadcasts!\n\nВи можете відкрити розширені функції за допомогою придбання через додаток. Або Ви можете продовжувати використовувати та редагувати попередньо встановлені станції!";
+"UPSELL_BUY" = "Придбати (%@)";
+"UPSELL_NOT_AVAILABLE" = "Не доступно";
+"UPSELL_RESTORE" = "Відновити покупку";
+"UPSELL_NO_THANKS" = "Ні, дякую";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Нова колекція";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Додати Станцію";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Показати Колекції";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Переключити бічну панель";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Переключити вигляд";
+
+"IMAGE_WELL_REMOVE" = "Видалити";
+"IMAGE_WELL_PASTE" = "Вставиди";
+"IMAGE_WELL_COPY" = "Копіювати";
+
+"CARPLAY_EMPTY_LIBRARY" = "Пусто";
+"CARPLAY_ALL_STATIONS" = "Всі Станції";
+
+"MAC_ADD_STATION_BUTTON" = "Додати Станцію";
+"MAC_EDIT_STATION_BUTTON" = "Редагувати Станцію";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Додати Колекцію";
+"MAC_EDIT_COLLECTION_BUTTON" = "Редагувати Колекцію";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Браузер Станцій";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Країни";
+"STATION_DIRECTORY_STATIONS" = "%@ Станція";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Станції";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Немає з'єднанняя";
+"STATION_DIRECTORY_CONNECTING" = "Завантаження…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Додати вручну";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Гаразд";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Пошук Країн";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Пошук Станцій";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Додати вручну";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Додати з Каталогу";
+
+"LIBRARY_STATE_UPLOADING" = "Відвантаження…";
+"LIBRARY_STATE_DOWNLOADING" = "Закачка…";
+"LIBRARY_STATE_PREPARING" = "Підготовка…";
+"LIBRARY_STATE_READY" = "Все актуальне";
+"LIBRARY_STATE_MIGRATING" = "Міграція…";
+"LIBRARY_STATE_LOCALONLY" = "Тільки Локальні";
+
+"TV_TAB_ALL_STATIONS" = "Всі Станції";
+"TV_TAB_RECENTS" = "Нещодавні";
+"TV_TAB_COLLECTIONS" = "Колекції";
+
+"TV_NO_LIBRARY_MESSAGE" = "Розпочніть свою бібліотеку на iPhone, iPad or Mac і вона синхронізується з Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Зараз Грає";
+"WATCH_SOURCE_RECENTS" = "Нещодавні";
+"WATCH_SOURCE_COLLECTIONS" = "Колекції";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Синхронізація…";
+
+"ALERT_IMPORT" = "Імпортувати";
+"IMPORT_TITLE" = "Імпортувати \"%@\"?";
+"IMPORT_BODY" = "Ця спільна колекція містить %ld станцій.";
+
+"MOVE_DIALOG_TITLE" = "Перенести \"%@\"";
+"MOVE_DIALOG_BODY" = "Виберіть колекцію в яку перенести цю станцію.";
