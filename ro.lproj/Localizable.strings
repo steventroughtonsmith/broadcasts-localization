@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Andrei Vidrasco on 10/05/2020.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Redă";
+"SHORTCUT_PAUSE" = "Suspendă";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nimic nu se redă";
+"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Redă/Suspendă";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Redă/Suspendă";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Comută mut";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volum ieșire";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliotecă";
+"SIDEBAR_TITLE_STATIONS" = "Colecții";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Toate stațiile";
+"SIDEBAR_CATEGORY_RECENTS" = "Recente";
+
+"LIST_HEADER_STATION" = "Stație";
+
+"MENU_NEW" = "Nou";
+"MENU_NEW_STATION" = "Stație…";
+"MENU_NEW_GROUP" = "Colecție…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Stație nouă";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Colecție nouă";
+
+"MENU_VIEW_AS_GRID" = "ca Grilă";
+"MENU_VIEW_AS_LIST" = "ca Listă";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Vizualizare Ca Grilă";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Vizualizare Ca Listă";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Afișează bara laterală";
+"MENU_VIEW_HIDE_SIDEBAR" = "Ascunde bara laterală";
+
+"MENU_HELP_GETSUPPORT" = "Obține asistență pe Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Afișează panoul de bun venit";
+
+"PLAYBACK_ERROR_STALL" = "S-a pierdut conexiunea la stație.";
+
+"SEARCH_PLACEHOLDER" = "Căutare";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Adaugă";
+"ALERT_CANCEL" = "Anulează";
+"ALERT_DELETE" = "Șterge";
+
+"ADD_STATION_WINDOW_TITLE" = "Adaugă o stație nouă";
+"EDIT_STATION_WINDOW_TITLE" = "Editează stația";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Denumire";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://cale/către/curent";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Alege imagine";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Adaugă o colecție nouă";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Editează colecția";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Colecția mea";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Editare";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Șterge colecția";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Partajează";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Editare";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Șterge stația";
+"STATION_CONTEXT_MOVE" = "Mută în colecție";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Șterge \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Sigur doriți să ștergeți această colecție și toate stațiile din ea?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Șterge \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Sigur doriți să ștergeți această stație?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Nu există stații";
+
+"WELCOME_COPY" = "Bine ați venit în Broadcasts! Dacă doriți, avem câteva stații prestabilite din Irlanda cu care vă putem începe biblioteca.\n\nSau, dacă doriți, adăugați propriile stații manual sau alegeți dintre mii în Registru.";
+
+"WELCOME_UPSELL" = "Bine ați venit în Broadcasts! n această versiune gratuită, avem câteva stații prestabilite din Irlanda cu care vă putem începe biblioteca.\n\nSau, dacă preferați să faceți upgrade la versiunea plătită, puteți adăuga propriile stații manual sau puteți alege dintre mii în Registru.";
+
+"WELCOME_ADD_PRESETS" = "Adaugă presetări";
+"WELCOME_NO_THANKS" = "Nu, mulțumesc";
+
+"GENERATED_COLLECTION_TITLE" = "Colecția mea";
+
+"UPSELL_COPY" = "Vă mulțumim pentru utilizarea Broadcasts!\n\nPuteți debloca funcțiile avansate ale stațiile cu un in-app purchase în aplicație, dacă doriți.\n\nSau, dacă doriți, continuați să utilizați și editați stațiile prestabilite!";
+"UPSELL_BUY" = "Cumpără (%@)";
+"UPSELL_NOT_AVAILABLE" = "Nu e disponibil";
+"UPSELL_RESTORE" = "Restabilește cumpărarile";
+"UPSELL_NO_THANKS" = "Nu, mulțumesc";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Colecție nouă";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Adaugă o stație";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Arată colecțiile";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Comută bara laterală";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Comută vizualizarea";
+
+"IMAGE_WELL_REMOVE" = "Șterge";
+"IMAGE_WELL_PASTE" = "Lipește";
+"IMAGE_WELL_COPY" = "Copiază";
+
+"CARPLAY_EMPTY_LIBRARY" = "Nu există colecții";
+"CARPLAY_ALL_STATIONS" = "Toate stațiile";
+
+"MAC_ADD_STATION_BUTTON" = "Adaugă o stație";
+"MAC_EDIT_STATION_BUTTON" = "Editează stația";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Adaugă o colecție";
+"MAC_EDIT_COLLECTION_BUTTON" = "Editează colecția";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Browser al stațiilor";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Țări";
+"STATION_DIRECTORY_STATIONS" = "%@ stație";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ stații";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Nu există conexiuni";
+"STATION_DIRECTORY_CONNECTING" = "Se încarcă…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Adaugă manual";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Gata";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Caută Țări";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Caută Stații";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Adaugă manual";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Adaugă din Registru";
+
+"LIBRARY_STATE_UPLOADING" = "Se încarcă…";
+"LIBRARY_STATE_DOWNLOADING" = "Se descarcă…";
+"LIBRARY_STATE_PREPARING" = "Se pregătește…";
+"LIBRARY_STATE_READY" = "Actualizat";
+"LIBRARY_STATE_MIGRATING" = "Se migrează…";
+"LIBRARY_STATE_LOCALONLY" = "Numai locale";
+
+"TV_TAB_ALL_STATIONS" = "Toate stațiile";
+"TV_TAB_RECENTS" = "Recente redate";
+"TV_TAB_COLLECTIONS" = "Colecții";
+
+"TV_NO_LIBRARY_MESSAGE" = "Crează biblioteca Broadcasts pe iPhone, iPad sau Mac și se va sincroniza cu Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Acum se redă";
+"WATCH_SOURCE_RECENTS" = "Recente";
+"WATCH_SOURCE_COLLECTIONS" = "Colecții";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Se sincronizează…";
+
+"ALERT_IMPORT" = "Importă";
+"IMPORT_TITLE" = "Importă \"%@\"?";
+"IMPORT_BODY" = "Această colecție partajată conține %ld stații.";
+
+"MOVE_DIALOG_TITLE" = "Mută \"%@\"";
+"MOVE_DIALOG_BODY" = "Alege o colecție pentru a muta această stație în.";
