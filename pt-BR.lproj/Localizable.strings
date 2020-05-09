@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by João Gabriel Pozzobon dos Santos on 05/08/2020.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Reproduzir";
+"SHORTCUT_PAUSE" = "Pausar";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nada em reprodução";
+"TOOLBAR_STREAMING_RADIO" = "Escutando Rádio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Reproduzir/Pausar";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Reproduzir/Pausar";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Silenciar";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
+
+"SIDEBAR_TITLE_LIBRARY" = "Biblioteca";
+"SIDEBAR_TITLE_STATIONS" = "Coleções";
+"SIDEBAR_TITLE_RADIO" = "Rádio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Todas as Estações";
+"SIDEBAR_CATEGORY_RECENTS" = "Recentes";
+
+"LIST_HEADER_STATION" = "Estação";
+
+"MENU_NEW" = "Criar";
+"MENU_NEW_STATION" = "Estação…";
+"MENU_NEW_GROUP" = "Coleção…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nova Estação";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nova Coleção";
+
+"MENU_VIEW_AS_GRID" = "em Grade";
+"MENU_VIEW_AS_LIST" = "em Lista";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Ver em Grid";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Ver em Lista";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Mostrar Barra Lateral";
+"MENU_VIEW_HIDE_SIDEBAR" = "Esconder Barra Lateral";
+
+"MENU_HELP_GETSUPPORT" = "Suporte no Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Mostrar Painel de Boas-Vindas";
+
+"PLAYBACK_ERROR_STALL" = "A conexão com a estação foi perdida.";
+
+"SEARCH_PLACEHOLDER" = "Pesquisar";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Adicionar";
+"ALERT_CANCEL" = "Cancelar";
+"ALERT_DELETE" = "Apagar";
+
+"ADD_STATION_WINDOW_TITLE" = "Adicionar Nova Estação";
+"EDIT_STATION_WINDOW_TITLE" = "Editar Estação";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nome";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://caminho/para/transmissão";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Selecionar Imagem";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Adicionar Nova Coleção";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Editar Coleção";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Minha Coleção";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Editar";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Apagar Coleção";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Compartilhar";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Editar";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Apagar Estação";
+"STATION_CONTEXT_MOVE" = "Mover para Coleção";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Apagar \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Você tem certeza que quer apagar essa coleção e todas as suas estações?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Apagar \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Você tem certeza que quer apagar essa estação?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Sem Estações";
+
+"WELCOME_COPY" = "Bem-vindo ao Broadcasts! Se você quiser, temos algumas estações padrão para que você comece a sua biblioteca.\n\nOr, se você preferir, pode adicionar as suas próprias estações manualmente ou escolher por alguma no Diretório.";
+
+"WELCOME_UPSELL" = "Bem-vindo ao Broadcasts! Nesta versão gratuita, nós temos algumas estações padrão para você começar a sua biblioteca.\n\nOr, se você preferir ir para a versão paga, você poderá adicionar as suas próprias estações manualmente ou escolher por alguma no Diretório.";
+
+"WELCOME_ADD_PRESETS" = "Adicionar Estações Padrão";
+"WELCOME_NO_THANKS" = "Não, Obrigado";
+
+"GENERATED_COLLECTION_TITLE" = "Minha Coleção";
+
+"UPSELL_COPY" = "Thanks for using Broadcasts!\n\nYou can unlock the advanced features of Broadcasts with an in-app purchase, if you'd like.\n\nOr, if you prefer, continue to use and edit the preset stations!";
+"UPSELL_BUY" = "Purchase (%@)";
+"UPSELL_NOT_AVAILABLE" = "Indísponivel";
+"UPSELL_RESTORE" = "Restaurar Compra";
+"UPSELL_NO_THANKS" = "Não, Obrigado";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nova Coleção";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Adicionar Estação";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Mostrar Coleções";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Alternar Barra Lateral";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Alternar Visualização";
+
+"IMAGE_WELL_REMOVE" = "Remover";
+"IMAGE_WELL_PASTE" = "Colar";
+"IMAGE_WELL_COPY" = "Copiar";
+
+"CARPLAY_EMPTY_LIBRARY" = "Nenhuma Coleção";
+"CARPLAY_ALL_STATIONS" = "Todas as Estações";
+
+"MAC_ADD_STATION_BUTTON" = "Adicionar Estação";
+"MAC_EDIT_STATION_BUTTON" = "Editar Estação";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Adicionar Coleção";
+"MAC_EDIT_COLLECTION_BUTTON" = "Editar Coleção";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Procurador de Estações";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Países";
+"STATION_DIRECTORY_STATIONS" = "%@ Estação";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Estações";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Sem Conexão";
+"STATION_DIRECTORY_CONNECTING" = "Carregando…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Adicionar Manualmente";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Feito";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Procurar Países";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Procurar Estações";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Adicionar Manualmente";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Adicionar pelo Diretório";
+
+"LIBRARY_STATE_UPLOADING" = "Enviando…";
+"LIBRARY_STATE_DOWNLOADING" = "Baixando…";
+"LIBRARY_STATE_PREPARING" = "Preparando…";
+"LIBRARY_STATE_READY" = "Atualizado";
+"LIBRARY_STATE_MIGRATING" = "Migrando…";
+"LIBRARY_STATE_LOCALONLY" = "Apenas Local";
+
+"TV_TAB_ALL_STATIONS" = "Todas as estações";
+"TV_TAB_RECENTS" = "Tocadas Recentemente";
+"TV_TAB_COLLECTIONS" = "Coleções";
+
+"TV_NO_LIBRARY_MESSAGE" = "Comece a sua biblioteca no seu iPhone, iPad ou Mac e ela sincronizará com a sua Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Reproduzindo";
+"WATCH_SOURCE_RECENTS" = "Recentes";
+"WATCH_SOURCE_COLLECTIONS" = "Coleções";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sincronizando…";
+
+"ALERT_IMPORT" = "Importar";
+"IMPORT_TITLE" = "Importar \"%@\"?";
+"IMPORT_BODY" = "Essa coleção compartilhada contém %ld estações.";
+
+"MOVE_DIALOG_TITLE" = "Mover \"%@\"";
+"MOVE_DIALOG_BODY" = "Escolha uma coleção para mover essa estação.";
