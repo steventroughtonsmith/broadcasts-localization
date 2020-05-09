@@ -82,18 +82,18 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Brak Stacji";
 
-"WELCOME_COPY" = "Witamy w Broadcasts! Dodaliśmy już parę naszych Irlandzkich stacji radiowych, aby twoja biblioteka nie była pusta.\n\nJeżeli wolisz, możesz dodać ręcznie własne stacje lub wybrać którąś z tysiąca stacji w naszym katalogu.";
+"WELCOME_COPY" = "Witamy w Broadcasts! Dodaliśmy już kilka irlandzkich stacji radiowych, aby Twoja biblioteka nie była pusta.\n\nJeżeli wolisz, możesz dodać ręcznie własne stacje lub wybrać którąś z tysiąca stacji z naszego katalogu.";
 
-"WELCOME_UPSELL" = "Witamy w Broadcasts! W tej darmowej wersji dodaliśmy już parę naszych Irlandzkich stacji radiowych, aby biblioteka nie była pusta.\n\nJeżeli przejdziesz do płatnej wersji, możliwe będzie dodanie ręcznie własnych stacji lub wybranie którejś z tysiąca stacji w naszym katalogu.";
+"WELCOME_UPSELL" = "Witamy w Broadcasts! W tej darmowej wersji dodaliśmy już kilka irlandzkich stacji radiowych, aby Twoja biblioteka nie była pusta.\n\nJeżeli przejdziesz do płatnej wersji, możliwe będzie dodanie ręcznie własnych stacji lub wybranie którejś z tysiąca stacji z naszego katalogu.";
 
 "WELCOME_ADD_PRESETS" = "Dodaj Stacje Początkowe";
 "WELCOME_NO_THANKS" = "Nie, dziękuję";
 
 "GENERATED_COLLECTION_TITLE" = "Moja Kolekcja";
 
-"UPSELL_COPY" = "Dzięki za korzystanie z Broadcasts!\n\nJeżeli chcesz, możesz odblokować zaawansowane funkcje zakupem w aplikacji.\n\nJeżeli wolisz, możesz po prostu edytować lub korzystać dalej ze stacji początkowych!";
+"UPSELL_COPY" = "Dzięki za korzystanie z Broadcasts!\n\nJeżeli chcesz, możesz odblokować zaawansowane funkcje za pomocą mikropłatności w aplikacji.\n\nJeżeli wolisz, możesz po prostu edytować lub korzystać dalej ze stacji początkowych!";
 "UPSELL_BUY" = "Kup (%@)";
-"UPSELL_NOT_AVAILABLE" = "Zakup Nie Dostępny";
+"UPSELL_NOT_AVAILABLE" = "Zakup nie dostępny";
 "UPSELL_RESTORE" = "Odnów Zakup";
 "UPSELL_NO_THANKS" = "Nie, Dziękuję";
 
@@ -128,7 +128,7 @@
 "STATION_DIRECTORY_TOOLBAR_DONE" = "Gotowe";
 
 "STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Szukaj Kraj";
-"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Szukaj Stację";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Szukaj Stacji";
 
 "ADD_STATION_CONTEXT_ADD_STATION" = "Dodaj Ręcznie";
 "ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Dodaj z Katalogu";
@@ -138,7 +138,7 @@
 "LIBRARY_STATE_PREPARING" = "Przygotowuję…";
 "LIBRARY_STATE_READY" = "Aktualny";
 "LIBRARY_STATE_MIGRATING" = "Migruję…";
-"LIBRARY_STATE_LOCALONLY" = "Tylko Lokalny";
+"LIBRARY_STATE_LOCALONLY" = "Biblioteka tylko lokalna";
 
 "TV_TAB_ALL_STATIONS" = "Wszystkie Stacje";
 "TV_TAB_RECENTS" = "Ostatnio Odtwarzane";
@@ -154,7 +154,7 @@
 
 "ALERT_IMPORT" = "Importuj";
 "IMPORT_TITLE" = "Importować \"%@\"?";
-"IMPORT_BODY" = "Ta udostępniana kolekcja zawiera %ld stacji.";
+"IMPORT_BODY" = "Udostępniana kolekcja zawiera %ld stacji.";
 
-"MOVE_DIALOG_TITLE" = "Przenieść \"%@\"";
-"MOVE_DIALOG_BODY" = "Wybierz kolekcję, do której chcesz przenieść tą stację.";
+"MOVE_DIALOG_TITLE" = "Przenieś \"%@\"";
+"MOVE_DIALOG_BODY" = "Wybierz kolekcję, do której chcesz przenieść tę stację.";
