@@ -1,0 +1,161 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Sebastian Hennig (@ocastx) on 05/09/2020.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Abspielen";
+"SHORTCUT_PAUSE" = "Pause";
+
+"TOOLBAR_NOTHING_PLAYING" = "Keine Wiedergabe";
+"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Abspielen/Pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Abspielen/Pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Stumm";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Lautstärke";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliothek";
+"SIDEBAR_TITLE_STATIONS" = "Sammlung";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Alle Sender";
+"SIDEBAR_CATEGORY_RECENTS" = "Letzte";
+
+"LIST_HEADER_STATION" = "Sender";
+
+"MENU_NEW" = "Neu";
+"MENU_NEW_STATION" = "Sender…";
+"MENU_NEW_GROUP" = "Sammlung…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Neuer Sender";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Neue Sammlung";
+
+"MENU_VIEW_AS_GRID" = "als Kacheln";
+"MENU_VIEW_AS_LIST" = "als Liste";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Anzeigen als Kacheln";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Anzeigen als Liste";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Seitenleiste anzeigen";
+"MENU_VIEW_HIDE_SIDEBAR" = "Seitenleiste verbergen";
+
+"MENU_HELP_GETSUPPORT" = "Bekomme Hilfe auf Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Willkommensseite anzeigen";
+
+"PLAYBACK_ERROR_STALL" = "Verbindung zum Sender wurde verloren.";
+
+"SEARCH_PLACEHOLDER" = "Suche";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Hinzufügen";
+"ALERT_CANCEL" = "Abbrechen";
+"ALERT_DELETE" = "Löschen";
+
+"ADD_STATION_WINDOW_TITLE" = "Neuen Sender hinzufügen";
+"EDIT_STATION_WINDOW_TITLE" = "Sender bearbeiten";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Name";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://pfad/zum/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Bild auswählen";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Neue Sammlung hinzufügen";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Sammlung bearbeiten";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Meine Sammlung";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Bearbeiten";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Sammlung löschen";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Teilen";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Bearbeiten";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Sender löschen";
+"STATION_CONTEXT_MOVE" = "Verschieben in Sammlung";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "\"%@\" löschen";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bist du sicher, dass du diese Sammlung und alle darin enthaltenen Sender löschen möchtest?"
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "\"%@\" löschen";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Bist du sicher, dass du diesen Sender löschen möchtest?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Keine Sender";
+
+"WELCOME_COPY" = "Willkommen bei Broadcasts! Wenn du möchtest, haben wir ein paar voreingestellte Sender aus unserer Heimat um deine Bibliothek zu starten.\n\Andernfalls, füge einfach deine eigenen Sender hinzu oder wähle aus tausenden Sendern im Sender-Verzeichnis."
+
+"WELCOME_UPSELL" = "Willkommen bei Broadcasts! In dieser kostenlosen Version haben wir ein paar voreingestellte Sender aus unserer Heimat um deine Bibliothek zu starten.\n\nWenn du ein Upgrade auf die bezahlte Version machst, kannst du deine eigenen Sender hinzufügen oder einfach aus den tausenden im Sender-Verzeichnis auswählen.";
+
+"WELCOME_ADD_PRESETS" = "Voreingestellte Sender hinzufügen";
+"WELCOME_NO_THANKS" = "Nein, Danke";
+
+"GENERATED_COLLECTION_TITLE" = "Meine Sammlung";
+
+"UPSELL_COPY" = "Danke, dass du Broadcasts benutzt!\n\nWenn du möchtest, kannst du mit einem In-App Kauf mehr Features von Broadcasts freischalten.\n\nAndernfalls, kannst du die App weiter benutzen und die voreingestellten Sender bearbeiten.";
+
+"UPSELL_BUY" = "Kaufen (%@)";
+"UPSELL_NOT_AVAILABLE" = "Nicht verfügbar";
+"UPSELL_RESTORE" = "Kauf wiederherstellen";
+"UPSELL_NO_THANKS" = "Nein, Danke";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Neue Sammlung";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Sender hinzufügen";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Zeige Sammlungen";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Seitenleiste umschalten";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Ansicht umschalten";
+
+"IMAGE_WELL_REMOVE" = "Entfernen";
+"IMAGE_WELL_PASTE" = "Einfügen";
+"IMAGE_WELL_COPY" = "Kopieren";
+
+"CARPLAY_EMPTY_LIBRARY" = "Keine Sammlungen";
+"CARPLAY_ALL_STATIONS" = "Alle Sender";
+
+"MAC_ADD_STATION_BUTTON" = "Sender hinzufügen";
+"MAC_EDIT_STATION_BUTTON" = "Sender bearbeiten";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Sammlung hinzufügen";
+"MAC_EDIT_COLLECTION_BUTTON" = "Sammlung bearbeiten";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Sender-Verzeichnis";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Länder";
+"STATION_DIRECTORY_STATIONS" = "%@ Sender";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Sender";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Keine Verbindung";
+"STATION_DIRECTORY_CONNECTING" = "Laden…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Manuell hinzufügen";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Fertig";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Suche Länder";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Suche Sender";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Manuell hinzufügen";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Vom Verzeichnis hinzufügen";
+
+"LIBRARY_STATE_UPLOADING" = "Hochladen…";
+"LIBRARY_STATE_DOWNLOADING" = "Herunterladen…";
+"LIBRARY_STATE_PREPARING" = "Vorbereiten…";
+"LIBRARY_STATE_READY" = "Aktuell";
+"LIBRARY_STATE_MIGRATING" = "Migrieren…";
+"LIBRARY_STATE_LOCALONLY" = "Nur lokal";
+
+"TV_TAB_ALL_STATIONS" = "Alle Sender";
+"TV_TAB_RECENTS" = "Zuletzt abgespielt";
+"TV_TAB_COLLECTIONS" = "Sammlung";
+
+"TV_NO_LIBRARY_MESSAGE" = "Starte deine Broadcasts Bibliothek auf dem iPhone, iPad oder Mac und diese wird mit deinem Apple TV synchronisiert";
+
+"WATCH_NOW_PLAYING_TITLE" = "Läuft gerade";
+"WATCH_SOURCE_RECENTS" = "Zuletzt";
+"WATCH_SOURCE_COLLECTIONS" = "Sammlung";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronisieren…";
+
+"ALERT_IMPORT" = "Importieren";
+"IMPORT_TITLE" = "\"%@\" importieren?";
+"IMPORT_BODY" = "Diese geteilte Bibliothek enthält %ld Sender.";
+
+"MOVE_DIALOG_TITLE" = "\"%@\" verschieben";
+"MOVE_DIALOG_BODY" = "Wähle eine Sammlung aus in die der Sender verschoben werden soll.";
