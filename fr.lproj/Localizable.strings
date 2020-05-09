@@ -42,7 +42,7 @@
 "MENU_VIEW_SHOW_SIDEBAR" = "Afficher la Barre Latérale";
 "MENU_VIEW_HIDE_SIDEBAR" = "Masquer la Barre Latérale";
 
-"MENU_HELP_GETSUPPORT" = "Obtenir du Support sur Twitter…";
+"MENU_HELP_GETSUPPORT" = "Obtenir de l’aide sur Twitter…";
 "MENU_HELP_SHOW_WELCOME_SCREEN" = "Afficher le Panneau de Bienvenue";
 
 "PLAYBACK_ERROR_STALL" = "La connexion à la station a été perdue.";
