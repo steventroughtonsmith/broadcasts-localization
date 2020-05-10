@@ -1,0 +1,160 @@
+/*
+  Localizable.strings
+  MobileRadio
+
+  Created by Lars Arvidsson on 05/10/2020.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Spela upp";
+"SHORTCUT_PAUSE" = "Pausa";
+
+"TOOLBAR_NOTHING_PLAYING" = "Inget spelas";
+"TOOLBAR_STREAMING_RADIO" = "Strömmar radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Spela upp/Pausa";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Spela upp/Pausa";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Växla ljud av/på";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volym";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliotek";
+"SIDEBAR_TITLE_STATIONS" = "Samlingar";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Alla stationer";
+"SIDEBAR_CATEGORY_RECENTS" = "Senast spelade";
+
+"LIST_HEADER_STATION" = "Station";
+
+"MENU_NEW" = "Ny";
+"MENU_NEW_STATION" = "Station…";
+"MENU_NEW_GROUP" = "Samling…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Ny station";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Ny samling";
+
+"MENU_VIEW_AS_GRID" = "Som rutnät";
+"MENU_VIEW_AS_LIST" = "Som lista";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Visa som rutnät";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Visa som lista";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Visa sidofält";
+"MENU_VIEW_HIDE_SIDEBAR" = "Dölj sidofält";
+
+"MENU_HELP_GETSUPPORT" = "Få hjälp på Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Visa välkomstskärmen";
+
+"PLAYBACK_ERROR_STALL" = "Anslutningen till stationen har förlorats.";
+
+"SEARCH_PLACEHOLDER" = "Sök";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Lägg till";
+"ALERT_CANCEL" = "Avbryt";
+"ALERT_DELETE" = "Radera";
+
+"ADD_STATION_WINDOW_TITLE" = "Lägg till ny station";
+"EDIT_STATION_WINDOW_TITLE" = "Redigera station";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Namn";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://sökväg/till/strömmen";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Välj bild";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Lägg till ny samling";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Redigera samling";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Min samling";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Redigera";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Radera samling";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Dela";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Redigera";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Radera station";
+"STATION_CONTEXT_MOVE" = "Flytta till samling";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Radera \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Är du säker på att du vill radera den här samlingen och alla stationer i den?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Radera \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Är du säker på att du vill radera den här stationen?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Inga stationer";
+
+"WELCOME_COPY" = "Välkommen till Broadcasts! Om du vill så har vi några förinställda stationer från Irland som vi kan starta med att lägga till i ditt bibliotek.\n\nEller, om du hellre vill, lägga till dina egna stationer manuellt eller välja från tusentals stationer i katalogen.";
+
+"WELCOME_UPSELL" = "Välkommen till Broadcasts! I den här gratisversionen har vi några förinställda stationer som vi kan starta med att lägga till i ditt bibliotek.\n\nEller, om du hellre vill uppgradera till betalversionen, så kan du lägga till dina egna stationer manuellt eller välja från tusentals stationer i vår katalog.";
+
+"WELCOME_ADD_PRESETS" = "Lägg till förinställda";
+"WELCOME_NO_THANKS" = "Nej tack";
+
+"GENERATED_COLLECTION_TITLE" = "Min samling";
+
+"UPSELL_COPY" = "Tack för att du använder Broadcasts!\n\nDu kan låsa upp de avancerade funktionerna av Broadcasts med ett köp inuti appen om du vill.\n\nEller, om du hellre vill, fortsätt använd och redigera de förinställda stationerna!";
+"UPSELL_BUY" = "Köp (%@)";
+"UPSELL_NOT_AVAILABLE" = "Inte tillgängligt";
+"UPSELL_RESTORE" = "Återställ köp";
+"UPSELL_NO_THANKS" = "Nej tack";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Ny samling";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Lägg till station";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Visa samlingar";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Växla sidofält";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Växla vy";
+
+"IMAGE_WELL_REMOVE" = "Radera";
+"IMAGE_WELL_PASTE" = "Klistra in";
+"IMAGE_WELL_COPY" = "Kopiera";
+
+"CARPLAY_EMPTY_LIBRARY" = "Inga samlingar";
+"CARPLAY_ALL_STATIONS" = "Alla stationer";
+
+"MAC_ADD_STATION_BUTTON" = "Lägg till station";
+"MAC_EDIT_STATION_BUTTON" = "Redigera station";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Lägg till samling";
+"MAC_EDIT_COLLECTION_BUTTON" = "Redigera samling";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Stationsbläddrare";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Länder";
+"STATION_DIRECTORY_STATIONS" = "%@ station";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ stationer";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Ingen anslutning";
+"STATION_DIRECTORY_CONNECTING" = "Laddar…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Lägg till manuellt";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Klar";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Sök länder";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Sök stationer";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Lägg till manuellt";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Lägg till från katalog";
+
+"LIBRARY_STATE_UPLOADING" = "Laddar upp…";
+"LIBRARY_STATE_DOWNLOADING" = "Laddar ner…";
+"LIBRARY_STATE_PREPARING" = "Förbereder…";
+"LIBRARY_STATE_READY" = "Uppdaterat";
+"LIBRARY_STATE_MIGRATING" = "Migrerar…";
+"LIBRARY_STATE_LOCALONLY" = "Endast lokalt";
+
+"TV_TAB_ALL_STATIONS" = "Alla stationer";
+"TV_TAB_RECENTS" = "Senast spelade";
+"TV_TAB_COLLECTIONS" = "Samlingar";
+
+"TV_NO_LIBRARY_MESSAGE" = "Börja ditt Broadcasts-bibliotek på iPhone, iPad eller Mac så kommer det synka till Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Spelas nu";
+"WATCH_SOURCE_RECENTS" = "Senaste";
+"WATCH_SOURCE_COLLECTIONS" = "Samlingar";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synkar…";
+
+"ALERT_IMPORT" = "Importera";
+"IMPORT_TITLE" = "Importera \"%@\"?";
+"IMPORT_BODY" = "Den här delade samlingen innehåller %ld stationer.";
+
+"MOVE_DIALOG_TITLE" = "Flytta \"%@\"";
+"MOVE_DIALOG_BODY" = "Välj en samling att flytta den här stationen till.";
