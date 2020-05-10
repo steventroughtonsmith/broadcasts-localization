@@ -10,7 +10,7 @@
 "SHORTCUT_PAUSE" = "Пауза";
 
 "TOOLBAR_NOTHING_PLAYING" = "Ничего не играет";
-"TOOLBAR_STREAMING_RADIO" = "Потоковое Радио";
+"TOOLBAR_STREAMING_RADIO" = "Потоковое радио";
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Воспроизвести/Пауза";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "Воспроизвести/Пауза";
@@ -30,14 +30,14 @@
 "MENU_NEW_STATION" = "Станция…";
 "MENU_NEW_GROUP" = "Коллекция…";
 
-"DISCOVERABILITY_HUD_NEW_STATION" = "Новая Станция";
-"DISCOVERABILITY_HUD_NEW_GROUP" = "Новая Коллекция";
+"DISCOVERABILITY_HUD_NEW_STATION" = "Новая станция";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Новая коллекция";
 
-"MENU_VIEW_AS_GRID" = "как Сетка";
-"MENU_VIEW_AS_LIST" = "как Список";
+"MENU_VIEW_AS_GRID" = "Сетка";
+"MENU_VIEW_AS_LIST" = "Список";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Просмотреть Как Сетку";
-"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Просмотреть Как Список";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Просмотреть как сетку";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Просмотреть как список";
 
 "MENU_VIEW_SHOW_SIDEBAR" = "Скрыть боковое меню";
 "MENU_VIEW_HIDE_SIDEBAR" = "Показать боковое меню";
@@ -80,20 +80,20 @@
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Удалить \"%@\"";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "Вы уверены, что хотите удалить эту станцию?";
 
-"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Нет станции";
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Нет станций";
 
-"WELCOME_COPY" = "Добро пожаловать в Broadcasts! Если вы хотите, у нас есть несколько предустановленных станций из Ирландии, с которых мы можем запустить вашу библиотеку.\n\nИли, если хотите, добавьте свои собственные станции вручную или выберите из тысяч в Каталоге.";
+"WELCOME_COPY" = "Добро пожаловать в Broadcasts! Если хотите, Вы можете попробовать наши предустановленные станции из Ирландии, которые помогут Вам начать заполнять библиотеку.\n\nИли же, если хотите, Вы можете вручную добавить свои собственные станции либо выбрать подходящие из тысяч доступных в Каталоге.";
 
-"WELCOME_UPSELL" = "Добро пожаловать в Broadcasts! В этой бесплатной версии у нас есть несколько предустановленных станций из Ирландии, с которых мы можем запустить вашу библиотеку.\n\nИли, если вы предпочитаете перейти на платную версию, вы можете добавить свои собственные станции вручную или выбрать из тысяч в Каталоге.";
+"WELCOME_UPSELL" = "Добро пожаловать в Broadcasts! В бесплатной версии Вы можете попробовать наши предустановленные станции из Ирландии, которые помогут Вам начать заполнять библиотеку.\n\nЕсли Вы захотите перейти на платную версию, Вы сможете вручную добавить свои собственные станции либо выбрать подходящие из тысяч доступных в Каталоге.";
 
 "WELCOME_ADD_PRESETS" = "Добавить предустановленные станции";
 "WELCOME_NO_THANKS" = "Нет, спасибо";
 
 "GENERATED_COLLECTION_TITLE" = "Моя коллекция";
 
-"UPSELL_COPY" = "Спасибо за использование Broadcasts!\n\nВы можете разблокировать расширенные функции трансляций с помощью покупки в приложении, если хотите.\n\nИли, если хотите, продолжайте использовать и редактировать предустановленные станции!";
+"UPSELL_COPY" = "Спасибо за использование Broadcasts!\n\nЕсли хотите, Вы можете разблокировать расширенные возможности Broadcasts с помощью встроенной покупки. \n\nИли, если это Вас не интересует, продолжайте использовать и редактировать предустановленные станции!";
 "UPSELL_BUY" = "Купить (%@)";
-"UPSELL_NOT_AVAILABLE" = "Нет в наличии";
+"UPSELL_NOT_AVAILABLE" = "Недоступно";
 "UPSELL_RESTORE" = "Восстановить покупку";
 "UPSELL_NO_THANKS" = "Нет, спасибо";
 
@@ -116,12 +116,12 @@
 "MAC_ADD_COLLECTION_BUTTON" = "Добавить коллекцию";
 "MAC_EDIT_COLLECTION_BUTTON" = "Редактировать коллекцию";
 
-"STATION_DIRECTORY_WINDOW_TITLE" = "Браузер стаций";
+"STATION_DIRECTORY_WINDOW_TITLE" = "Браузер станций";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Страны";
 "STATION_DIRECTORY_STATIONS" = "%@ ст.";
 "STATION_DIRECTORY_STATIONS_PLURAL" = "%@ ст.";
 
-"STATION_DIRECTORY_NO_CONNECTION" = "Нет соеденения";
+"STATION_DIRECTORY_NO_CONNECTION" = "Нет соединения";
 "STATION_DIRECTORY_CONNECTING" = "Загрузка…";
 
 "STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Добавить вручную";
@@ -133,21 +133,21 @@
 "ADD_STATION_CONTEXT_ADD_STATION" = "Добавить вручную";
 "ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Добавить из Каталога";
 
-"LIBRARY_STATE_UPLOADING" = "Загружаеться…";
-"LIBRARY_STATE_DOWNLOADING" = "Скачиваеться…";
+"LIBRARY_STATE_UPLOADING" = "Загружается…";
+"LIBRARY_STATE_DOWNLOADING" = "Скачивается…";
 "LIBRARY_STATE_PREPARING" = "Подготовка…";
 "LIBRARY_STATE_READY" = "Нет обновлений";
 "LIBRARY_STATE_MIGRATING" = "Миграция…";
-"LIBRARY_STATE_LOCALONLY" = "Локальные только";
+"LIBRARY_STATE_LOCALONLY" = "Только локальные";
 
 "TV_TAB_ALL_STATIONS" = "Все станции";
-"TV_TAB_RECENTS" = "Недавнии";
+"TV_TAB_RECENTS" = "Недавние";
 "TV_TAB_COLLECTIONS" = "Коллекции";
 
-"TV_NO_LIBRARY_MESSAGE" = "Запустите свою Broadcasts библиотеку на iPhone, iPad или Mac и она будет синхронизироваться с Apple TV.";
+"TV_NO_LIBRARY_MESSAGE" = "Запустите свою библиотеку Broadcasts на iPhone, iPad или Mac, и она будет синхронизироваться с Apple TV.";
 
 "WATCH_NOW_PLAYING_TITLE" = "Исполняется";
-"WATCH_SOURCE_RECENTS" = "Недавнии";
+"WATCH_SOURCE_RECENTS" = "Недавние";
 "WATCH_SOURCE_COLLECTIONS" = "Коллекции";
 
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Синхронизация…";
