@@ -125,7 +125,7 @@
 "STATION_DIRECTORY_CONNECTING" = "Se încarcă…";
 
 "STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Adaugă manual";
-"STATION_DIRECTORY_TOOLBAR_DONE" = "Gata";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "OK";
 
 "STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Caută Țări";
 "STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Caută Stații";
@@ -146,7 +146,7 @@
 
 "TV_NO_LIBRARY_MESSAGE" = "Crează biblioteca Broadcasts pe iPhone, iPad sau Mac și se va sincroniza cu Apple TV.";
 
-"WATCH_NOW_PLAYING_TITLE" = "Acum se redă";
+"WATCH_NOW_PLAYING_TITLE" = "În redare";
 "WATCH_SOURCE_RECENTS" = "Recente";
 "WATCH_SOURCE_COLLECTIONS" = "Colecții";
 
