@@ -14,7 +14,7 @@
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "נגן/השהה";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "נגן/השהה";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Toggle Mute";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "השתק/בטל השתקה";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "עוצמת שמע";
 
 "SIDEBAR_TITLE_LIBRARY" = "ספרייה";
@@ -22,7 +22,7 @@
 "SIDEBAR_TITLE_RADIO" = "רדיו";
 
 "SIDEBAR_CATEGORY_ALL_STATIONS" = "כל התחנות";
-"SIDEBAR_CATEGORY_RECENTS" = "אחרונים";
+"SIDEBAR_CATEGORY_RECENTS" = "תחנות אחרונות";
 
 "LIST_HEADER_STATION" = "תחנה";
 
@@ -39,7 +39,7 @@
 "DISCOVERABILITY_HUD_VIEW_AS_GRID" = "הצג כטבלה";
 "DISCOVERABILITY_HUD_VIEW_AS_LIST" = "הצג כרשימה";
 
-"MENU_VIEW_SHOW_SIDEBAR" = "הראה סרגל צד";
+"MENU_VIEW_SHOW_SIDEBAR" = "הצג סרגל צד";
 "MENU_VIEW_HIDE_SIDEBAR" = "הסתר סרגל צד";
 
 "MENU_HELP_GETSUPPORT" = "קבל תמיכה ב־Twitter…";
@@ -82,9 +82,9 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "אין תחנות";
 
-"WELCOME_COPY" = "ברוכים הבאים ל־Broadcasts! אם תרצו, יש לנו כמה תחנות ביתיות מוגדרות מראש שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו, הוסיפו תחנות משלכם באופן ידני או בחרו מתןך אלפי תחנות במדריך.";
+"WELCOME_COPY" = "ברוכים הבאים ל־Broadcasts! אם תרצו, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו, הוסיפו תחנות משלכם באופן ידני או בחרו מתןך אלפי תחנות במדריך.";
 
-"WELCOME_UPSELL" = "ברוכים הבאים ל־Broadcasts! בגרסה החינמית הזאת, יש לנו כמה תחנות ביתיות מוגדרות מראש שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו לשדרג לגרסה בתשלום, תוכלו להוסיף תחנות משלכם באופן ידני או לבחור מתוך אלפי תחנות במדריך.";
+"WELCOME_UPSELL" = "ברוכים הבאים ל־Broadcasts! בגרסה החינמית הזאת, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו לשדרג לגרסה בתשלום, תוכלו להוסיף תחנות משלכם באופן ידני או לבחור מתוך אלפי תחנות במדריך.";
 
 "WELCOME_ADD_PRESETS" = "הוסף תחנות מוגדרות מראש";
 "WELCOME_NO_THANKS" = "לא תודה";
@@ -92,7 +92,7 @@
 "GENERATED_COLLECTION_TITLE" = "האוסף שלי";
 
 "UPSELL_COPY" = "תודה על השימוש ב־Broadcasts!\n\nתוכלו לפתוח את התכונות המתקדמות של Broadcasts באמצעות רכישה בתוך האפליקציה, אם תרצו.\n\nאו, אם תעדיפו, המשיכו להשתמש ולערוך את התחנות המוגדרות מראש!";
-"UPSELL_BUY" = "רכוש את (%@)";
+"UPSELL_BUY" = "רכישה (%@)";
 "UPSELL_NOT_AVAILABLE" = "לא זמין";
 "UPSELL_RESTORE" = "שחזר רכישה";
 "UPSELL_NO_THANKS" = "לא תודה";
@@ -153,7 +153,7 @@
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "מסנכרן…";
 
 "ALERT_IMPORT" = "יבא";
-"IMPORT_TITLE" = "יבא את \"%@\"?";
+"IMPORT_TITLE" = "האם לייבא את \"%@\"?";
 "IMPORT_BODY" = "האוסף המשותף הזה מכיל %ld תחנות.";
 
 "MOVE_DIALOG_TITLE" = "העבר את \"%@\"";
