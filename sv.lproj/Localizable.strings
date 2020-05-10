@@ -82,9 +82,9 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Inga stationer";
 
-"WELCOME_COPY" = "Välkommen till Broadcasts! Om du vill så har vi några förinställda stationer från vårt land som vi kan fylla ditt bibliotek med.\n\nEller, om du hellre vill, lägga till dina egna stationer manuellt eller välja från tusentals stationer i katalogen.";
+"WELCOME_COPY" = "Välkommen till Broadcasts! Om du vill så har vi några förinställda stationer från Irland som vi kan starta med att lägga till i ditt bibliotek.\n\nEller, om du hellre vill, lägga till dina egna stationer manuellt eller välja från tusentals stationer i katalogen.";
 
-"WELCOME_UPSELL" = "Välkommen till Broadcasts! I den här gratisversionen har vi några förinställda stationer som vi kan börja fylla till bibliotek med.\n\nEller, om du hellre vill uppgradera till betalversionen, så kan du lägga till dina egna stationer manuellt eller välja från tusentals stationer i vår katalog.";
+"WELCOME_UPSELL" = "Välkommen till Broadcasts! I den här gratisversionen har vi några förinställda stationer som vi kan starta med att lägga till i ditt bibliotek.\n\nEller, om du hellre vill uppgradera till betalversionen, så kan du lägga till dina egna stationer manuellt eller välja från tusentals stationer i vår katalog.";
 
 "WELCOME_ADD_PRESETS" = "Lägg till förinställda";
 "WELCOME_NO_THANKS" = "Nej tack";
