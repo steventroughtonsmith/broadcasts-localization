@@ -82,16 +82,16 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Nu există stații";
 
-"WELCOME_COPY" = "Bine ați venit în Broadcasts! Dacă doriți, avem câteva stații prestabilite din Irlanda cu care vă putem începe biblioteca.\n\nSau, dacă doriți, adăugați propriile stații manual sau alegeți dintre mii în Registru.";
+"WELCOME_COPY" = "Bine ați venit în Broadcasts! Dacă doriți, avem câteva stații prestabilite din Irlanda cu care vă putem începe biblioteca.\n\nSau, dacă doriți, adăugați propriile stații manual sau alegeți dintre miile disponibile în Registru.";
 
-"WELCOME_UPSELL" = "Bine ați venit în Broadcasts! n această versiune gratuită, avem câteva stații prestabilite din Irlanda cu care vă putem începe biblioteca.\n\nSau, dacă preferați să faceți upgrade la versiunea plătită, puteți adăuga propriile stații manual sau puteți alege dintre mii în Registru.";
+"WELCOME_UPSELL" = "Bine ați venit în Broadcasts! În această versiune gratuită, avem câteva stații prestabilite din Irlanda cu care vă putem începe biblioteca.\n\nSau, dacă preferați să faceți upgrade la versiunea plătită, puteți adăuga propriile stații manual sau puteți alege dintre miile disponibile în Registru.";
 
 "WELCOME_ADD_PRESETS" = "Adaugă presetări";
 "WELCOME_NO_THANKS" = "Nu, mulțumesc";
 
 "GENERATED_COLLECTION_TITLE" = "Colecția mea";
 
-"UPSELL_COPY" = "Vă mulțumim pentru utilizarea Broadcasts!\n\nPuteți debloca funcțiile avansate ale stațiile cu un in-app purchase în aplicație, dacă doriți.\n\nSau, dacă doriți, continuați să utilizați și editați stațiile prestabilite!";
+"UPSELL_COPY" = "Vă mulțumim pentru utilizarea Broadcasts!\n\nDacă doriți, puteți debloca funcțiile adiționale ale Broadcasts cu un in-app purchase.\n\nSau, dacă preferați, continuați să utilizați și editați stațiile prestabilite!";
 "UPSELL_BUY" = "Cumpără (%@)";
 "UPSELL_NOT_AVAILABLE" = "Nu e disponibil";
 "UPSELL_RESTORE" = "Restabilește cumpărarile";
