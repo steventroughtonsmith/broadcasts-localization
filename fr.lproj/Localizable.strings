@@ -74,34 +74,34 @@
 "STATION_CONTEXT_DELETE_COLLECTION" = "Supprimer la station";
 "STATION_CONTEXT_MOVE" = "Déplacer vers une collection";
 
-"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Supprimer « %@ »";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Voulez-vous vraiment supprimer cette collection et toutes les stations qu'elle contient ?";
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Supprimer « %@ »";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Voulez-vous vraiment supprimer cette collection et toutes les stations qu’elle contient ?";
 
-"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Supprimer « %@ »";
-"CONTEXT_ALERT_DELETE_STATION_BODY" = "Voulez-vous supprimer cette station ?";
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Supprimer « %@ »";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Voulez-vous supprimer cette station ?";
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Aucune station";
 
-"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous avons quelques stations préréglées de chez nous avec lesquelles nous pouvons commencer votre bibliothèque.\n\nOu, si vous préférez, ajoutez vos propres stations manuellement ou choisissez-en parmi des milliers dans le catalogue.";
+"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous avons quelques stations préréglées de chez nous avec lesquelles nous pouvons commencer votre bibliothèque.\n\nOu, si vous préférez, ajoutez vos propres stations manuellement ou choisissez-en parmi des milliers dans le catalogue.";
 
-"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations préréglées de notre maison avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez ajouter vos propres stations manuellement ou en choisir parmi des milliers dans le catalogue.";
+"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations préréglées de notre maison avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez ajouter vos propres stations manuellement ou en choisir parmi des milliers dans le catalogue.";
 
 "WELCOME_ADD_PRESETS" = "Ajouter les préréglages";
 "WELCOME_NO_THANKS" = "Non merci";
 
 "GENERATED_COLLECTION_TITLE" = "Ma collection";
 
-"UPSELL_COPY" = "Merci d'utiliser Broadcasts ! Vous pouvez débloquer les fonctionnalités avancées de Broadcasts avec un achat intégré, si vous le souhaitez.\n\nOu, si vous préférez, continuez à utiliser et à modifier les stations préréglées !";
+"UPSELL_COPY" = "Merci d’utiliser Broadcasts ! Vous pouvez débloquer les fonctionnalités avancées de Broadcasts avec un achat intégré, si vous le souhaitez.\n\nOu, si vous préférez, continuez à utiliser et à modifier les stations préréglées !";
 "UPSELL_BUY" = "Acheter (%@)";
 "UPSELL_NOT_AVAILABLE" = "Non disponible";
-"UPSELL_RESTORE" = "Restaurer l'achat";
+"UPSELL_RESTORE" = "Restaurer l’achat";
 "UPSELL_NO_THANKS" = "Non merci";
 
 "TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nouvelle collection";
 "TOOLBAR_ADD_STATION_TOOLTIP" = "Ajouter une station";
 "TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Afficher les collections";
 "TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Afficher/masquer la barre latérale";
-"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Changer l'affichage";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Changer l’affichage";
 
 "IMAGE_WELL_REMOVE" = "Supprimer";
 "IMAGE_WELL_PASTE" = "Coller";
@@ -153,8 +153,8 @@
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronisation…";
 
 "ALERT_IMPORT" = "Importer";
-"IMPORT_TITLE" = "Importer « %@ » ?";
+"IMPORT_TITLE" = "Importer « %@ » ?";
 "IMPORT_BODY" = "Cette collection partagée contient %ld stations.";
 
-"MOVE_DIALOG_TITLE" = "Déplacer « %@ »";
+"MOVE_DIALOG_TITLE" = "Déplacer « %@ »";
 "MOVE_DIALOG_BODY" = "Choisissez une collection où déplacer cette station.";
