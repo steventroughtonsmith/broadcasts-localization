@@ -1,0 +1,160 @@
+/*
+  Localizable.strings
+  MobileRadio
+
+  Created by Andrei Vidrasco on 10/05/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Воспроизвести";
+"SHORTCUT_PAUSE" = "Пауза";
+
+"TOOLBAR_NOTHING_PLAYING" = "Ничего не играет";
+"TOOLBAR_STREAMING_RADIO" = "Потоковое радио";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Воспроизвести/Пауза";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Воспроизвести/Пауза";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Отключить/включить звук";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Громкость";
+
+"SIDEBAR_TITLE_LIBRARY" = "Библиотека";
+"SIDEBAR_TITLE_STATIONS" = "Коллекции";
+"SIDEBAR_TITLE_RADIO" = "Радио";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Все станции";
+"SIDEBAR_CATEGORY_RECENTS" = "Недавние";
+
+"LIST_HEADER_STATION" = "Станция";
+
+"MENU_NEW" = "Новая";
+"MENU_NEW_STATION" = "Станция…";
+"MENU_NEW_GROUP" = "Коллекция…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Новая станция";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Новая коллекция";
+
+"MENU_VIEW_AS_GRID" = "Сетка";
+"MENU_VIEW_AS_LIST" = "Список";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Просмотреть как сетку";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Просмотреть как список";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Скрыть боковое меню";
+"MENU_VIEW_HIDE_SIDEBAR" = "Показать боковое меню";
+
+"MENU_HELP_GETSUPPORT" = "Получить поддержку через Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Показать панель приветствия";
+
+"PLAYBACK_ERROR_STALL" = "Подключение к станции потеряно.";
+
+"SEARCH_PLACEHOLDER" = "Поиск";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Добавить";
+"ALERT_CANCEL" = "Отменить";
+"ALERT_DELETE" = "Удалить";
+
+"ADD_STATION_WINDOW_TITLE" = "Добавить новую станцию";
+"EDIT_STATION_WINDOW_TITLE" = "Редактировать станцию";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Название";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://путь/к/потоку";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Выбрать картинку";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Добавить новую коллекцию";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Редактировать коллекцию";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Моя коллекция";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Редактировать";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Удалить коллекцию";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Поделиться";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Редактировать";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Удалить станцию";
+"STATION_CONTEXT_MOVE" = "Переместить в коллекцию";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Удалить \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Вы уверены, что хотите удалить эту коллекцию и все станции в ней?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Удалить \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Вы уверены, что хотите удалить эту станцию?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Нет станций";
+
+"WELCOME_COPY" = "Добро пожаловать в Broadcasts! Если хотите, Вы можете попробовать наши предустановленные станции из Ирландии, которые помогут Вам начать заполнять библиотеку.\n\nИли же, если хотите, Вы можете вручную добавить свои собственные станции либо выбрать подходящие из тысяч доступных в Каталоге.";
+
+"WELCOME_UPSELL" = "Добро пожаловать в Broadcasts! В бесплатной версии Вы можете попробовать наши предустановленные станции из Ирландии, которые помогут Вам начать заполнять библиотеку.\n\nЕсли Вы захотите перейти на платную версию, Вы сможете вручную добавить свои собственные станции либо выбрать подходящие из тысяч доступных в Каталоге.";
+
+"WELCOME_ADD_PRESETS" = "Добавить предустановленные станции";
+"WELCOME_NO_THANKS" = "Нет, спасибо";
+
+"GENERATED_COLLECTION_TITLE" = "Моя коллекция";
+
+"UPSELL_COPY" = "Спасибо за использование Broadcasts!\n\nЕсли хотите, Вы можете разблокировать расширенные возможности Broadcasts с помощью встроенной покупки. \n\nИли, если это Вас не интересует, продолжайте использовать и редактировать предустановленные станции!";
+"UPSELL_BUY" = "Купить (%@)";
+"UPSELL_NOT_AVAILABLE" = "Недоступно";
+"UPSELL_RESTORE" = "Восстановить покупку";
+"UPSELL_NO_THANKS" = "Нет, спасибо";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Новая коллекция";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Добавить станцию";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Показать коллекции";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Переключить боковое меню";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Переключить вид";
+
+"IMAGE_WELL_REMOVE" = "Удалить";
+"IMAGE_WELL_PASTE" = "Вставить";
+"IMAGE_WELL_COPY" = "Скопировать";
+
+"CARPLAY_EMPTY_LIBRARY" = "Нет коллекций";
+"CARPLAY_ALL_STATIONS" = "Все станции";
+
+"MAC_ADD_STATION_BUTTON" = "Добавить станцию";
+"MAC_EDIT_STATION_BUTTON" = "Редактировать станцию";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Добавить коллекцию";
+"MAC_EDIT_COLLECTION_BUTTON" = "Редактировать коллекцию";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Браузер станций";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Страны";
+"STATION_DIRECTORY_STATIONS" = "%@ ст.";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ ст.";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Нет соединения";
+"STATION_DIRECTORY_CONNECTING" = "Загрузка…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Добавить вручную";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Готово";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Поиск стран";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Поиск станций";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Добавить вручную";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Добавить из Каталога";
+
+"LIBRARY_STATE_UPLOADING" = "Загружается…";
+"LIBRARY_STATE_DOWNLOADING" = "Скачивается…";
+"LIBRARY_STATE_PREPARING" = "Подготовка…";
+"LIBRARY_STATE_READY" = "Нет обновлений";
+"LIBRARY_STATE_MIGRATING" = "Миграция…";
+"LIBRARY_STATE_LOCALONLY" = "Только локальные";
+
+"TV_TAB_ALL_STATIONS" = "Все станции";
+"TV_TAB_RECENTS" = "Недавние";
+"TV_TAB_COLLECTIONS" = "Коллекции";
+
+"TV_NO_LIBRARY_MESSAGE" = "Запустите свою библиотеку Broadcasts на iPhone, iPad или Mac, и она будет синхронизироваться с Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Исполняется";
+"WATCH_SOURCE_RECENTS" = "Недавние";
+"WATCH_SOURCE_COLLECTIONS" = "Коллекции";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Синхронизация…";
+
+"ALERT_IMPORT" = "Импортировать";
+"IMPORT_TITLE" = "Импортировать \"%@\"?";
+"IMPORT_BODY" = "Эта общая коллекция содержит %ld ст.";
+
+"MOVE_DIALOG_TITLE" = "Переместить \"%@\"";
+"MOVE_DIALOG_BODY" = "Выберите коллекцию, чтобы переместить эту станцию.";
