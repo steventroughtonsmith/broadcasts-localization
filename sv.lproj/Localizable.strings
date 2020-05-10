@@ -22,7 +22,7 @@
 "SIDEBAR_TITLE_RADIO" = "Radio";
 
 "SIDEBAR_CATEGORY_ALL_STATIONS" = "Alla stationer";
-"SIDEBAR_CATEGORY_RECENTS" = "Senaste";
+"SIDEBAR_CATEGORY_RECENTS" = "Senast spelade";
 
 "LIST_HEADER_STATION" = "Station";
 
@@ -42,8 +42,8 @@
 "MENU_VIEW_SHOW_SIDEBAR" = "Visa sidofält";
 "MENU_VIEW_HIDE_SIDEBAR" = "Dölj sidofält";
 
-"MENU_HELP_GETSUPPORT" = "Få support på Twitter…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "Visa välkomstpanelen";
+"MENU_HELP_GETSUPPORT" = "Få hjälp på Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Visa välkomstskärmen";
 
 "PLAYBACK_ERROR_STALL" = "Anslutningen till stationen har förlorats.";
 
@@ -136,7 +136,7 @@
 "LIBRARY_STATE_UPLOADING" = "Laddar upp…";
 "LIBRARY_STATE_DOWNLOADING" = "Laddar ner…";
 "LIBRARY_STATE_PREPARING" = "Förbereder…";
-"LIBRARY_STATE_READY" = "Uppdaterad";
+"LIBRARY_STATE_READY" = "Uppdaterat";
 "LIBRARY_STATE_MIGRATING" = "Migrerar…";
 "LIBRARY_STATE_LOCALONLY" = "Endast lokalt";
 
