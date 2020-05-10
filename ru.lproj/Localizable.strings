@@ -14,7 +14,7 @@
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Воспроизвести/Пауза";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "Воспроизвести/Пауза";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Переключить звук";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Отключить/включить звук";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Громкость";
 
 "SIDEBAR_TITLE_LIBRARY" = "Библиотека";
