@@ -10,18 +10,18 @@
 "SHORTCUT_PAUSE" = "Pause";
 
 "TOOLBAR_NOTHING_PLAYING" = "Rien en lecture";
-"TOOLBAR_STREAMING_RADIO" = "Diffusion Radio";
+"TOOLBAR_STREAMING_RADIO" = "Diffusion radio";
 
-"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Lecture/Pause";
-"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Lecture/Pause";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Basculer en Muet";
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Lecture/pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Lecture/pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Mettre en sourdine";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
 
 "SIDEBAR_TITLE_LIBRARY" = "Bibliothèque";
 "SIDEBAR_TITLE_STATIONS" = "Collections";
 "SIDEBAR_TITLE_RADIO" = "Radio";
 
-"SIDEBAR_CATEGORY_ALL_STATIONS" = "Toutes les Stations";
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Toutes les stations";
 "SIDEBAR_CATEGORY_RECENTS" = "Récents";
 
 "LIST_HEADER_STATION" = "Station";
@@ -30,20 +30,20 @@
 "MENU_NEW_STATION" = "Station…";
 "MENU_NEW_GROUP" = "Collection…";
 
-"DISCOVERABILITY_HUD_NEW_STATION" = "Nouvelle Station";
-"DISCOVERABILITY_HUD_NEW_GROUP" = "Nouvelle Collection";
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nouvelle station";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nouvelle collection";
 
-"MENU_VIEW_AS_GRID" = "en Grille";
-"MENU_VIEW_AS_LIST" = "en Liste";
+"MENU_VIEW_AS_GRID" = "en grille";
+"MENU_VIEW_AS_LIST" = "en liste";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Voir En Grille";
-"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Voir En Liste";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Voir en grille";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Voir en liste";
 
-"MENU_VIEW_SHOW_SIDEBAR" = "Afficher la Barre Latérale";
-"MENU_VIEW_HIDE_SIDEBAR" = "Masquer la Barre Latérale";
+"MENU_VIEW_SHOW_SIDEBAR" = "Afficher la barre latérale";
+"MENU_VIEW_HIDE_SIDEBAR" = "Masquer la barre latérale";
 
 "MENU_HELP_GETSUPPORT" = "Obtenir de l’aide sur Twitter…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "Afficher le Panneau de Bienvenue";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Afficher le panneau de bienvenue";
 
 "PLAYBACK_ERROR_STALL" = "La connexion à la station a été perdue.";
 
@@ -54,107 +54,107 @@
 "ALERT_CANCEL" = "Annuler";
 "ALERT_DELETE" = "Supprimer";
 
-"ADD_STATION_WINDOW_TITLE" = "Ajouter une Nouvelle Station";
-"EDIT_STATION_WINDOW_TITLE" = "Modifier la Station";
+"ADD_STATION_WINDOW_TITLE" = "Ajouter une nouvelle station";
+"EDIT_STATION_WINDOW_TITLE" = "Modifier la station";
 
 "EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nom";
-"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://chemin/vers/flux";
-"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Sélectionner une Image";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://chemin/vers/le/flux";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Sélectionner une image";
 
-"ADD_COLLECTION_WINDOW_TITLE" = "Ajouter une Nouvelle Collection";
-"EDIT_COLLECTION_WINDOW_TITLE" = "Modifier la Collection";
+"ADD_COLLECTION_WINDOW_TITLE" = "Ajouter une nouvelle collection";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Modifier la collection";
 
-"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Ma Collection";
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Ma collection";
 
 "SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Modifier";
-"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Supprimer la Collection";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Supprimer la collection";
 "SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Partager";
 
 "STATION_CONTEXT_EDIT_COLLECTION" = "Modifier";
-"STATION_CONTEXT_DELETE_COLLECTION" = "Supprimer la Station";
-"STATION_CONTEXT_MOVE" = "Déplacer vers une Collection";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Supprimer la station";
+"STATION_CONTEXT_MOVE" = "Déplacer vers une collection";
 
-"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Supprimer « %@ »";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Êtes-vous sûr de vouloir supprimer cette collection et toutes les stations qu'elle contient ?";
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Supprimer « %@ »";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Voulez-vous vraiment supprimer cette collection et toutes les stations qu’elle contient ?";
 
-"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Supprimer « %@ »";
-"CONTEXT_ALERT_DELETE_STATION_BODY" = "Êtes-vous sûr de vouloir supprimer cette station ?";
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Supprimer « %@ »";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Voulez-vous supprimer cette station ?";
 
-"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Aucune Station";
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Aucune station";
 
-"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous avons quelques stations préréglées de chez nous avec lesquelles nous pouvons commencer votre bibliothèque.\n\nOu, si vous préférez, ajoutez vos propres stations manuellement ou choisissez-en parmi des milliers dans le Catalogue.";
+"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous avons quelques stations préréglées de chez nous avec lesquelles nous pouvons commencer votre bibliothèque.\n\nOu, si vous préférez, ajoutez vos propres stations manuellement ou choisissez-en parmi des milliers dans le catalogue.";
 
-"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations préréglées de notre maison avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez ajouter vos propres stations manuellement ou en choisir parmi des milliers dans le Catalogue.";
+"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations préréglées de notre maison avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez ajouter vos propres stations manuellement ou en choisir parmi des milliers dans le catalogue.";
 
-"WELCOME_ADD_PRESETS" = "Ajouter les Préréglages";
-"WELCOME_NO_THANKS" = "Non Merci";
+"WELCOME_ADD_PRESETS" = "Ajouter les préréglages";
+"WELCOME_NO_THANKS" = "Non merci";
 
-"GENERATED_COLLECTION_TITLE" = "Ma Collection";
+"GENERATED_COLLECTION_TITLE" = "Ma collection";
 
-"UPSELL_COPY" = "Merci d'utiliser Broadcasts ! Vous pouvez débloquer les fonctionnalités avancées de Broadcasts avec un achat intégré, si vous le souhaitez.\n\nOu, si vous préférez, continuez à utiliser et à modifier les stations préréglées !";
+"UPSELL_COPY" = "Merci d’utiliser Broadcasts ! Vous pouvez débloquer les fonctionnalités avancées de Broadcasts avec un achat intégré, si vous le souhaitez.\n\nOu, si vous préférez, continuez à utiliser et à modifier les stations préréglées !";
 "UPSELL_BUY" = "Acheter (%@)";
-"UPSELL_NOT_AVAILABLE" = "Non Disponible";
-"UPSELL_RESTORE" = "Restaurer l'Achat";
-"UPSELL_NO_THANKS" = "Non Merci";
+"UPSELL_NOT_AVAILABLE" = "Non disponible";
+"UPSELL_RESTORE" = "Restaurer l’achat";
+"UPSELL_NO_THANKS" = "Non merci";
 
-"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nouvelle Collection";
-"TOOLBAR_ADD_STATION_TOOLTIP" = "Ajouter une Station";
-"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Afficher les Collections";
-"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Basculer la Barre Latérale";
-"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Basculer l'Affichage";
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nouvelle collection";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Ajouter une station";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Afficher les collections";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Afficher/masquer la barre latérale";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Changer l’affichage";
 
 "IMAGE_WELL_REMOVE" = "Supprimer";
 "IMAGE_WELL_PASTE" = "Coller";
 "IMAGE_WELL_COPY" = "Copier";
 
-"CARPLAY_EMPTY_LIBRARY" = "Aucune Collection";
-"CARPLAY_ALL_STATIONS" = "Toutes les Stations";
+"CARPLAY_EMPTY_LIBRARY" = "Aucune collection";
+"CARPLAY_ALL_STATIONS" = "Toutes les stations";
 
-"MAC_ADD_STATION_BUTTON" = "Ajouter une Station";
-"MAC_EDIT_STATION_BUTTON" = "Modifier la Station";
+"MAC_ADD_STATION_BUTTON" = "Ajouter une station";
+"MAC_EDIT_STATION_BUTTON" = "Modifier la station";
 
 "MAC_ADD_COLLECTION_BUTTON" = "Ajouter une Collection";
 "MAC_EDIT_COLLECTION_BUTTON" = "Modifier la Collection";
 
-"STATION_DIRECTORY_WINDOW_TITLE" = "Catalogue de Stations";
+"STATION_DIRECTORY_WINDOW_TITLE" = "Catalogue de stations";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Pays";
-"STATION_DIRECTORY_STATIONS" = "%@ Station";
-"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Stations";
+"STATION_DIRECTORY_STATIONS" = "%@ station";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ stations";
 
-"STATION_DIRECTORY_NO_CONNECTION" = "Aucune Connexion";
+"STATION_DIRECTORY_NO_CONNECTION" = "Aucune connexion";
 "STATION_DIRECTORY_CONNECTING" = "Chargement…";
 
-"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Ajouter Manuellement";
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Ajouter manuellement";
 "STATION_DIRECTORY_TOOLBAR_DONE" = "OK";
 
-"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Rechercher les Pays";
-"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Rechercher les Stations";
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Rechercher un pays";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Rechercher une station";
 
-"ADD_STATION_CONTEXT_ADD_STATION" = "Ajouter Manuellement";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Ajouter Depuis le Catalogue";
+"ADD_STATION_CONTEXT_ADD_STATION" = "Ajouter manuellement";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Ajouter depuis le catalogue";
 
 "LIBRARY_STATE_UPLOADING" = "Chargement…";
 "LIBRARY_STATE_DOWNLOADING" = "Téléchargement…";
 "LIBRARY_STATE_PREPARING" = "Préparation…";
 "LIBRARY_STATE_READY" = "À jour";
 "LIBRARY_STATE_MIGRATING" = "Migration…";
-"LIBRARY_STATE_LOCALONLY" = "Local Uniquement";
+"LIBRARY_STATE_LOCALONLY" = "Local uniquement";
 
-"TV_TAB_ALL_STATIONS" = "Toutes les Stations";
-"TV_TAB_RECENTS" = "Récemment Diffusés";
+"TV_TAB_ALL_STATIONS" = "Toutes les stations";
+"TV_TAB_RECENTS" = "Récemment diffusés";
 "TV_TAB_COLLECTIONS" = "Collections";
 
 "TV_NO_LIBRARY_MESSAGE" = "Commencez votre bibliothèque Broadcasts sur iPhone, iPad ou Mac et elle se synchronisera avec votre Apple TV.";
 
-"WATCH_NOW_PLAYING_TITLE" = "En Lecture";
+"WATCH_NOW_PLAYING_TITLE" = "À l’écoute";
 "WATCH_SOURCE_RECENTS" = "Récents";
 "WATCH_SOURCE_COLLECTIONS" = "Collections";
 
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronisation…";
 
 "ALERT_IMPORT" = "Importer";
-"IMPORT_TITLE" = "Importer « %@ » ?";
+"IMPORT_TITLE" = "Importer « %@ » ?";
 "IMPORT_BODY" = "Cette collection partagée contient %ld stations.";
 
-"MOVE_DIALOG_TITLE" = "Déplacer « %@ »";
+"MOVE_DIALOG_TITLE" = "Déplacer « %@ »";
 "MOVE_DIALOG_BODY" = "Choisissez une collection où déplacer cette station.";
