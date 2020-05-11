@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Rostislav Raykov (https://github.com/zbrox) on 2020-05-11.
+  Copyright © 2020 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Старт";
+"SHORTCUT_PAUSE" = "Пауза";
+
+"TOOLBAR_NOTHING_PLAYING" = "Няма активна станция";
+"TOOLBAR_STREAMING_RADIO" = "Радио през интернет";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Старт/Пауза";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Старт/Пауза";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Вкл./Изкл. на звука";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Ниво на звука";
+
+"SIDEBAR_TITLE_LIBRARY" = "Библиотека";
+"SIDEBAR_TITLE_STATIONS" = "Колекции";
+"SIDEBAR_TITLE_RADIO" = "Радио";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Всички станции";
+"SIDEBAR_CATEGORY_RECENTS" = "Скорошни";
+
+"LIST_HEADER_STATION" = "Станция";
+
+"MENU_NEW" = "Създаване";
+"MENU_NEW_STATION" = "Станция…";
+"MENU_NEW_GROUP" = "Колекция…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Нова станция";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Нова колекция";
+
+"MENU_VIEW_AS_GRID" = "като решетка";
+"MENU_VIEW_AS_LIST" = "като списък";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Показване като решетка";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Показване като списък";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Показване на страничната лента";
+"MENU_VIEW_HIDE_SIDEBAR" = "Скриване на страничната лента";
+
+"MENU_HELP_GETSUPPORT" = "Потърсете помощ в Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Показване на съобщението за добре дошли";
+
+"PLAYBACK_ERROR_STALL" = "Връзката до станцията беше прекъсната.";
+
+"SEARCH_PLACEHOLDER" = "Търсене";
+
+"ALERT_OK" = "Добре";
+"ALERT_ADD" = "Добавяне";
+"ALERT_CANCEL" = "Отказ";
+"ALERT_DELETE" = "Изтриване";
+
+"ADD_STATION_WINDOW_TITLE" = "Добавяне на нова станция";
+"EDIT_STATION_WINDOW_TITLE" = "Редактиране на станция";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Име";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://адрес/до/стрийма";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Избор на изображение";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Добавяне на нова колекция";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Редактиране на колекция";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Моята колекция";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Редактиране";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Изтриване на колекция";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Споделяне";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Редактиране";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Изтриване на станция";
+"STATION_CONTEXT_MOVE" = "Преместване в колекция";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Изтриване на \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Сигурни ли сте, че искате да изтриете тази колекция и всички станции в нея?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Изтриване на \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Сигурни ли сте, че искате да изтриете тази станция?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Няма станции";
+
+"WELCOME_COPY" = "Добре дошли в Broadcasts! Ако желаете, имаме няколко предварително избрани станции от Ирландия, от където сме ние, които може да използвате, за да започнете библиотеката си.\n\nВ противен случай, можете да добавите станции от нулата ръчно или да добавите някоя от хилядите в нашите списъци.";
+
+"WELCOME_UPSELL" = "Добре дошли в Broadcasts! В тази безплатна версия има няколко предварително избрани станции от Ирландия, от където сме ние, с които да започнете библиотеката си.\n\nАко желаете, може да надградите до платената версия, с която може да добавяте станции ръчно или да изберете станции от хилядите в нашия списък.";
+
+"WELCOME_ADD_PRESETS" = "Добавяне на предварително зададена станция";
+"WELCOME_NO_THANKS" = "Не, благодаря";
+
+"GENERATED_COLLECTION_TITLE" = "Моята колекция";
+
+"UPSELL_COPY" = "Благодарим ви, че използвате Broadcasts!\n\nАко желаете, може да отключите надградената функционалност на Broadcasts с покупка в програмата.\n\nАко предпочитате, може да продължите да ползвате програмата с базовата фунцкионалност и да редактирате предварително зададените станции!";
+"UPSELL_BUY" = "Закупуване (%@)";
+"UPSELL_NOT_AVAILABLE" = "Не е налично";
+"UPSELL_RESTORE" = "Възстановяване на покупка";
+"UPSELL_NO_THANKS" = "Не, благодаря";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Нова колекция";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Добавяне на станция";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Показване на колекции";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Вкл./Изкл. на страничната лента";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Превключване на между изгледи";
+
+"IMAGE_WELL_REMOVE" = "Премахване";
+"IMAGE_WELL_PASTE" = "Поставяне";
+"IMAGE_WELL_COPY" = "Копиране";
+
+"CARPLAY_EMPTY_LIBRARY" = "Няма колекции";
+"CARPLAY_ALL_STATIONS" = "Всички станции";
+
+"MAC_ADD_STATION_BUTTON" = "Добавяне на станция";
+"MAC_EDIT_STATION_BUTTON" = "Редактиране на станция";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Добавяне на колекция";
+"MAC_EDIT_COLLECTION_BUTTON" = "Редактиране на колекция";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Разглеждане на станции";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Държави";
+"STATION_DIRECTORY_STATIONS" = "Станция %@";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "Станции %@";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Няма връзка";
+"STATION_DIRECTORY_CONNECTING" = "Зарежда се…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Ръчно добавяне";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Готово";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Търсене на държави";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Търсене на станции";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Ръчно добавяне";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Добавяне от списък";
+
+"LIBRARY_STATE_UPLOADING" = "Качва се…";
+"LIBRARY_STATE_DOWNLOADING" = "Сваля се…";
+"LIBRARY_STATE_PREPARING" = "Подготвя се…";
+"LIBRARY_STATE_READY" = "Актуална информация";
+"LIBRARY_STATE_MIGRATING" = "Мигрира се…";
+"LIBRARY_STATE_LOCALONLY" = "Само локално";
+
+"TV_TAB_ALL_STATIONS" = "Всички станции";
+"TV_TAB_RECENTS" = "Наскоро слушани";
+"TV_TAB_COLLECTIONS" = "Колекции";
+
+"TV_NO_LIBRARY_MESSAGE" = "Започнете своята Broadcasts библиотека на iPhone, iPad или Mac и тя ще се синхронизира с Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Текущо преслушване";
+"WATCH_SOURCE_RECENTS" = "Скорошни";
+"WATCH_SOURCE_COLLECTIONS" = "Колекции";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Синхронизира се…";
+
+"ALERT_IMPORT" = "Внасяне";
+"IMPORT_TITLE" = "Внасяне на \"%@\"?";
+"IMPORT_BODY" = "Тази споделена колекция съдържа %ld станции.";
+
+"MOVE_DIALOG_TITLE" = "Преместване на \"%@\"";
+"MOVE_DIALOG_BODY" = "Изберете колекция, в която да преместите тази станция.";
