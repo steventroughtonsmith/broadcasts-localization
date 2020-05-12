@@ -136,7 +136,7 @@
 "LIBRARY_STATE_UPLOADING" = "Качва се…";
 "LIBRARY_STATE_DOWNLOADING" = "Сваля се…";
 "LIBRARY_STATE_PREPARING" = "Подготвя се…";
-"LIBRARY_STATE_READY" = "Актуална информация";
+"LIBRARY_STATE_READY" = "Актуализирано";
 "LIBRARY_STATE_MIGRATING" = "Мигрира се…";
 "LIBRARY_STATE_LOCALONLY" = "Само локално";
 
