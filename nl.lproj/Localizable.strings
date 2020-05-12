@@ -9,7 +9,7 @@
 "SHORTCUT_PLAY" = "Speel";
 "SHORTCUT_PAUSE" = "Pauzeer";
 
-"TOOLBAR_NOTHING_PLAYING" = "Er wordt niks afgespeeld";
+"TOOLBAR_NOTHING_PLAYING" = "Er wordt niets afgespeeld";
 "TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Speel/pauzeer";
@@ -22,7 +22,7 @@
 "SIDEBAR_TITLE_RADIO" = "Radio";
 
 "SIDEBAR_CATEGORY_ALL_STATIONS" = "Alle zenders";
-"SIDEBAR_CATEGORY_RECENTS" = "Recente";
+"SIDEBAR_CATEGORY_RECENTS" = "Onlangs afgespeeld";
 
 "LIST_HEADER_STATION" = "Zender";
 
@@ -147,7 +147,7 @@
 "TV_NO_LIBRARY_MESSAGE" = "Begin een Broadcasts-bibliotheek op uw iPhone, iPad of Mac en deze zal ook gesynchroniseerd worden naar uw Apple TV.";
 
 "WATCH_NOW_PLAYING_TITLE" = "Huidige";
-"WATCH_SOURCE_RECENTS" = "Recente";
+"WATCH_SOURCE_RECENTS" = "Onlangs afgespeeld";
 "WATCH_SOURCE_COLLECTIONS" = "Verzamelingen";
 
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchroniseren…";
