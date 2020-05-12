@@ -44,8 +44,8 @@
 "MENU_VIEW_SHOW_SIDEBAR" = "显示边栏";
 "MENU_VIEW_HIDE_SIDEBAR" = "隐藏边栏";
 
-"MENU_HELP_GETSUPPORT" = "在 Twitter 上获取支持…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "显示欢迎界面";
+"MENU_HELP_GETSUPPORT" = "在Twitter上获取支持…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "显示欢迎页";
 
 "PLAYBACK_ERROR_STALL" = "与电台失去连接。";
 
@@ -77,16 +77,16 @@
 "STATION_CONTEXT_MOVE" = "移动至合集";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "删除“%@”";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "是否删除这个合集以及其中的所有电台？";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "是否删除此合集以及其中的所有电台？";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "删除“%@”";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "是否删除此电台？";
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "暂无电台";
 
-"WELCOME_COPY" = "欢迎来到Broadcasts！这里有一些来自我们本地的预置电台，你可以从它们开始。\n\n或者，你也可以手动添加你自己的电台，又或者从上千个电台目录里任意挑选。";
+"WELCOME_COPY" = "欢迎来到Broadcasts！这里有一些来自我们爱尔兰本地的预置电台，你可以从它们开始。\n\n或者，你也可以手动添加你自己的电台，又或者从上千个电台目录里任意挑选。";
 
-"WELCOME_UPSELL" = "欢迎来到Broadcasts！在免费版本里，我们提供了一些来自我们本地的预置电台，你可以从它们开始。\n\n或者，你可以选择升级至付费版本，来手动添加你自己的电台，又或者从上千个电台目录里任意挑选。";
+"WELCOME_UPSELL" = "欢迎来到Broadcasts！在免费版本里，我们提供了一些来自我们爱尔兰本地的预置电台，你可以从它们开始。\n\n或者，你可以选择升级至付费版本，来手动添加你自己的电台，又或者从上千个电台目录里任意挑选。";
 
 "WELCOME_ADD_PRESETS" = "添加预置电台";
 "WELCOME_NO_THANKS" = "不用了，谢谢";
@@ -146,7 +146,7 @@
 "TV_TAB_RECENTS" = "最近播放";
 "TV_TAB_COLLECTIONS" = "电台合集";
 
-"TV_NO_LIBRARY_MESSAGE" = "在 iPhone、iPad 或 Mac 上启动 Broadcasts，电台库会同步至 Apple TV。";
+"TV_NO_LIBRARY_MESSAGE" = "在iPhone、iPad或Mac上启动Broadcasts，电台库会同步至Apple TV。";
 
 "WATCH_NOW_PLAYING_TITLE" = "正在播放";
 "WATCH_SOURCE_RECENTS" = "最近播放";
