@@ -1,0 +1,162 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+  
+  Danish translation by Simon Gredal (@simongr3dal)
+*/
+
+"SHORTCUT_PLAY" = "Play";
+"SHORTCUT_PAUSE" = "Pause";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nothing playing";
+"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Play/Pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Play/Pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Slå lydløs til/fra";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Lydstyrke";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliotek";
+"SIDEBAR_TITLE_STATIONS" = "Samlinger";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Alle stationer";
+"SIDEBAR_CATEGORY_RECENTS" = "Seneste";
+
+"LIST_HEADER_STATION" = "Station";
+
+"MENU_NEW" = "Ny";
+"MENU_NEW_STATION" = "Station…";
+"MENU_NEW_GROUP" = "Samling…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Ny station";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Ny samling";
+
+"MENU_VIEW_AS_GRID" = "som net";
+"MENU_VIEW_AS_LIST" = "som liste";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Vis som net";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Vis som liste";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Show sidepanel";
+"MENU_VIEW_HIDE_SIDEBAR" = "Hide sidepanel";
+
+"MENU_HELP_GETSUPPORT" = "Få support på Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Vis velkomstmenu";
+
+"PLAYBACK_ERROR_STALL" = "Forbindelse til stationen blev tabt.";
+
+"SEARCH_PLACEHOLDER" = "Søg";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Tilføj";
+"ALERT_CANCEL" = "Anuller";
+"ALERT_DELETE" = "Slet";
+
+"ADD_STATION_WINDOW_TITLE" = "Tilføj ny station";
+"EDIT_STATION_WINDOW_TITLE" = "Rediger Station";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Navn";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://sti/til/lydstream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Vælg billede";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Tilføj ny samling";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Rediger samling";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Min Samling";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Rediger";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Slet samling";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Del";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Rediger";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Slet station";
+"STATION_CONTEXT_MOVE" = "Flyt til Samling";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Slet \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Er du sikker på at du vil slette denne samling og alle stationerne i den?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Slet \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Er du sikker på at du vil slette denne station??";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Ingen stationer";
+
+"WELCOME_COPY" = "Velkommen til Udsendelser! Hvis du har lyst, har vi nogle forudinstillede stationer fra vores hjem som vi kan tilføje til dit bibliotek.\n\nEller, hvis du foretrækker, kan du tilføje dine egne stationer manuelt eller vælge blandt tusinder i det indbyggede katalog.";
+
+"WELCOME_UPSELL" = "Velkommen til Udsendelser! I denne gratis version, har vi nogle forudinstillede stationer fra vores hjem som vi kan tilføje til dit bibliotek.\n\nEller, hvis du foretrækker, at opgradere til den betalte version, kan du tilføje dine egne stationer manuelt eller vælge blandt tusinder i det indbyggede katalog.";
+
+"WELCOME_ADD_PRESETS" = "Tilføj forudindstillede stationer";
+"WELCOME_NO_THANKS" = "Nej tak";
+
+"GENERATED_COLLECTION_TITLE" = "Min Samling";
+
+"UPSELL_COPY" = "Thanks for using Broadcasts!\n\nYou can unlock the advanced features of Broadcasts with an in-app purchase, if you'd like.\n\nOr, if you prefer, continue to use and edit the preset stations!";
+"UPSELL_BUY" = "Køb (%@)";
+"UPSELL_NOT_AVAILABLE" = "Ikke tilgængelig";
+"UPSELL_RESTORE" = "Genskab køb";
+"UPSELL_NO_THANKS" = "Nej tak";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Ny samling";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Tilføj station";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Vis samlinger";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Slå sidepanel til/fra";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Slå oversigt til/fra";
+
+"IMAGE_WELL_REMOVE" = "Fjern";
+"IMAGE_WELL_PASTE" = "Indsæt";
+"IMAGE_WELL_COPY" = "Kopier";
+
+"CARPLAY_EMPTY_LIBRARY" = "Ingen samlinger";
+"CARPLAY_ALL_STATIONS" = "Alle stations";
+
+"MAC_ADD_STATION_BUTTON" = "Tilføj station";
+"MAC_EDIT_STATION_BUTTON" = "Rediger station";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Tilføj samling";
+"MAC_EDIT_COLLECTION_BUTTON" = "Rediger samling";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Station Browser";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Lande";
+"STATION_DIRECTORY_STATIONS" = "%@ Station";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Stationer";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Ingen forbindelse";
+"STATION_DIRECTORY_CONNECTING" = "Indlæser…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Tilføj manuelt";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Færdig";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Search Countries";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Search Stations";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Tilføj manuelt";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Tilføj fra katalog";
+
+"LIBRARY_STATE_UPLOADING" = "Uploader…";
+"LIBRARY_STATE_DOWNLOADING" = "Downloader…";
+"LIBRARY_STATE_PREPARING" = "Klargører…";
+"LIBRARY_STATE_READY" = "Opdateret";
+"LIBRARY_STATE_MIGRATING" = "Overfører…";
+"LIBRARY_STATE_LOCALONLY" = "Kun lokal";
+
+"TV_TAB_ALL_STATIONS" = "Alle stationer";
+"TV_TAB_RECENTS" = "Afspillet fornyligt";
+"TV_TAB_COLLECTIONS" = "Samlinger";
+
+"TV_NO_LIBRARY_MESSAGE" = "Åbn Udsendelser på din iPhone, iPad, eller Mac så synkroniserer den med Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Afspiller nu";
+"WATCH_SOURCE_RECENTS" = "Seneste";
+"WATCH_SOURCE_COLLECTIONS" = "Samlinger";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synkroniserer…";
+
+"ALERT_IMPORT" = "Importér";
+"IMPORT_TITLE" = "Importér \"%@\"?";
+"IMPORT_BODY" = "Denne delte samling indeholder %ld stationer.";
+
+"MOVE_DIALOG_TITLE" = "Flyt \"%@\"";
+"MOVE_DIALOG_BODY" = "Vælg en samling at flytte denne station til.";
