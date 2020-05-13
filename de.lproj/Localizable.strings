@@ -6,48 +6,48 @@
   Copyright © 2019 High Caffeine Content. All rights reserved.
 */
 
-"SHORTCUT_PLAY" = "Abspielen";
+"SHORTCUT_PLAY" = "Wiedergabe";
 "SHORTCUT_PAUSE" = "Pause";
 
 "TOOLBAR_NOTHING_PLAYING" = "Keine Wiedergabe";
-"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+"TOOLBAR_STREAMING_RADIO" = "Livestream";
 
-"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Abspielen/Pause";
-"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Abspielen/Pause";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Stumm";
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Wiedergabe/Pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Wiedergabe/Pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Stumm ein/aus";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Lautstärke";
 
-"SIDEBAR_TITLE_LIBRARY" = "Bibliothek";
-"SIDEBAR_TITLE_STATIONS" = "Sammlung";
+"SIDEBAR_TITLE_LIBRARY" = "Mediathek";
+"SIDEBAR_TITLE_STATIONS" = "Sammlungen";
 "SIDEBAR_TITLE_RADIO" = "Radio";
 
 "SIDEBAR_CATEGORY_ALL_STATIONS" = "Alle Sender";
-"SIDEBAR_CATEGORY_RECENTS" = "Letzte";
+"SIDEBAR_CATEGORY_RECENTS" = "Zuletzt gespielt";
 
 "LIST_HEADER_STATION" = "Sender";
 
 "MENU_NEW" = "Neu";
-"MENU_NEW_STATION" = "Sender…";
-"MENU_NEW_GROUP" = "Sammlung…";
+"MENU_NEW_STATION" = "Sender …";
+"MENU_NEW_GROUP" = "Sammlung …";
 
 "DISCOVERABILITY_HUD_NEW_STATION" = "Neuer Sender";
 "DISCOVERABILITY_HUD_NEW_GROUP" = "Neue Sammlung";
 
-"MENU_VIEW_AS_GRID" = "als Kacheln";
+"MENU_VIEW_AS_GRID" = "als Raster";
 "MENU_VIEW_AS_LIST" = "als Liste";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Anzeigen als Kacheln";
-"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Anzeigen als Liste";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Als Raster darstellen";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Als Liste darstellen";
 
-"MENU_VIEW_SHOW_SIDEBAR" = "Seitenleiste anzeigen";
-"MENU_VIEW_HIDE_SIDEBAR" = "Seitenleiste verbergen";
+"MENU_VIEW_SHOW_SIDEBAR" = "Seitenleiste einblenden";
+"MENU_VIEW_HIDE_SIDEBAR" = "Seitenleiste ausblenden";
 
-"MENU_HELP_GETSUPPORT" = "Bekomme Hilfe auf Twitter…";
+"MENU_HELP_GETSUPPORT" = "Erhalte Hilfe auf Twitter …";
 "MENU_HELP_SHOW_WELCOME_SCREEN" = "Willkommensseite anzeigen";
 
-"PLAYBACK_ERROR_STALL" = "Verbindung zum Sender wurde verloren.";
+"PLAYBACK_ERROR_STALL" = "Die Verbindung zum Sender ist abgebrochen.";
 
-"SEARCH_PLACEHOLDER" = "Suche";
+"SEARCH_PLACEHOLDER" = "Suchen";
 
 "ALERT_OK" = "OK";
 "ALERT_ADD" = "Hinzufügen";
@@ -72,40 +72,40 @@
 
 "STATION_CONTEXT_EDIT_COLLECTION" = "Bearbeiten";
 "STATION_CONTEXT_DELETE_COLLECTION" = "Sender löschen";
-"STATION_CONTEXT_MOVE" = "Verschieben in Sammlung";
+"STATION_CONTEXT_MOVE" = "In Sammlung verschieben";
 
-"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "\"%@\" löschen";
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "„%@“ löschen";
 "CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bist du sicher, dass du diese Sammlung und alle darin enthaltenen Sender löschen möchtest?";
 
-"CONTEXT_ALERT_DELETE_STATION_TITLE" = "\"%@\" löschen";
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "„%@“ löschen";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "Bist du sicher, dass du diesen Sender löschen möchtest?";
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Keine Sender";
 
-"WELCOME_COPY" = "Willkommen bei Broadcasts! Wenn du möchtest, haben wir ein paar voreingestellte Sender aus unserer Heimat um deine Bibliothek zu starten.\n\Andernfalls, füge einfach deine eigenen Sender hinzu oder wähle aus tausenden Sendern im Sender-Verzeichnis.";
+"WELCOME_COPY" = "Willkommen bei Broadcasts! Wenn du möchtest, kannst du ein paar irische Sender als Voreinstellung zu deiner Mediathek hinzufügen.\n\Andernfalls füge einfach deine eigenen Sender hinzu oder wähle aus tausenden Sendern im Senderverzeichnis aus.";
 
-"WELCOME_UPSELL" = "Willkommen bei Broadcasts! In dieser kostenlosen Version haben wir ein paar voreingestellte Sender aus unserer Heimat um deine Bibliothek zu starten.\n\nWenn du ein Upgrade auf die bezahlte Version machst, kannst du deine eigenen Sender hinzufügen oder einfach aus den tausenden im Sender-Verzeichnis auswählen.";
+"WELCOME_UPSELL" = "Willkommen bei Broadcasts! In dieser kostenlosen Version haben wir ein paar irische Sender als Voreinstellung zu deiner Mediathek hinzugefügt.\n\nWenn du ein Upgrade auf die bezahlte Version machst, kannst du deine eigenen Sender hinzufügen oder aus tausenden Sendern im Senderverzeichnis auswählen.";
 
 "WELCOME_ADD_PRESETS" = "Voreingestellte Sender hinzufügen";
-"WELCOME_NO_THANKS" = "Nein, Danke";
+"WELCOME_NO_THANKS" = "Nein danke";
 
 "GENERATED_COLLECTION_TITLE" = "Meine Sammlung";
 
-"UPSELL_COPY" = "Danke, dass du Broadcasts benutzt!\n\nWenn du möchtest, kannst du mit einem In-App Kauf mehr Features von Broadcasts freischalten.\n\nAndernfalls, kannst du die App weiter benutzen und die voreingestellten Sender bearbeiten.";
+"UPSELL_COPY" = "Danke, dass du Broadcasts benutzt!\n\nWenn du möchtest, kannst du mit einem In-App-Kauf alle Funktionen von Broadcasts freischalten.\n\nAndernfalls kannst du weiterhin die voreingestellten Sender anhören und bearbeiten.";
 
 "UPSELL_BUY" = "Kaufen (%@)";
 "UPSELL_NOT_AVAILABLE" = "Nicht verfügbar";
 "UPSELL_RESTORE" = "Kauf wiederherstellen";
-"UPSELL_NO_THANKS" = "Nein, Danke";
+"UPSELL_NO_THANKS" = "Nein danke";
 
 "TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Neue Sammlung";
 "TOOLBAR_ADD_STATION_TOOLTIP" = "Sender hinzufügen";
-"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Zeige Sammlungen";
-"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Seitenleiste umschalten";
-"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Ansicht umschalten";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Sammlungen anzeigen";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Seitenleiste ein-/ausblenden";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Darstellung wechseln";
 
 "IMAGE_WELL_REMOVE" = "Entfernen";
-"IMAGE_WELL_PASTE" = "Einfügen";
+"IMAGE_WELL_PASTE" = "Einsetzen";
 "IMAGE_WELL_COPY" = "Kopieren";
 
 "CARPLAY_EMPTY_LIBRARY" = "Keine Sammlungen";
@@ -117,46 +117,46 @@
 "MAC_ADD_COLLECTION_BUTTON" = "Sammlung hinzufügen";
 "MAC_EDIT_COLLECTION_BUTTON" = "Sammlung bearbeiten";
 
-"STATION_DIRECTORY_WINDOW_TITLE" = "Sender-Verzeichnis";
+"STATION_DIRECTORY_WINDOW_TITLE" = "Senderverzeichnis";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Länder";
 "STATION_DIRECTORY_STATIONS" = "%@ Sender";
 "STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Sender";
 
 "STATION_DIRECTORY_NO_CONNECTION" = "Keine Verbindung";
-"STATION_DIRECTORY_CONNECTING" = "Laden…";
+"STATION_DIRECTORY_CONNECTING" = "Laden …";
 
 "STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Manuell hinzufügen";
 "STATION_DIRECTORY_TOOLBAR_DONE" = "Fertig";
 
-"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Suche Länder";
-"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Suche Sender";
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Länder durchsuchen";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Sender durchsuchen";
 
 "ADD_STATION_CONTEXT_ADD_STATION" = "Manuell hinzufügen";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Vom Verzeichnis hinzufügen";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Aus Verzeichnis hinzufügen";
 
-"LIBRARY_STATE_UPLOADING" = "Hochladen…";
-"LIBRARY_STATE_DOWNLOADING" = "Herunterladen…";
-"LIBRARY_STATE_PREPARING" = "Vorbereiten…";
+"LIBRARY_STATE_UPLOADING" = "Hochladen …";
+"LIBRARY_STATE_DOWNLOADING" = "Herunterladen …";
+"LIBRARY_STATE_PREPARING" = "Vorbereiten …";
 "LIBRARY_STATE_READY" = "Aktuell";
-"LIBRARY_STATE_MIGRATING" = "Migrieren…";
+"LIBRARY_STATE_MIGRATING" = "Migrieren …";
 "LIBRARY_STATE_LOCALONLY" = "Nur lokal";
 
 "TV_TAB_ALL_STATIONS" = "Alle Sender";
-"TV_TAB_RECENTS" = "Zuletzt abgespielt";
-"TV_TAB_COLLECTIONS" = "Sammlung";
+"TV_TAB_RECENTS" = "Zuletzt gespielt";
+"TV_TAB_COLLECTIONS" = "Sammlungen";
 
-"TV_NO_LIBRARY_MESSAGE" = "Starte deine Broadcasts Bibliothek auf dem iPhone, iPad oder Mac und diese wird mit deinem Apple TV synchronisiert";
+"TV_NO_LIBRARY_MESSAGE" = "Erstelle deine Broadcasts-Mediathek auf deinem iPhone, iPad oder Mac, diese wird dann mit deinem Apple TV synchronisiert.";
 
-"WATCH_NOW_PLAYING_TITLE" = "Läuft gerade";
-"WATCH_SOURCE_RECENTS" = "Zuletzt";
-"WATCH_SOURCE_COLLECTIONS" = "Sammlung";
+"WATCH_NOW_PLAYING_TITLE" = "Jetzt läuft";
+"WATCH_SOURCE_RECENTS" = "Zuletzt gespielt";
+"WATCH_SOURCE_COLLECTIONS" = "Sammlungen";
 
-"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronisieren…";
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchronisieren …";
 
 "ALERT_IMPORT" = "Importieren";
-"IMPORT_TITLE" = "\"%@\" importieren?";
-"IMPORT_BODY" = "Diese geteilte Bibliothek enthält %ld Sender.";
+"IMPORT_TITLE" = "„%@“ importieren?";
+"IMPORT_BODY" = "Diese geteilte Mediathek enthält %ld Sender.";
 
-"MOVE_DIALOG_TITLE" = "\"%@\" verschieben";
-"MOVE_DIALOG_BODY" = "Wähle eine Sammlung aus in die der Sender verschoben werden soll.";
+"MOVE_DIALOG_TITLE" = "„%@“ verschieben";
+"MOVE_DIALOG_BODY" = "Wähle die Sammlung aus, in die dieser Sender verschoben werden soll.";
 
