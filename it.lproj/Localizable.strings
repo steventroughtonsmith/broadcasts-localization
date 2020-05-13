@@ -1,0 +1,162 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+  
+  Italian translation by pirafrank
+*/
+
+"SHORTCUT_PLAY" = "Play";
+"SHORTCUT_PAUSE" = "Pausa";
+
+"TOOLBAR_NOTHING_PLAYING" = "Non in ascolto";
+"TOOLBAR_STREAMING_RADIO" = "Radio in streaming";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Play/Pausa";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Play/Pausa";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Attiva/Disattiva";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
+
+"SIDEBAR_TITLE_LIBRARY" = "Libreria";
+"SIDEBAR_TITLE_STATIONS" = "Raccolte";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Tutte le stazioni";
+"SIDEBAR_CATEGORY_RECENTS" = "Recenti";
+
+"LIST_HEADER_STATION" = "Stazioni";
+
+"MENU_NEW" = "Nuova";
+"MENU_NEW_STATION" = "Stazione…";
+"MENU_NEW_GROUP" = "Raccolta…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nuova stazione";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nuova raccolta";
+
+"MENU_VIEW_AS_GRID" = "Come icone";
+"MENU_VIEW_AS_LIST" = "Come elenco";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Visualizza come icone";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Visualizza come elenco";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Mostra barra laterale";
+"MENU_VIEW_HIDE_SIDEBAR" = "Nascondi barra laterale";
+
+"MENU_HELP_GETSUPPORT" = "Ottieni supporto su Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Mostra pannello di benvenuto";
+
+"PLAYBACK_ERROR_STALL" = "Connessione con la stazione persa.";
+
+"SEARCH_PLACEHOLDER" = "Cerca";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Aggiungi";
+"ALERT_CANCEL" = "Annulla";
+"ALERT_DELETE" = "Elimina";
+
+"ADD_STATION_WINDOW_TITLE" = "Aggiungi nuova stazione";
+"EDIT_STATION_WINDOW_TITLE" = "Modifica stazione";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nome";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://percorso/allo/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Seleziona immagine";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Aggiungi nuova raccolta";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Modifica raccolta";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "La mia raccolta";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Modifica";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Elimina raccolta";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Condividi";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Modifica";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Elimina stazione";
+"STATION_CONTEXT_MOVE" = "Sposta nella raccolta";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Elimina \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Vuoi davvero eliminare questa raccolta e tutte le stazioni al suo interno?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Elimina \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Vuoi davvero eliminare questa stazione?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Nessuna stazione";
+
+"WELCOME_COPY" = "Ti diamo il benvenuto su Broadcasts! Sei vuoi, possiamo iniziare aggiungendo alcune stazioni predefinite irlandesi alla tua libreria.\n\nOppure, se preferisci, aggiungi le tue stazioni manualmente o scegliendo tra le migliaia disponibili.";
+
+"WELCOME_UPSELL" = "Ti diamo il benvenuto su Broadcasts! In questa versione gratuita, possiamo iniziare aggiungendo alcune stazioni predefinite irlandesi alla tua libreria.\n\nOppure, se preferisci, passa alla versione a pagamento e aggiungi le tue stazioni manualmente o scegliendo tra le migliaia disponibili.";
+
+"WELCOME_ADD_PRESETS" = "Aggiungi";
+"WELCOME_NO_THANKS" = "No, grazie";
+
+"GENERATED_COLLECTION_TITLE" = "La mia raccolta";
+
+"UPSELL_COPY" = "Grazie di aver usato Broadcasts!\n\nSe vuoi, puoi sbloccare le funzioni avanzante di Broadcasts con un acquisto in-app.\n\nOppure, se preferisci, puoi continuare a usare e modificare le stazioni predefinite!";
+"UPSELL_BUY" = "Compra (%@)";
+"UPSELL_NOT_AVAILABLE" = "Non disponibile";
+"UPSELL_RESTORE" = "Ripristina acquisto";
+"UPSELL_NO_THANKS" = "No, grazie";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Aggiungi raccolta";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Aggiungi stazione";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Mostra raccolte";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Mostra/Nascondi barra laterale";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Cambia vista";
+
+"IMAGE_WELL_REMOVE" = "Rimuovi";
+"IMAGE_WELL_PASTE" = "Incolla";
+"IMAGE_WELL_COPY" = "Copia";
+
+"CARPLAY_EMPTY_LIBRARY" = "Nessuna raccolta";
+"CARPLAY_ALL_STATIONS" = "Tutte le stazioni";
+
+"MAC_ADD_STATION_BUTTON" = "Aggiungi stazione";
+"MAC_EDIT_STATION_BUTTON" = "Modifica stazione";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Aggiungi raccolta";
+"MAC_EDIT_COLLECTION_BUTTON" = "Modifica raccolta";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Elenco stazioni";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Paesi";
+"STATION_DIRECTORY_STATIONS" = "%@ Stazione";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Stazioni";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Nessuna connessione";
+"STATION_DIRECTORY_CONNECTING" = "Caricamento…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Aggiungi manualmente";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Fatto";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Cerca paesi";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Cerca stazioni";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Aggiungi manualmente";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Aggiungi dalla directory";
+
+"LIBRARY_STATE_UPLOADING" = "Upload…";
+"LIBRARY_STATE_DOWNLOADING" = "Download…";
+"LIBRARY_STATE_PREPARING" = "Caricamento…";
+"LIBRARY_STATE_READY" = "Aggionato";
+"LIBRARY_STATE_MIGRATING" = "Migrazione…";
+"LIBRARY_STATE_LOCALONLY" = "Solo in locale";
+
+"TV_TAB_ALL_STATIONS" = "Tutte le stazioni";
+"TV_TAB_RECENTS" = "Riprodotte di recente";
+"TV_TAB_COLLECTIONS" = "Raccolte";
+
+"TV_NO_LIBRARY_MESSAGE" = "Crea la tua libreria Broadcasts su iPhone, iPad oppure su Mac ed essa sarà sincronizzata con Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "In riproduzione";
+"WATCH_SOURCE_RECENTS" = "Recenti";
+"WATCH_SOURCE_COLLECTIONS" = "Raccolte";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sincronizzazione…";
+
+"ALERT_IMPORT" = "Importa";
+"IMPORT_TITLE" = "Importa \"%@\"?";
+"IMPORT_BODY" = "Questa raccolta condivisa contiene %ld stazioni.";
+
+"MOVE_DIALOG_TITLE" = "Sposta \"%@\"";
+"MOVE_DIALOG_BODY" = "Scegli una raccolta in cui spostare questa stazione.";

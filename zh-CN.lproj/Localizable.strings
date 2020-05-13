@@ -1,0 +1,162 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+
+  Chinese (Simplified) translation by PBB
+*/
+
+"SHORTCUT_PLAY" = "播放";
+"SHORTCUT_PAUSE" = "暂停";
+
+"TOOLBAR_NOTHING_PLAYING" = "未在播放";
+"TOOLBAR_STREAMING_RADIO" = "正在缓冲";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "播放/暂停";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "播放/暂停";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "切换静音";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "音量";
+
+"SIDEBAR_TITLE_LIBRARY" = "电台库";
+"SIDEBAR_TITLE_STATIONS" = "电台合集";
+"SIDEBAR_TITLE_RADIO" = "电台";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "所有电台";
+"SIDEBAR_CATEGORY_RECENTS" = "最近播放";
+
+"LIST_HEADER_STATION" = "电台";
+
+"MENU_NEW" = "新建";
+"MENU_NEW_STATION" = "电台…";
+"MENU_NEW_GROUP" = "合集…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "新建电台";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "新建合集";
+
+"MENU_VIEW_AS_GRID" = "显示为网格";
+"MENU_VIEW_AS_LIST" = "显示为列表";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "显示为网格";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "显示为列表";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "显示边栏";
+"MENU_VIEW_HIDE_SIDEBAR" = "隐藏边栏";
+
+"MENU_HELP_GETSUPPORT" = "在Twitter上获取支持…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "显示欢迎页";
+
+"PLAYBACK_ERROR_STALL" = "与电台失去连接。";
+
+"SEARCH_PLACEHOLDER" = "搜索";
+
+"ALERT_OK" = "好";
+"ALERT_ADD" = "添加";
+"ALERT_CANCEL" = "取消";
+"ALERT_DELETE" = "删除";
+
+"ADD_STATION_WINDOW_TITLE" = "添加新电台";
+"EDIT_STATION_WINDOW_TITLE" = "编辑电台";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "名称";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://电台流地址";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "选择图片";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "添加新合集";
+"EDIT_COLLECTION_WINDOW_TITLE" = "编辑合集";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "我的合集";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "编辑";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "删除合集";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "分享";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "编辑";
+"STATION_CONTEXT_DELETE_COLLECTION" = "删除电台";
+"STATION_CONTEXT_MOVE" = "移动至合集";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "删除“%@”";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "是否删除此合集以及其中的所有电台？";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "删除“%@”";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "是否删除此电台？";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "暂无电台";
+
+"WELCOME_COPY" = "欢迎来到Broadcasts！这里有一些来自我们爱尔兰本地的预置电台，你可以从它们开始。\n\n或者，你也可以手动添加你自己的电台，又或者从上千个电台目录里任意挑选。";
+
+"WELCOME_UPSELL" = "欢迎来到Broadcasts！在免费版本里，我们提供了一些来自我们爱尔兰本地的预置电台，你可以从它们开始。\n\n或者，你可以选择升级至付费版本，来手动添加你自己的电台，又或者从上千个电台目录里任意挑选。";
+
+"WELCOME_ADD_PRESETS" = "添加预置电台";
+"WELCOME_NO_THANKS" = "不用了，谢谢";
+
+"GENERATED_COLLECTION_TITLE" = "我的合集";
+
+"UPSELL_COPY" = "感谢使用Broadcasts！\n\n如果你喜欢的话，可以通过应用内购买来解锁Broadcasts的高级功能。\n\n或者，你也可以通过编辑预置电台来继续使用。";
+"UPSELL_BUY" = "购买（%@）";
+"UPSELL_NOT_AVAILABLE" = "暂不支持购买";
+"UPSELL_RESTORE" = "恢复购买";
+"UPSELL_NO_THANKS" = "不用了，谢谢";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "新合集";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "添加电台";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "显示合集";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "切换边栏";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "切换视图";
+
+"IMAGE_WELL_REMOVE" = "移除";
+"IMAGE_WELL_PASTE" = "粘贴";
+"IMAGE_WELL_COPY" = "复制";
+
+"CARPLAY_EMPTY_LIBRARY" = "暂无合集";
+"CARPLAY_ALL_STATIONS" = "所有电台";
+
+"MAC_ADD_STATION_BUTTON" = "添加电台";
+"MAC_EDIT_STATION_BUTTON" = "确定";
+
+"MAC_ADD_COLLECTION_BUTTON" = "添加合集";
+"MAC_EDIT_COLLECTION_BUTTON" = "确定";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "电台目录";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "国家";
+"STATION_DIRECTORY_STATIONS" = "%@个电台";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@个电台";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "无网络连接";
+"STATION_DIRECTORY_CONNECTING" = "正在加载…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "手动添加";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "完成";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "搜索国家";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "搜索电台";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "手动添加";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "从电台目录中添加";
+
+"LIBRARY_STATE_UPLOADING" = "正在上传…";
+"LIBRARY_STATE_DOWNLOADING" = "正在下载…";
+"LIBRARY_STATE_PREPARING" = "准备中…";
+"LIBRARY_STATE_READY" = "已是最新";
+"LIBRARY_STATE_MIGRATING" = "正在迁移…";
+"LIBRARY_STATE_LOCALONLY" = "仅本地";
+
+"TV_TAB_ALL_STATIONS" = "所有电台";
+"TV_TAB_RECENTS" = "最近播放";
+"TV_TAB_COLLECTIONS" = "电台合集";
+
+"TV_NO_LIBRARY_MESSAGE" = "在iPhone、iPad或Mac上启动Broadcasts，电台库会同步至Apple TV。";
+
+"WATCH_NOW_PLAYING_TITLE" = "正在播放";
+"WATCH_SOURCE_RECENTS" = "最近播放";
+"WATCH_SOURCE_COLLECTIONS" = "电台合集";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "正在同步…";
+
+"ALERT_IMPORT" = "导入";
+"IMPORT_TITLE" = "是否导入“%@”？";
+"IMPORT_BODY" = "此共享合集包含%ld个电台。";
+
+"MOVE_DIALOG_TITLE" = "移动“%@”";
+"MOVE_DIALOG_BODY" = "移动此电台至所选合集。";

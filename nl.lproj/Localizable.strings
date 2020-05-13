@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Speel";
+"SHORTCUT_PAUSE" = "Pauzeer";
+
+"TOOLBAR_NOTHING_PLAYING" = "Er wordt niets afgespeeld";
+"TOOLBAR_STREAMING_RADIO" = "Streaming Radio";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Speel/pauzeer";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Speel of pauzeer";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Dempen aan of uit";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliotheek";
+"SIDEBAR_TITLE_STATIONS" = "Verzamelingen";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Alle zenders";
+"SIDEBAR_CATEGORY_RECENTS" = "Onlangs afgespeeld";
+
+"LIST_HEADER_STATION" = "Zender";
+
+"MENU_NEW" = "Nieuw";
+"MENU_NEW_STATION" = "Zender…";
+"MENU_NEW_GROUP" = "Verzameling…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nieuwe zender";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nieuwe verzameling";
+
+"MENU_VIEW_AS_GRID" = "als raster";
+"MENU_VIEW_AS_LIST" = "als lijst";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Bekijk als raster";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Bekijk als lijst";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Toon navigatiekolom";
+"MENU_VIEW_HIDE_SIDEBAR" = "Verberg navigatiekolom";
+
+"MENU_HELP_GETSUPPORT" = "Krijg ondersteuning op Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Toon welkomstpaneel";
+
+"PLAYBACK_ERROR_STALL" = "De verbinding met de zender is verbroken.";
+
+"SEARCH_PLACEHOLDER" = "Zoek";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Voeg toe";
+"ALERT_CANCEL" = "Annuleer";
+"ALERT_DELETE" = "Verwijder";
+
+"ADD_STATION_WINDOW_TITLE" = "Voeg nieuwe zender toe";
+"EDIT_STATION_WINDOW_TITLE" = "Wijzig zender";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Naam";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://pad/naar/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Kies afbeelding";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Voeg nieuwe verzameling toe";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Wijzig verzameling";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Mijn verzameling";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Wijzig";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Verwijder verzameling";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Deel";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Wijzig";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Verwijder zender";
+"STATION_CONTEXT_MOVE" = "Verplaats naar verzameling";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Verwijder \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Weet u zeker dat u deze collectie en alle zenders erin wilt verwijderen?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Verwijder \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Weet u zeker dat u deze zender wilt verwijderen?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Geen zenders";
+
+"WELCOME_COPY" = "Welkom bij Broadcasts! Als u wilt, kunnen we enkele voorkeurszenders uit ons thuisland Ierland toevoegen waarmee u uw bibliotheek kunt starten. Of, als dat uw voorkeur heeft, kunt u handmatig uw eigen zenders toevoegen of er één kiezen uit de duizenden zenders in het zenderoverzicht.";
+
+"WELCOME_UPSELL" = "Welkom bij Broadcasts! In deze gratis versie kunnen we enkele voorkeurszenders uit ons thuisland Ierland toevoegen waarmee u uw bibliotheek kunt starten. Of, als u liever upgradet naar de betaalde versie, kunt u uw eigen stations handmatig toevoegen of kiezen uit duizenden zenders in het zenderoverzicht.";
+
+"WELCOME_ADD_PRESETS" = "Voeg voorkeuren toe";
+"WELCOME_NO_THANKS" = "Nee, bedankt";
+
+"GENERATED_COLLECTION_TITLE" = "Mijn verzameling";
+
+"UPSELL_COPY" = "Bedankt voor het gebruiken van Broadcast!\n\nAls u dit wilt, kunt u de geavanceerde functies van Broadcasts ontgrendelen met een in-app-aankoop.\n\nOf, als u dit wilt, kunt u de vooraf ingestelde zenders blijven gebruiken en bewerken!";
+"UPSELL_BUY" = "Koop (%@)";
+"UPSELL_NOT_AVAILABLE" = "Niet beschikbaar";
+"UPSELL_RESTORE" = "Herstel aankopen";
+"UPSELL_NO_THANKS" = "Nee, bedankt";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nieuwe verzameling";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Voeg zender toe";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Toon verzamelingen";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Toon of verberg navigatiekolom";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Wissel tussen lijst- of rasterweergave";
+
+"IMAGE_WELL_REMOVE" = "Verwijder";
+"IMAGE_WELL_PASTE" = "Plak";
+"IMAGE_WELL_COPY" = "Kopieer";
+
+"CARPLAY_EMPTY_LIBRARY" = "Geen verzamelingen";
+"CARPLAY_ALL_STATIONS" = "Alle zenders";
+
+"MAC_ADD_STATION_BUTTON" = "Voeg zender toe";
+"MAC_EDIT_STATION_BUTTON" = "Wijzig zender";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Voeg verzameling toe";
+"MAC_EDIT_COLLECTION_BUTTON" = "Wijzig verzameling";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Zenderoverzicht";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Landen";
+"STATION_DIRECTORY_STATIONS" = "%@ zender";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ zenders";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Geen verbinding";
+"STATION_DIRECTORY_CONNECTING" = "Laden…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Voeg handmatig toe";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Klaar";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Zoek landen";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Zoek zenders";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Voeg handmatig toe";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Voeg toe uit de lijst";
+
+"LIBRARY_STATE_UPLOADING" = "Uploaden…";
+"LIBRARY_STATE_DOWNLOADING" = "Downloaden…";
+"LIBRARY_STATE_PREPARING" = "Voorbereiden…";
+"LIBRARY_STATE_READY" = "Bijgewerkt";
+"LIBRARY_STATE_MIGRATING" = "Migreren…";
+"LIBRARY_STATE_LOCALONLY" = "Alleen lokaal";
+
+"TV_TAB_ALL_STATIONS" = "Alle zenders";
+"TV_TAB_RECENTS" = "Onlangs afgespeeld";
+"TV_TAB_COLLECTIONS" = "Verzamelingen";
+
+"TV_NO_LIBRARY_MESSAGE" = "Begin een Broadcasts-bibliotheek op uw iPhone, iPad of Mac en deze zal ook gesynchroniseerd worden naar uw Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Huidige";
+"WATCH_SOURCE_RECENTS" = "Onlangs afgespeeld";
+"WATCH_SOURCE_COLLECTIONS" = "Verzamelingen";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synchroniseren…";
+
+"ALERT_IMPORT" = "Importeer";
+"IMPORT_TITLE" = "Importeer \"%@\"?";
+"IMPORT_BODY" = "Deze gedeelde verzameling bevat %ld zenders.";
+
+"MOVE_DIALOG_TITLE" = "Verplaats \"%@\"";
+"MOVE_DIALOG_BODY" = "Kies een verzameling om dit station naartoe te verplaatsen.";
