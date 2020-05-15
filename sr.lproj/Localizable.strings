@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Serbian Cyrilic version. Created by Predrag Todic (https://github.com/ptodic) on 2020-05-15.
+  Copyright © 2020 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Старт";
+"SHORTCUT_PAUSE" = "Пауза";
+
+"TOOLBAR_NOTHING_PLAYING" = "Ништа не свира";
+"TOOLBAR_STREAMING_RADIO" = "Стримовање Радија";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Старт/Пауза";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Старт/Пауза";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Укл./Искл. звук";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Јачина звука";
+
+"SIDEBAR_TITLE_LIBRARY" = "Библиотека";
+"SIDEBAR_TITLE_STATIONS" = "Колекцијe";
+"SIDEBAR_TITLE_RADIO" = "Радио";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Све станице";
+"SIDEBAR_CATEGORY_RECENTS" = "Cкорашњe";
+
+"LIST_HEADER_STATION" = "Станица";
+
+"MENU_NEW" = "Нова";
+"MENU_NEW_STATION" = "Станица…";
+"MENU_NEW_GROUP" = "Колекција…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Нова станица";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Нова колекција";
+
+"MENU_VIEW_AS_GRID" = "као решетка";
+"MENU_VIEW_AS_LIST" = "као листа";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Прикажи као решетку";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Прикажи као листу";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Прикажи бочну траку";
+"MENU_VIEW_HIDE_SIDEBAR" = "Сакриј бочну траку";
+
+"MENU_HELP_GETSUPPORT" = "Подршка на Twitter-у…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Прикажи екран добродошлице";
+
+"PLAYBACK_ERROR_STALL" = "Веза са станицом је изгубљена.";
+
+"SEARCH_PLACEHOLDER" = "Претрага";
+
+"ALERT_OK" = "У реду";
+"ALERT_ADD" = "Додај";
+"ALERT_CANCEL" = "Поништи";
+"ALERT_DELETE" = "Обриши";
+
+"ADD_STATION_WINDOW_TITLE" = "Додај нову станицу";
+"EDIT_STATION_WINDOW_TITLE" = "Измени станицу";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Име";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://адреса/стрима";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Изабери лого";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Додај нову колекцију";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Измени колекцију";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Моја колекција";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Измени";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Обриши колекцију";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Подели";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Измени";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Обриши станицу";
+"STATION_CONTEXT_MOVE" = "Премести у колекцију";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Обриши \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Да ли сте сигурни да хоћете да обришете ову колекцију и све станице у њој?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Обриши \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Да ли сте сигурни да хоћете да обришете ову станицу?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Нема станица";
+
+"WELCOME_COPY" = "Добродошли у Broadcasts! Ако желите, имамо неколико унапред подешених станица из наше земље Ирске, са којима бисмо могли да покренемо вашу библиотеку.\n\nИли ако желите, додајте сопствене станице ручно или изаберите неку од више хиљада из списка.";
+
+"WELCOME_UPSELL" = "Добродошли у Broadcasts! У овој бесплатној верзију имамо неколико унапред подешених станица из наше земље Ирске, са којима бисмо могли да покренемо вашу библиотеку.\n\nИли ако желите да купите пуну верзију, можете да додате сопствене станице ручно или да изаберите неку од више хиљада из списка.";
+
+"WELCOME_ADD_PRESETS" = "Додај унапред подешене станице";
+"WELCOME_NO_THANKS" = "Не, хвала";
+
+"GENERATED_COLLECTION_TITLE" = "Моја колекција";
+
+"UPSELL_COPY" = "Хвала на коришћењу Broadcasts-а!\n\nАко желите, можете да откључате напредне функције Broadcasts-а са in-app куповином.\n\nИли, ако желите, наставите са коришћењем и уређивањем унапред подешених станица!";
+"UPSELL_BUY" = "Купи (%@)";
+"UPSELL_NOT_AVAILABLE" = "Није доступно";
+"UPSELL_RESTORE" = "Врати куповину";
+"UPSELL_NO_THANKS" = "Не, хвала";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Нова колекција";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Додај станицу";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Покажи колекције";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Укл./Искл. бочну траку";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Приказ";
+
+"IMAGE_WELL_REMOVE" = "Уклони";
+"IMAGE_WELL_PASTE" = "Налепи";
+"IMAGE_WELL_COPY" = "Копирај";
+
+"CARPLAY_EMPTY_LIBRARY" = "Нема колекција";
+"CARPLAY_ALL_STATIONS" = "Све станице";
+
+"MAC_ADD_STATION_BUTTON" = "Додај станицу";
+"MAC_EDIT_STATION_BUTTON" = "Измени станицу";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Додај колекцију";
+"MAC_EDIT_COLLECTION_BUTTON" = "Измени колекцију";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Претраживач станица";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Земље";
+"STATION_DIRECTORY_STATIONS" = "Станица %@";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "Станица %@";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Нема конекције";
+"STATION_DIRECTORY_CONNECTING" = "Учитавање…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Додај ручно";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Готово";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Тражи Земље";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Тражи Станице";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Додај ручно";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Додај из списка";
+
+"LIBRARY_STATE_UPLOADING" = "Слање…";
+"LIBRARY_STATE_DOWNLOADING" = "Пријем…";
+"LIBRARY_STATE_PREPARING" = "Припрема…";
+"LIBRARY_STATE_READY" = "Ажурно";
+"LIBRARY_STATE_MIGRATING" = "Мигрирање…";
+"LIBRARY_STATE_LOCALONLY" = "Само локално";
+
+"TV_TAB_ALL_STATIONS" = "Све станице";
+"TV_TAB_RECENTS" = "Скоро слушане";
+"TV_TAB_COLLECTIONS" = "Колекције";
+
+"TV_NO_LIBRARY_MESSAGE" = "Покрените Broadcasts библиотеку на iPhone-у, iPad-у или Mac-у и синхронизоваће се са Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Сада се чује";
+"WATCH_SOURCE_RECENTS" = "Скорашње";
+"WATCH_SOURCE_COLLECTIONS" = "Колекције";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Синхронизује се…";
+
+"ALERT_IMPORT" = "Импортуј";
+"IMPORT_TITLE" = "Импортуј \"%@\"?";
+"IMPORT_BODY" = "Ова подељена колекција садржи %ld станица.";
+
+"MOVE_DIALOG_TITLE" = "Премештање у \"%@\"";
+"MOVE_DIALOG_BODY" = "Изаберите колекцију у коју ће да се премести ова станица.";
