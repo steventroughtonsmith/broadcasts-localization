@@ -93,7 +93,7 @@
 
 "GENERATED_COLLECTION_TITLE" = "マイコレクション";
 
-"UPSELL_COPY" = "Broadcastsをご利用いただき、ありがとうございます!\n\nアプリをご購入いただくと、Broadcastsのより高度な機能が有効になります。\n\nまた引き続き、プリセットのステーションを使用したり、編集したりすることもできます!";
+"UPSELL_COPY" = "Broadcastsをご利用いただき、ありがとうございます!\n\nアプリをご購入いただくと、Broadcastsのより高度な機能が有効になります。\n\nまた引き続き、プリセットのステーションを使用したり、編集したりすることもできます";
 "UPSELL_BUY" = "購入 (%@)";
 "UPSELL_NOT_AVAILABLE" = "利用不可";
 "UPSELL_RESTORE" = "購入したアプリを復元";
