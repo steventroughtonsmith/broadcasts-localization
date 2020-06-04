@@ -1,0 +1,162 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Neil Turner on 26/05/2020.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+
+  Japanese translation by Asako Sasaki
+*/
+
+"SHORTCUT_PLAY" = "再生";
+"SHORTCUT_PAUSE" = "一時停止";
+
+"TOOLBAR_NOTHING_PLAYING" = "再生していません";
+"TOOLBAR_STREAMING_RADIO" = "ラジオをストリーミング中";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "再生/一時停止";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "再生/一時停止";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "ミュート";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "音量";
+
+"SIDEBAR_TITLE_LIBRARY" = "ライブラリー";
+"SIDEBAR_TITLE_STATIONS" = "コレクション";
+"SIDEBAR_TITLE_RADIO" = "ラジオ";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "全てのステーション";
+"SIDEBAR_CATEGORY_RECENTS" = "履歴";
+
+"LIST_HEADER_STATION" = "ステーション";
+
+"MENU_NEW" = "新着";
+"MENU_NEW_STATION" = "ステーション…";
+"MENU_NEW_GROUP" = "コレクション…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "新しいステーション";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "新しいコレクション";
+
+"MENU_VIEW_AS_GRID" = "グリッド";
+"MENU_VIEW_AS_LIST" = "リスト";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "グリッド表示";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "リスト表示";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "サイドバーを見せる";
+"MENU_VIEW_HIDE_SIDEBAR" = "サイドバーを隠す";
+
+"MENU_HELP_GETSUPPORT" = "Twitterでサポートを受ける…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "ウェルカムパネルを見せる"; 
+
+"PLAYBACK_ERROR_STALL" = "ステーションへの接続はありません。";
+
+"SEARCH_PLACEHOLDER" = "調べる";
+
+"ALERT_OK" = "OK";　
+"ALERT_ADD" = "追加";
+"ALERT_CANCEL" = "キャンセル";
+"ALERT_DELETE" = "削除";
+
+"ADD_STATION_WINDOW_TITLE" = "新しいステーションを追加";
+"EDIT_STATION_WINDOW_TITLE" = "ステーションを編集";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "名前";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "イメージを選択";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "新しいコレクションを追加";
+"EDIT_COLLECTION_WINDOW_TITLE" = "コレクションを編集";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "マイコレクション";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "編集";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "コレクションを削除";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "共有";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "編集";
+"STATION_CONTEXT_DELETE_COLLECTION" = "ステーションを削除";
+"STATION_CONTEXT_MOVE" = "コレクションへ移動";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "削除 \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "このコレクション内の全てのステーションを削除しますか?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "削除 \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "このステーションを削除しますか?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "ステーションはありません";
+
+"WELCOME_COPY" = "Broadcastsへようこそ! こちらではプリセットのステーションを提供していますが、あなたのライブラリーから始めることもできます。\n\nまたはお好みでステーションを追加できるほか、ディレクトリー内にある数多くのステーションを選択できます。";
+
+"WELCOME_UPSELL" = "Broadcastsへようこそ! 無料版では、プリセットのステーションを提供していますが、あなたのライブラリーから始めることもできます。\n\nまた有料版にアップグレードいただくと、好きなステーションを追加できるほか、ディレクトリー内にある数多くのステーションを選択できます。";
+
+"WELCOME_ADD_PRESETS" = "プリセットを追加";
+"WELCOME_NO_THANKS" = "追加しない";
+
+"GENERATED_COLLECTION_TITLE" = "マイコレクション";
+
+"UPSELL_COPY" = "Broadcastsをご利用いただき、ありがとうございます!\n\nアプリをご購入いただくと、Broadcastsのより高度な機能が有効になります。\n\nまた引き続き、プリセットのステーションを使用したり、編集したりすることもできます";
+"UPSELL_BUY" = "購入 (%@)";
+"UPSELL_NOT_AVAILABLE" = "利用不可";
+"UPSELL_RESTORE" = "購入したアプリを復元";
+"UPSELL_NO_THANKS" = "不要";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "新しいコレクション";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "ステーションを追加";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "コレクションを見せる";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "サイドバーを切り替える";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "ビューを切り替える";
+
+"IMAGE_WELL_REMOVE" = "削除";
+"IMAGE_WELL_PASTE" = "ペースト";
+"IMAGE_WELL_COPY" = "コピー";
+
+"CARPLAY_EMPTY_LIBRARY" = "コレクションはありません";
+"CARPLAY_ALL_STATIONS" = "全てのコレクション";
+
+"MAC_ADD_STATION_BUTTON" = "ステーションを追加";
+"MAC_EDIT_STATION_BUTTON" = "ステーションを編集";
+
+"MAC_ADD_COLLECTION_BUTTON" = "コレクションを追加";
+"MAC_EDIT_COLLECTION_BUTTON" = "コレクションを編集";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "ステーション ブラウザ";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "国";
+"STATION_DIRECTORY_STATIONS" = "%@ ステーション";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ ステーション";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "接続なし";
+"STATION_DIRECTORY_CONNECTING" = "接続中…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "手動で追加";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "完了";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "国を調べる";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "ステーションを調べる";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "手動で追加";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "ディレクトリーから追加";
+
+"LIBRARY_STATE_UPLOADING" = "アップロード中…";
+"LIBRARY_STATE_DOWNLOADING" = "ダウンロード中…";
+"LIBRARY_STATE_PREPARING" = "準備中…";
+"LIBRARY_STATE_READY" = "最新の状態";
+"LIBRARY_STATE_MIGRATING" = "移行中…";
+"LIBRARY_STATE_LOCALONLY" = "ローカルのみ";
+
+"TV_TAB_ALL_STATIONS" = "全てのステーション";
+"TV_TAB_RECENTS" = "履歴";
+"TV_TAB_COLLECTIONS" = "コレクション";
+
+"TV_NO_LIBRARY_MESSAGE" = "iPhone、iPad または MacであなたのBroadcastsライブラリーを始めます。そして、 Apple TVと同期します。";
+
+"WATCH_NOW_PLAYING_TITLE" = "再生中";
+"WATCH_SOURCE_RECENTS" = "履歴";
+"WATCH_SOURCE_COLLECTIONS" = "コレクション";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "同期中…";
+
+"ALERT_IMPORT" = "インポート";
+"IMPORT_TITLE" = "インポート \"%@\"?";
+"IMPORT_BODY" = "この共有されたコレクションは %ld ステーションを含んでいます.";
+
+"MOVE_DIALOG_TITLE" = "移動 \"%@\"";
+"MOVE_DIALOG_BODY" = "このステーションへ移動するためにコレクションを選択してください";
