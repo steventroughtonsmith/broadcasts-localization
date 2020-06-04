@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   MobileRadio
 
@@ -45,13 +45,13 @@
 "MENU_VIEW_HIDE_SIDEBAR" = "サイドバーを隠す";
 
 "MENU_HELP_GETSUPPORT" = "Twitterでサポートを受ける…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "ウェルカムパネルを見せる"; 
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "ウェルカムパネルを見せる";
 
 "PLAYBACK_ERROR_STALL" = "ステーションへの接続はありません。";
 
 "SEARCH_PLACEHOLDER" = "調べる";
 
-"ALERT_OK" = "OK";　
+"ALERT_OK" = "OK";
 "ALERT_ADD" = "追加";
 "ALERT_CANCEL" = "キャンセル";
 "ALERT_DELETE" = "削除";
