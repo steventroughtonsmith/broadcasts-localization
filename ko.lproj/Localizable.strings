@@ -24,7 +24,7 @@
 "SIDEBAR_TITLE_RADIO" = "라디오";
 
 "SIDEBAR_CATEGORY_ALL_STATIONS" = "모든 방송국";
-"SIDEBAR_CATEGORY_RECENTS" = "최근";
+"SIDEBAR_CATEGORY_RECENTS" = "최근 시청";
 
 "LIST_HEADER_STATION" = "방송국";
 
@@ -45,7 +45,7 @@
 "MENU_VIEW_HIDE_SIDEBAR" = "사이드바 가리기";
 
 "MENU_HELP_GETSUPPORT" = "트위터에서 지원 받기…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "환영 화면 보기";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "소개 화면 보기";
 
 "PLAYBACK_ERROR_STALL" = "방송국으로의 연결이 끊겼습니다.";
 
@@ -84,17 +84,17 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "방송국 없음";
 
-"WELCOME_COPY" = "Broadcasts 사용을 환영합니다! 원하신다면 제공되는 기본 방송국으로 보관함을 시작할 수 있습니다.\n\n또는 유료 버전으로 업그레이드해 방송국을 직접 추가하거나 천개가 넘는 목록에서 방송국을 추가할 수 있습니다.";
+"WELCOME_COPY" = "Broadcasts 사용을 환영합니다! 기본으로 제공되는 방송국으로 보관함을 시작할 수 있습니다.\n\n원하시면 유료 버전으로 업그레이드해 방송국을 직접 추가하거나 천 개가 넘는 목록에서 방송국을 선택해 추가할 수 있습니다.";
 
-"WELCOME_UPSELL" = "Broadcasts 사용을 환영합니다! 무료 버전에서는 제공되는 기본 방송국으로 보관함을 시작할 수 있습니다.\n\n또는 원하신다면 유료 버전으로 업그레이드해 방송국을 직접 추가하거나 천개가 넘는 목록에서 방송국을 추가할 수 있습니다.";
+"WELCOME_UPSELL" = "Broadcasts 사용을 환영합니다! 무료 버전에서는 기본으로 제공되는 방송국으로 보관함을 시작할 수 있습니다.\n\n원하시면 유료 버전으로 업그레이드해 방송국을 직접 추가하거나 천 개가 넘는 목록에서 방송국을 선택해 추가할 수 있습니다.";
 
 "WELCOME_ADD_PRESETS" = "프리셋 추가";
 "WELCOME_NO_THANKS" = "아니요";
 
 "GENERATED_COLLECTION_TITLE" = "내 모음";
 
-"UPSELL_COPY" = "Broadcasts를 사용해주셔서 감사합니다!\n\n원하신다면 Broadcasts의 고급 기능은 앱 내 구매를 통해 활성화할 수 있습니다.\n\n또는, 기본 방송국을 편집해서 앱을 계속 사용할 수 있습니다.";
-"UPSELL_BUY" = "(%@) 구매";
+"UPSELL_COPY" = "Broadcasts를 사용해주셔서 감사합니다!\n\n원하시면 Broadcasts의 고급 기능을 앱 내 구매를 통해 활성화할 수 있습니다.\n\n또는, 기본 방송국을 편집해서 앱을 계속 무료로 사용할 수 있습니다.";
+"UPSELL_BUY" = "구매 (%@)";
 "UPSELL_NOT_AVAILABLE" = "사용 불가";
 "UPSELL_RESTORE" = "구매 항목 복원";
 "UPSELL_NO_THANKS" = "괜찮습니다";
@@ -143,13 +143,13 @@
 "LIBRARY_STATE_LOCALONLY" = "로컬만 표시";
 
 "TV_TAB_ALL_STATIONS" = "모든 방송국";
-"TV_TAB_RECENTS" = "최근 재생";
+"TV_TAB_RECENTS" = "최근 시청";
 "TV_TAB_COLLECTIONS" = "모음";
 
 "TV_NO_LIBRARY_MESSAGE" = "iPhone, iPad나 Mac에서 Broadcasts 보관함을 시작하면 Apple TV에서 표시됩니다.";
 
 "WATCH_NOW_PLAYING_TITLE" = "지금 재생 중";
-"WATCH_SOURCE_RECENTS" = "최근";
+"WATCH_SOURCE_RECENTS" = "최근 시청";
 "WATCH_SOURCE_COLLECTIONS" = "모음";
 
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "동기화 중…";
