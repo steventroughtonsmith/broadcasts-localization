@@ -9,20 +9,20 @@
 "SHORTCUT_PLAY" = "Αναπαραγωγή";
 "SHORTCUT_PAUSE" = "Παύση";
 
-"TOOLBAR_NOTHING_PLAYING" = "Δεν Παίζει Τίποτα";
-"TOOLBAR_STREAMING_RADIO" = "Μετάδοση Ράδιου";
+"TOOLBAR_NOTHING_PLAYING" = "Δεν παίζει τίποτα";
+"TOOLBAR_STREAMING_RADIO" = "Μετάδοση ραδιοφώνου";
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Αναπαραγωγή/Παύση";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "Αναπαραγωγή/Παύση";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Αλλαγή Σίγασης";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Αλλαγή σίγασης";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Ήχος";
 
 "SIDEBAR_TITLE_LIBRARY" = "Βιβλιοθήκη";
 "SIDEBAR_TITLE_STATIONS" = "Συλλογές";
 "SIDEBAR_TITLE_RADIO" = "Ράδιο";
 
-"SIDEBAR_CATEGORY_ALL_STATIONS" = "Όλοι οι Σταθμοί";
-"SIDEBAR_CATEGORY_RECENTS" = "Πρόσφατα";
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Όλοι οι σταθμοί";
+"SIDEBAR_CATEGORY_RECENTS" = "Πρόσφατοι";
 
 "LIST_HEADER_STATION" = "Σταθμός";
 
@@ -30,20 +30,20 @@
 "MENU_NEW_STATION" = "Σταθμός…";
 "MENU_NEW_GROUP" = "Συλλογή…";
 
-"DISCOVERABILITY_HUD_NEW_STATION" = "Νέος Σταθμός";
-"DISCOVERABILITY_HUD_NEW_GROUP" = "Νέα Συλλογή";
+"DISCOVERABILITY_HUD_NEW_STATION" = "Νέος σταθμός";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Νέα συλλογή";
 
-"MENU_VIEW_AS_GRID" = "ως Πλέγμα";
-"MENU_VIEW_AS_LIST" = "ως Λίστα";
+"MENU_VIEW_AS_GRID" = "ως πλέγμα";
+"MENU_VIEW_AS_LIST" = "ως λίστα";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Προβολή ως Πλέγμα";
-"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Προβολή ως Λίστα";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Προβολή ως πλέγμα";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Προβολή ως λίστα";
 
-"MENU_VIEW_SHOW_SIDEBAR" = "Εμφάνιση Πλευρικής Μπάρας";
-"MENU_VIEW_HIDE_SIDEBAR" = "Απόκρυψη Πλευρικής Μπάρας";
+"MENU_VIEW_SHOW_SIDEBAR" = "Εμφάνιση πλευρικής μπάρας";
+"MENU_VIEW_HIDE_SIDEBAR" = "Απόκρυψη πλευρικής μπάρας";
 
-"MENU_HELP_GETSUPPORT" = "Λάβετε Υποστήριξη μέσω Twitter…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "Εμφάνιση Πίνακα Καλωσορίσματος";
+"MENU_HELP_GETSUPPORT" = "Λάβετε υποστήριξη μέσω Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Εμφάνιση πίνακα καλωσορίσματος";
 
 "PLAYBACK_ERROR_STALL" = "Χάθηκε η σύνδεση στο σταθμό.";
 
@@ -54,25 +54,25 @@
 "ALERT_CANCEL" = "Άκυρο";
 "ALERT_DELETE" = "Διαγραφή";
 
-"ADD_STATION_WINDOW_TITLE" = "Προσθήκη Νέου Σταθμού";
-"EDIT_STATION_WINDOW_TITLE" = "Επεξεργασία Σταθμού";
+"ADD_STATION_WINDOW_TITLE" = "Προσθήκη νέου σταθμού";
+"EDIT_STATION_WINDOW_TITLE" = "Επεξεργασία σταθμού";
 
 "EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Όνομα";
-"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://διεύθυνση/της/μετάδοσης";
-"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Επιλογή Εικόνας";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://σύνδεσμος/για/τη/μετάδοση";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Επιλογή εικόνας";
 
-"ADD_COLLECTION_WINDOW_TITLE" = "Προσθήκη Νέας Συλλογής";
-"EDIT_COLLECTION_WINDOW_TITLE" = "Επεξεργασία Συλλογής";
+"ADD_COLLECTION_WINDOW_TITLE" = "Προσθήκη νέας συλλογής";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Επεξεργασία συλλογής";
 
-"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Η Συλλογή μου";
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Η συλλογή μου";
 
 "SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Επεξεργασία";
-"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Διαγραφή Συλλογής";
-"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Μοιράσου";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Διαγραφή συλλογής";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Μοιραστείτε";
 
 "STATION_CONTEXT_EDIT_COLLECTION" = "Επεξεργασία";
-"STATION_CONTEXT_DELETE_COLLECTION" = "Διαγραφή Σταθμού";
-"STATION_CONTEXT_MOVE" = "Μεταφορά σε Συλλογή";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Διαγραφή σταθμού";
+"STATION_CONTEXT_MOVE" = "Μεταφορά σε συλλογή";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Διαγραφή \"%@\"";
 "CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή τη συλλογή και όλους τους σταθμούς μέσα της;";
@@ -80,74 +80,74 @@
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Διαγραφή \"%@\"";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το σταθμό;";
 
-"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Κανένας Σταθμός";
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Κανένας σταθμός";
 
-"WELCOME_COPY" = "Καλώς ορίσατε στο Broadcasts! Αν θέλετε, έχουμε κάποιους προκαθορισμένους σταθμούς από τη χώρα μας με τους οποίους μπορούμε να ξεκινήσουμε τη βιβλιοθήκη σας.\n\nΉ, αν προτιμάτε, προσθέστε τους σταθμούς μόνοι σας ή επιλέξτε από χιλιάδες από το ευρετήριο.";
+"WELCOME_COPY" = "Καλώς ορίσατε στο Broadcasts! Αν θέλετε, έχουμε κάποιους προκαθορισμένους σταθμούς από τη χώρα μας με τους οποίους μπορούμε να ξεκινήσουμε τη βιβλιοθήκη σας.\n\nΉ, αν προτιμάτε, προσθέστε τους σταθμούς μόνοι σας ή επιλέξτε από χιλιάδες στο ευρετήριο.";
 
-"WELCOME_UPSELL" = "Καλώς ορίσατε στο Broadcasts! Στη δωρεάν έκδοση έχουμε κάποιους προκαθορισμένους σταθμούς από τη χώρα μας με τους οποίους μπορούμε να ξεκινήσουμε τη βιβλιοθήκη σας.\n\nΉ, αν προτιμάτε να αναβαθμιστείτε στην πληρωμένη έκδοση, μπορείτε να προσθέστε τους σταθμούς μόνοι σας ή να επιλέξετε από χιλιάδες σταθμούς από το ευρετήριο.";
+"WELCOME_UPSELL" = "Καλώς ορίσατε στο Broadcasts! Στη δωρεάν έκδοση έχουμε κάποιους προκαθορισμένους σταθμούς από τη χώρα μας με τους οποίους μπορούμε να ξεκινήσουμε τη βιβλιοθήκη σας.\n\nΉ, αν προτιμάτε να αναβαθμιστείτε στην πληρωμένη έκδοση, μπορείτε να προσθέσετε τους σταθμούς μόνοι σας ή να επιλέξετε από χιλιάδες σταθμούς στο ευρετήριο.";
 
-"WELCOME_ADD_PRESETS" = "Προσθήκη Προκαθορισμένων";
-"WELCOME_NO_THANKS" = "Όχι Ευχαριστώ";
+"WELCOME_ADD_PRESETS" = "Προσθήκη προκαθορισμένων";
+"WELCOME_NO_THANKS" = "Όχι ευχαριστώ";
 
-"GENERATED_COLLECTION_TITLE" = "Η Συλλογή μου";
+"GENERATED_COLLECTION_TITLE" = "Η συλλογή μου";
 
-"UPSELL_COPY" = "Ευχαριστώ που χρησιμοποιείτε το Broadcasts!\n\nΜπορείτε να ξεκλειδώσετε τα προηγμένα χαρακτηριστικά του Broadcasts με αγορά μέσα από την εφαρμογή, αν θέλετε.\n\nΉ, αν προτιμάτε, μπορείτε να συνεχίσετε να χρησιμοποιείτε και να επεξεργάζεστε τους προεπιλεγμένους σταθμούς!";
+"UPSELL_COPY" = "Ευχαριστώ που χρησιμοποιείτε το Broadcasts!\n\nΜπορείτε να ξεκλειδώσετε τα προηγμένα χαρακτηριστικά του Broadcasts με αγορά εντός της εφαρμογής, αν θέλετε.\n\nΉ, αν προτιμάτε, μπορείτε να συνεχίσετε να χρησιμοποιείτε και να επεξεργάζεστε τους προεπιλεγμένους σταθμούς!";
 "UPSELL_BUY" = "Αγορά (%@)";
-"UPSELL_NOT_AVAILABLE" = "Μη Διαθέσιμη";
-"UPSELL_RESTORE" = "Επαναφορά Αγοράς";
-"UPSELL_NO_THANKS" = "Όχι Ευχαριστώ";
+"UPSELL_NOT_AVAILABLE" = "Μη διαθέσιμη";
+"UPSELL_RESTORE" = "Επαναφορά αγοράς";
+"UPSELL_NO_THANKS" = "Όχι ευχαριστώ";
 
-"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Νέα Συλλογή";
-"TOOLBAR_ADD_STATION_TOOLTIP" = "Νέος Σταθμός";
-"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Προβολή Συλλογών";
-"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Εμφάνιση Πλευρικής Μπάρας";
-"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Εμφάνιση Προβολής";
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Νέα συλλογή";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Νέος σταθμός";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Προβολή συλλογών";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Εμφάνιση πλευρικής μπάρας";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Εμφάνιση προβολής";
 
 "IMAGE_WELL_REMOVE" = "Αφαίρεση";
 "IMAGE_WELL_PASTE" = "Επικόλληση";
 "IMAGE_WELL_COPY" = "Αντιγραφή";
 
-"CARPLAY_EMPTY_LIBRARY" = "Καμία Συλλογή";
-"CARPLAY_ALL_STATIONS" = "Όλοι οι Σταθμοί";
+"CARPLAY_EMPTY_LIBRARY" = "Καμία συλλογή";
+"CARPLAY_ALL_STATIONS" = "Όλοι οι σταθμοί";
 
-"MAC_ADD_STATION_BUTTON" = "Προσθήκη Σταθμού";
-"MAC_EDIT_STATION_BUTTON" = "Επεξεργασία Σταθμού";
+"MAC_ADD_STATION_BUTTON" = "Προσθήκη σταθμού";
+"MAC_EDIT_STATION_BUTTON" = "Επεξεργασία σταθμού";
 
-"MAC_ADD_COLLECTION_BUTTON" = "Προσθήκη Συλλογής";
-"MAC_EDIT_COLLECTION_BUTTON" = "Επεξεργασία Συλλογής";
+"MAC_ADD_COLLECTION_BUTTON" = "Προσθήκη συλλογής";
+"MAC_EDIT_COLLECTION_BUTTON" = "Επεξεργασία συλλογής";
 
-"STATION_DIRECTORY_WINDOW_TITLE" = "Πλοηγητής Σταθμών";
+"STATION_DIRECTORY_WINDOW_TITLE" = "Πλοηγητής σταθμών";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Χώρες";
-"STATION_DIRECTORY_STATIONS" = "%@ Σταθμός";
-"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Σταθμοί";
+"STATION_DIRECTORY_STATIONS" = "%@ σταθμό";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ σταθμούς";
 
-"STATION_DIRECTORY_NO_CONNECTION" = "Χωρίς Σύνδεση";
+"STATION_DIRECTORY_NO_CONNECTION" = "Χωρίς σύνδεση";
 "STATION_DIRECTORY_CONNECTING" = "Φόρτωση…";
 
-"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Ιδιόχειρη Προσθήκη";
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Ιδιόχειρη προσθήκη";
 "STATION_DIRECTORY_TOOLBAR_DONE" = "Τέλος";
 
-"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Αναζήτηση Χωρών";
-"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Αναζήτηση Σταθμών";
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Αναζήτηση χωρών";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Αναζήτηση σταθμών";
 
-"ADD_STATION_CONTEXT_ADD_STATION" = "Ιδιόχειρη Προσθήκη";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Προσθήκη από Ευρετήριο";
+"ADD_STATION_CONTEXT_ADD_STATION" = "Ιδιόχειρη προσθήκη";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Προσθήκη από ευρετήριο";
 
 "LIBRARY_STATE_UPLOADING" = "Μεταφόρτωση…";
 "LIBRARY_STATE_DOWNLOADING" = "Λήψη…";
 "LIBRARY_STATE_PREPARING" = "Προετοιμασία…";
 "LIBRARY_STATE_READY" = "Ενημερωμένη";
 "LIBRARY_STATE_MIGRATING" = "Μεταφορά…";
-"LIBRARY_STATE_LOCALONLY" = "Τοπικά Μόνο";
+"LIBRARY_STATE_LOCALONLY" = "Τοπικά μόνο";
 
-"TV_TAB_ALL_STATIONS" = "Όλοι οι Σταθμοί";
-"TV_TAB_RECENTS" = "Πρόσφατα Παιγμένο";
+"TV_TAB_ALL_STATIONS" = "Όλοι οι σταθμοί";
+"TV_TAB_RECENTS" = "Πρόσφατα παιγμένοι";
 "TV_TAB_COLLECTIONS" = "Συλλογές";
 
 "TV_NO_LIBRARY_MESSAGE" = "Ξεκινήστε τη βιβλιοθήκη σας στο Broadcasts από iPhone, iPad ή Mac και θα συγχρονιστεί και στο Apple TV.";
 
-"WATCH_NOW_PLAYING_TITLE" = "Παίζει Τώρα";
-"WATCH_SOURCE_RECENTS" = "Πρόσφατα";
+"WATCH_NOW_PLAYING_TITLE" = "Παίζει τώρα";
+"WATCH_SOURCE_RECENTS" = "Πρόσφατοι";
 "WATCH_SOURCE_COLLECTIONS" = "Συλλογές";
 
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Συγχρονισμός…";
