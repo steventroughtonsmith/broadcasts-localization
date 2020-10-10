@@ -87,12 +87,12 @@
 
 "WELCOME_UPSELL" = "Chào mừng bạn đến với Broadcasts! Ở bản miễn phí này, trong thư viện đã có sẵn một số đài từ Ireland để bạn có thể bắt đầu nghe.\n\nHoặc không một khi bạn nâng cấp lên bản trả phí, bạn có thể thêm thủ công các đài ưa thích hoặc từ Danh mục hàng ngàn đài có sẵn.";
 
-"WELCOME_ADD_PRESETS" = "Thêm Presets";
+"WELCOME_ADD_PRESETS" = "Thêm thiêt đặt";
 "WELCOME_NO_THANKS" = "Thôi Cảm ơn";
 
 "GENERATED_COLLECTION_TITLE" = "Danh sách của Tôi";
 
-"UPSELL_COPY" = "Cảm ơn bạn đã dùng Broadcasts!\n\nNếu thích, bạn có thể mở khoá thêm các tính năng của Broadcasts với tính năng mua in-app.\n\nHoặc không thì bạn có thể tiếp tục sử dụng và sửa đổi các đài sẵn có!";
+"UPSELL_COPY" = "Cảm ơn bạn đã dùng Broadcasts!\n\nNếu thích, bạn có thể mở khoá thêm các tính năng của Broadcasts với tính năng mua in-app.\n\nHoặc bạn cũng có thể tiếp tục sử dụng và sửa đổi các đài sẵn có!";
 "UPSELL_BUY" = "Mua (%@)";
 "UPSELL_NOT_AVAILABLE" = "Không khả dụng";
 "UPSELL_RESTORE" = "Khôi phục bản trả phí đã mua";
@@ -120,7 +120,7 @@
 "STATION_DIRECTORY_WINDOW_TITLE" = "Trình duyệt Đài";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Quốc gia";
 "STATION_DIRECTORY_STATIONS" = "Đài %@";
-"STATION_DIRECTORY_STATIONS_PLURAL" = "Các đài %@";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "Số đài hiên có: %@";
 
 "STATION_DIRECTORY_NO_CONNECTION" = "Không có kết nối";
 "STATION_DIRECTORY_CONNECTING" = "Đang tải";
@@ -145,7 +145,7 @@
 "TV_TAB_RECENTS" = "Đã chơi gần đây";
 "TV_TAB_COLLECTIONS" = "Danh sách";
 
-"TV_NO_LIBRARY_MESSAGE" = "Tạo thư viện đài trên iPhone, iPad hay Mac trước và nó sẽ tự động đồng bộ  sang Apple TV cho bạn.";
+"TV_NO_LIBRARY_MESSAGE" = "Tạo thư viện đài trên iPhone, iPad hay Mac trước để tự động đồng bộ sang Apple TV của bạn.";
 
 "WATCH_NOW_PLAYING_TITLE" = "Đang phát";
 "WATCH_SOURCE_RECENTS" = "Gần đây";
