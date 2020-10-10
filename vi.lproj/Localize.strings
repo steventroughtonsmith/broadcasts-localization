@@ -4,7 +4,7 @@
 
   Created by Steven Troughton-Smith on 01/11/2019.
   Localization contributed by Joe Pham on 10/10/2020.
-  Copyright © 2019 High Caffeine Content. All rights reserved.
+  Copyright © 2020 High Caffeine Content. All rights reserved.
 */
 
 "SHORTCUT_PLAY" = "Phát";
@@ -76,7 +76,7 @@
 "STATION_CONTEXT_MOVE" = "Chuyển sang Danh sách khác";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Xoá \"%@\"";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bạn có chắc chắn muốn xoá Danh sách này và các Đài bao gồm?";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bạn có chắc chắn muốn xoá Danh sách này và các Đài đi kèm?";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Xoá \"%@\"";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "Bạn có chắc chắn muốn xoá Đài này?";
