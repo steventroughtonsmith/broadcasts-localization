@@ -33,10 +33,10 @@
 "DISCOVERABILITY_HUD_NEW_STATION" = "Nova emissora";
 "DISCOVERABILITY_HUD_NEW_GROUP" = "Nova col·lecció";
 
-"MENU_VIEW_AS_GRID" = "com quadrícula";
-"MENU_VIEW_AS_LIST" = "com llista";
+"MENU_VIEW_AS_GRID" = "com a quadrícula";
+"MENU_VIEW_AS_LIST" = "com a llista";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Veure com quadrícula";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Veure com a quadrícula";
 "DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Veure com a llista";
 
 "MENU_VIEW_SHOW_SIDEBAR" = "Mostra la barra lateral";
@@ -51,8 +51,8 @@
 
 "ALERT_OK" = "Acceptar";
 "ALERT_ADD" = "Afegir";
-"ALERT_CANCEL" = "Cancel";
-"ALERT_DELETE" = "eliminar";
+"ALERT_CANCEL" = "Cancel·lar";
+"ALERT_DELETE" = "Eliminar";
 
 "ADD_STATION_WINDOW_TITLE" = "Afegir nova emissora";
 "EDIT_STATION_WINDOW_TITLE" = "Edita emissora";
@@ -75,7 +75,7 @@
 "STATION_CONTEXT_MOVE" = "Mou a la col·lecció";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Eliminar \"%@\"";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Esteu segur que voleu eliminar aquesta col·lecció i totes les emissores que conté?";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Segur que vols eliminar aquesta col·lecció i totes les emissores que conté?";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Eliminar \"%@\"";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "Segur que vols eliminar aquesta emissora?";
@@ -153,8 +153,8 @@
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sincronitzant…";
 
 "ALERT_IMPORT" = "Importa";
-"IMPORT_TITLE" = "¿Importa \"%@\"?";
-"IMPORT_BODY" = "Aquesta col·lecció compartida conté% ld emissores.";
+"IMPORT_TITLE" = "Importa \"%@\"?";
+"IMPORT_BODY" = "Aquesta col·lecció compartida conté %ld emissores.";
 
 "MOVE_DIALOG_TITLE" = "Moure \"%@\"";
 "MOVE_DIALOG_BODY" = "Trieu una col·lecció a on moure aquesta emissora.";
