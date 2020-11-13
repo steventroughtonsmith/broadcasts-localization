@@ -158,3 +158,55 @@
 
 "MOVE_DIALOG_TITLE" = "Mover \"%@\"";
 "MOVE_DIALOG_BODY" = "Elija una colección a donde mover esta emisora.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Error: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Sesión no iniciada";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Espacio agotado";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Explorar";
+"SIDEBAR_TITLE_DIRECTORY" = "Directorio";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Radio de Internet";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Emisora sin título";
+
+"WELCOME_BUTTON_CONTINUE" = "Continuar";
+"WELCOME_BUTTON_GETSTARTED" = "Comenzar";
+
+"WELCOME_NEWFEATURES_TITLE" = "Nuevas características";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Look & feel moderno";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Temporizador";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Controles para AirPlay";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Alertas menos intrusivas";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Escalado nativo";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Soporta Apple Silicon";
+
+"MENU_CONTROLS" = "Controles";
+"MENU_CONTROLS_PLAY" = "Reproducir";
+"MENU_CONTROLS_PAUSE" = "Pausa";
+"MENU_CONTROLS_NEXT" = "Siguiente";
+"MENU_CONTROLS_PREVIOUS" = "Anterior";
+
+"SLEEP_TIMER_MENU" = "Temporizador";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Desactivado";
+"SLEEP_TIMER_MENU_1" = "1 minuto";
+"SLEEP_TIMER_MENU_15" = "15 minutos";
+"SLEEP_TIMER_MENU_30" = "30 minutos";
+"SLEEP_TIMER_MENU_60" = "60 minutos";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "nombre";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "dirección";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "imagen";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Elegir imagen…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Límite de emisoras alcanzado. Por favor, actualiza a la versión de pago para añadir más emisoras.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Anterior";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Siguiente";
+
+"ALERT_UPGRADE" = "Actualizar";
