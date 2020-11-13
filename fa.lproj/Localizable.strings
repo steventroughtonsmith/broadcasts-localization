@@ -3,7 +3,6 @@
   MobileRadio
 
   Created by Steven Troughton-Smith on 01/11/2019.
-  Copyright © 2019 High Caffeine Content. All rights reserved.
 */
 
 "SHORTCUT_PLAY" = "پخش";
@@ -54,8 +53,8 @@
 "ALERT_CANCEL" = "انصراف";
 "ALERT_DELETE" = "حذف";
 
-"ADD_STATION_WINDOW_TITLE" = "افزودن کانال جدید";
-"EDIT_STATION_WINDOW_TITLE" = "ویرایش کانال";
+"ADD_STATION_WINDOW_TITLE" = "افزودن ایستگاه جدید";
+"EDIT_STATION_WINDOW_TITLE" = "ویرایش ایستگاه";
 
 "EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "نام";
 "EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
@@ -158,3 +157,57 @@
 
 "MOVE_DIALOG_TITLE" = "انتقال \"%@\"";
 "MOVE_DIALOG_BODY" = "دسته‌ای که می‌خواهید این ایستگاه را به آن منتقل کنید انتخاب کنید.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "خطا: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "لاگین نشده";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "کمبود فضای داخلی";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "مرور";
+"SIDEBAR_TITLE_DIRECTORY" = "فهرست";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "رادیوی اینترنتی";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "ایستگاه بی‌نام";
+
+"WELCOME_BUTTON_CONTINUE" = "ادامه";
+"WELCOME_BUTTON_GETSTARTED" = "شروع";
+
+"WELCOME_NEWFEATURES_TITLE" = "ویژگی‌های جدید";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "طراحی مدرن";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "تایمر خواب";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "دکمه AirPlay در نوار ابزار";
+"WELCOME_NEWFEATURES_2_ALERTS" = "هشدارهای کمتر ناگهانی";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "تغییر اندازه طبیعی پیکسلی";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "پشتیبانی از سیلیکون اپل";
+
+"MENU_CONTROLS" = "دکمه‌ها";
+"MENU_CONTROLS_PLAY" = "پخش";
+"MENU_CONTROLS_PAUSE" = "توقف";
+"MENU_CONTROLS_NEXT" = "بعدی";
+"MENU_CONTROLS_PREVIOUS" = "قبلی";
+
+"SLEEP_TIMER_MENU" = "تایمر خواب";
+
+"SLEEP_TIMER_MENU_DISABLED" = "غیر فعال";
+"SLEEP_TIMER_MENU_1" = "۱ دقیقه";
+"SLEEP_TIMER_MENU_15" = "۱۵ دقیقه";
+"SLEEP_TIMER_MENU_30" = "۳۰ دقیقه";
+"SLEEP_TIMER_MENU_60" = "۶۰ دقیقه";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "نام";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "آدرس";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "تصویر";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "انتخاب تصویر…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "کتابخانه به حداکثر تعداد مجاز در حالت آزمایشی رسیده است. برای افزودن ایستگاه‌های بیشتر، لطفاً نسخه کامل را دریافت نمایید.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "قبلی";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "بعدی";
+
+"ALERT_UPGRADE" = "به روز رسانی";
+
+"MENU_APPLICATION_UPGRADE" = "دریافت نسخه کامل…";
