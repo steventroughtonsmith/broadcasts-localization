@@ -159,3 +159,57 @@
 
 "MOVE_DIALOG_TITLE" = "Flytt \"%@\"";
 "MOVE_DIALOG_BODY" = "Velg en samling denne stasjonen skal flyttes til.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Feil: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Ikke logget inn";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Tom for plass";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Bla";
+"SIDEBAR_TITLE_DIRECTORY" = "Katalog";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internettradio";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Ikke navngitt stasjon";
+
+"WELCOME_BUTTON_CONTINUE" = "Fortsett";
+"WELCOME_BUTTON_GETSTARTED" = "Kom i gang";
+
+"WELCOME_NEWFEATURES_TITLE" = "Ny funksjonalitet";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Moderne utseende & preg";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Søvntidsur";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay-styring i verktøylinje";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Mindre påtrengende varslinger";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Pikselperfekt skalering";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Støtter Apples egenutviklede chips"; /* Looking through old newsrooms entries I have never seen Apple Norway used "Apple Silicon" anywhere */
+
+"MENU_CONTROLS" = "Styreelementer";
+"MENU_CONTROLS_PLAY" = "Spill av";
+"MENU_CONTROLS_PAUSE" = "Pause";
+"MENU_CONTROLS_NEXT" = "Neste";
+"MENU_CONTROLS_PREVIOUS" = "Forrige";
+
+"SLEEP_TIMER_MENU" = "Søvntidsur";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Deaktivert";
+"SLEEP_TIMER_MENU_1" = "1 minutt";
+"SLEEP_TIMER_MENU_15" = "15 minutter";
+"SLEEP_TIMER_MENU_30" = "30 minutter";
+"SLEEP_TIMER_MENU_60" = "60 minutter";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "navn";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "adresse";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "omslag";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Velg bilde…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Maskimalt antall stasjoner nådd. Oppgrader for å legge til flere stasjoner.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Forrige";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Neste";
+
+"ALERT_UPGRADE" = "Oppgrader";
+
+"MENU_APPLICATION_UPGRADE" = "Oppgrader til full versjon…";
