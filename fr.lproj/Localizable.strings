@@ -3,7 +3,6 @@
   MobileRadio
 
   Created by Steven Troughton-Smith on 01/11/2019.
-  Copyright © 2019 High Caffeine Content. All rights reserved.
 */
 
 "SHORTCUT_PLAY" = "Lecture";
@@ -158,3 +157,55 @@
 
 "MOVE_DIALOG_TITLE" = "Déplacer « %@ »";
 "MOVE_DIALOG_BODY" = "Choisissez une collection où déplacer cette station.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Erreur: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Non connecté";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "À court d’espace";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Explorer";
+"SIDEBAR_TITLE_DIRECTORY" = "Répertoire";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Radio internet";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Station sans titre";
+
+"WELCOME_BUTTON_CONTINUE" = "Continuer";
+"WELCOME_BUTTON_GETSTARTED" = "Démarrer";
+
+"WELCOME_NEWFEATURES_TITLE" = "Nouvelles fonctionnalités";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Aspect modern";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Minuterie de sommeil";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Contrôles AirPlay dans la barre d’outils";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Alertes moins intrusives";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Pixels à l’échelle native";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Prise en charge d’Apple Silicon";
+
+"MENU_CONTROLS" = "Contrôles";
+"MENU_CONTROLS_PLAY" = "Lecture";
+"MENU_CONTROLS_PAUSE" = "Pause";
+"MENU_CONTROLS_NEXT" = "Suivant";
+"MENU_CONTROLS_PREVIOUS" = "Précédent";
+
+"SLEEP_TIMER_MENU" = "Minuterie de sommeil";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Désactivé";
+"SLEEP_TIMER_MENU_1" = "1 minute";
+"SLEEP_TIMER_MENU_15" = "15 minutes";
+"SLEEP_TIMER_MENU_30" = "30 minutes";
+"SLEEP_TIMER_MENU_60" = "60 minutes";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "nom";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "adresse";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "illustration";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Choisir une image…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "La limite de la bibliothèque d’essai est atteinte. Veuillez procéder à une mise à niveau pour ajouter d'autres stations.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Précédent";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Suivant";
+
+"ALERT_UPGRADE" = "Mettre à niveau";
