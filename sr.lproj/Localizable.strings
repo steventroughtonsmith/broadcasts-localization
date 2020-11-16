@@ -158,3 +158,57 @@
 
 "MOVE_DIALOG_TITLE" = "Премештање у \"%@\"";
 "MOVE_DIALOG_BODY" = "Изаберите колекцију у коју ће да се премести ова станица.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Грешка: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Нисте пријављени";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Нема места";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Преглед";
+"SIDEBAR_TITLE_DIRECTORY" = "Aдресар";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Интернет радио";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Непозната станица";
+
+"WELCOME_BUTTON_CONTINUE" = "Настави";
+"WELCOME_BUTTON_GETSTARTED" = "Почетак";
+
+"WELCOME_NEWFEATURES_TITLE" = "Нове функције";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Модерни изглед";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Тајмер за спавање";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay контроле";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Мање наметљива упозорења";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Нативно скалирање пиксела";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Apple Silicon подршка";
+
+"MENU_CONTROLS" = "Контроле";
+"MENU_CONTROLS_PLAY" = "Старт";
+"MENU_CONTROLS_PAUSE" = "Пауза";
+"MENU_CONTROLS_NEXT" = "Следећи";
+"MENU_CONTROLS_PREVIOUS" = "Претходни";
+
+"SLEEP_TIMER_MENU" = "Тајмер за спавање";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Искључен";
+"SLEEP_TIMER_MENU_1" = "1 минут";
+"SLEEP_TIMER_MENU_15" = "15 минута";
+"SLEEP_TIMER_MENU_30" = "30 минута";
+"SLEEP_TIMER_MENU_60" = "60 минута";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "име";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "адреса";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "графика";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Изаберите слику…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Достигнуто је ограничење пробне библиотеке. Надоградите да бисте додали још станица.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Претходни";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Следећи";
+
+"ALERT_UPGRADE" = "Надоградња";
+
+"MENU_APPLICATION_UPGRADE" = "Надоградња на потпуну верзију…";
