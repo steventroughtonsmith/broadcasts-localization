@@ -160,7 +160,7 @@
 
 /* Broadcasts v2.0 */
 
-"ERROR_ALERT_TITLE" = "Erreur: %@";
+"ERROR_ALERT_TITLE" = "Erreur : %@";
 
 "LIBRARY_STATE_UNAUTHENTICATED" = "Non connecté";
 "LIBRARY_STATE_QUOTA_EXCEEDED" = "À court d’espace";
@@ -177,7 +177,7 @@
 
 "WELCOME_NEWFEATURES_TITLE" = "Nouvelles fonctionnalités";
 
-"WELCOME_NEWFEATURES_2_DESIGN" = "Aspect modern";
+"WELCOME_NEWFEATURES_2_DESIGN" = "Apparence moderne";
 "WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Minuterie de sommeil";
 "WELCOME_NEWFEATURES_2_AIRPLAY" = "Contrôles AirPlay dans la barre d’outils";
 "WELCOME_NEWFEATURES_2_ALERTS" = "Alertes moins intrusives";
@@ -209,3 +209,5 @@
 "TOOLBAR_NEXTBUTTON_TOOLTIP" = "Suivant";
 
 "ALERT_UPGRADE" = "Mettre à niveau";
+
+"MENU_APPLICATION_UPGRADE" = "Mettre à niveau vers la version complète…";
