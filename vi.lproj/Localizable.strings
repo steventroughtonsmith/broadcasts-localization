@@ -200,9 +200,9 @@
 "SLEEP_TIMER_MENU_30" = "30 phút";
 "SLEEP_TIMER_MENU_60" = "60 phút";
 
-"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "Tên đài";
-"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "Địa chỉ";
-"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "Ảnh đại diện";
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "tên đài";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "địa chỉ";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "ảnh đại diện";
 
 "EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Chọn hình…";
 "EDIT_STATION_WINDOW_LIMIT_REACHED" = "Đã vượt quá số lượng định sẵn cho bản dùng thử. Xin bạn vui lòng nâng cấp lên bản trả phí để thêm được nhiều đài hơn.";
