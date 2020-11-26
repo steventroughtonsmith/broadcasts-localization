@@ -210,3 +210,5 @@
 "TOOLBAR_NEXTBUTTON_TOOLTIP" = "Siguiente";
 
 "ALERT_UPGRADE" = "Actualizar";
+
+"MENU_APPLICATION_UPGRADE" = "Actualiza a la versión completa…";
