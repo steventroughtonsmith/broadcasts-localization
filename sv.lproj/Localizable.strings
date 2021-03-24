@@ -158,3 +158,57 @@
 
 "MOVE_DIALOG_TITLE" = "Flytta \"%@\"";
 "MOVE_DIALOG_BODY" = "Välj en samling att flytta den här stationen till.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Fel: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Inte inloggad";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Slut på utrymme";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Bläddra";
+"SIDEBAR_TITLE_DIRECTORY" = "Katalog";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internetradio";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Namnlös station";
+
+"WELCOME_BUTTON_CONTINUE" = "Fortsätt";
+"WELCOME_BUTTON_GETSTARTED" = "Kom igång";
+
+"WELCOME_NEWFEATURES_TITLE" = "Nya funktioner";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Modernt gränssnitt";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sovtimer";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay-kontroller i verktygsfältet";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Mindre påträngande varningar";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Native pixelskalning";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Stöd för Apple Silicon";
+
+"MENU_CONTROLS" = "Kontroller";
+"MENU_CONTROLS_PLAY" = "Spela";
+"MENU_CONTROLS_PAUSE" = "Pausa";
+"MENU_CONTROLS_NEXT" = "Nästa";
+"MENU_CONTROLS_PREVIOUS" = "Föregående";
+
+"SLEEP_TIMER_MENU" = "Sovtimer";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Inaktiverad";
+"SLEEP_TIMER_MENU_1" = "1 minut";
+"SLEEP_TIMER_MENU_15" = "15 minuter";
+"SLEEP_TIMER_MENU_30" = "30 minuter";
+"SLEEP_TIMER_MENU_60" = "60 minuter";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "namn";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "adress";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "bild";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Välj bild…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Gränsen för provbiblioteket har nåtts. Uppgradera för att lägga till fler stationer.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Föregående";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Nästa";
+
+"ALERT_UPGRADE" = "Uppgradera";
+
+"MENU_APPLICATION_UPGRADE" = "Uppgradera till fullversion…";
