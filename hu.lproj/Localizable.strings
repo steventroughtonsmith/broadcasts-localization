@@ -158,3 +158,57 @@
 
 "MOVE_DIALOG_TITLE" = "Áthelyez \"%@\"";
 "MOVE_DIALOG_BODY" = "Válasszon egy gyűjteményt, ahová az állomást áthelyezi.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Hiba: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Nincs bejelentkezve";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Nincs hely";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Böngészés";
+"SIDEBAR_TITLE_DIRECTORY" = "Könyvtár";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internetes rádió";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Névtelen állomás";
+
+"WELCOME_BUTTON_CONTINUE" = "Folytatás";
+"WELCOME_BUTTON_GETSTARTED" = "Kezdés";
+
+"WELCOME_NEWFEATURES_TITLE" = "Új funkciók";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Modern megjelenés";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Elalvás időzítő";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay eszköztár vezérlő";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Kevésbé tolakodó figyelmeztetések";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Natív pixel méretezés";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Apple Silicon támogatás";
+
+"MENU_CONTROLS" = "Vezérlők";
+"MENU_CONTROLS_PLAY" = "Lejátszás";
+"MENU_CONTROLS_PAUSE" = "Szünet";
+"MENU_CONTROLS_NEXT" = "Következő";
+"MENU_CONTROLS_PREVIOUS" = "Előző";
+
+"SLEEP_TIMER_MENU" = "Elalvás időzítő";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Letiltva";
+"SLEEP_TIMER_MENU_1" = "1 perc";
+"SLEEP_TIMER_MENU_15" = "15 perc";
+"SLEEP_TIMER_MENU_30" = "30 perc";
+"SLEEP_TIMER_MENU_60" = "60 perc";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "név";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "cím";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "grafika";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Kép kiválasztása…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Elérte a próba könyvtár korlátját. Kérjük, frissítsen további állomások hozzáadásához.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Előző";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Következő";
+
+"ALERT_UPGRADE" = "Frissítés";
+
+"MENU_APPLICATION_UPGRADE" = "Frissítés teljes verzióra…";
