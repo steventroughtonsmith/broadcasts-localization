@@ -3,18 +3,17 @@
   MobileRadio
 
   Created by Steven Troughton-Smith on 01/11/2019.
-  Copyright © 2019 High Caffeine Content. All rights reserved.
 */
 
 "SHORTCUT_PLAY" = "Mainkan";
 "SHORTCUT_PAUSE" = "Jeda";
 
-"TOOLBAR_NOTHING_PLAYING" = "Tidak memutar apapun";
+"TOOLBAR_NOTHING_PLAYING" = "Tak memutar apapun";
 "TOOLBAR_STREAMING_RADIO" = "Aliran Radio";
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Mainkan/Jeda";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "Mainkan/Jeda";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Beralih ke Diam";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Alih Nirsuara";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
 
 "SIDEBAR_TITLE_LIBRARY" = "Pustaka";
@@ -22,7 +21,7 @@
 "SIDEBAR_TITLE_RADIO" = "Radio";
 
 "SIDEBAR_CATEGORY_ALL_STATIONS" = "Semua Siaran";
-"SIDEBAR_CATEGORY_RECENTS" = "Terakhir dimainkan";
+"SIDEBAR_CATEGORY_RECENTS" = "Baru diputar";
 
 "LIST_HEADER_STATION" = "Siaran";
 
@@ -33,33 +32,33 @@
 "DISCOVERABILITY_HUD_NEW_STATION" = "Siaran Baru";
 "DISCOVERABILITY_HUD_NEW_GROUP" = "Koleksi Baru";
 
-"MENU_VIEW_AS_GRID" = "sebagai Kisi";
-"MENU_VIEW_AS_LIST" = "sebagai Daftar";
+"MENU_VIEW_AS_GRID" = "tampilan Kisi";
+"MENU_VIEW_AS_LIST" = "tampilan Daftar";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Tunjukkan sebagai Kisi";
-"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Tunjukkan sebagai Daftar";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Lihat sebagai Kisi";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Lihat sebagai Daftar";
 
 "MENU_VIEW_SHOW_SIDEBAR" = "Tunjukkan Bilah Samping";
 "MENU_VIEW_HIDE_SIDEBAR" = "Sembunyikan Bilah Samping";
 
-"MENU_HELP_GETSUPPORT" = "Dapatkan dukungan melalui Twitter…";
+"MENU_HELP_GETSUPPORT" = "Dapatkan Dukungan melalui Twitter…";
 "MENU_HELP_SHOW_WELCOME_SCREEN" = "Tunjukkan Panel Selamat Datang";
 
 "PLAYBACK_ERROR_STALL" = "Koneksi ke Siaran telah hilang.";
 
 "SEARCH_PLACEHOLDER" = "Cari";
 
-"ALERT_OK" = "OK";
+"ALERT_OK" = "Oke";
 "ALERT_ADD" = "Tambah";
 "ALERT_CANCEL" = "Batal";
 "ALERT_DELETE" = "Hapus";
 
 "ADD_STATION_WINDOW_TITLE" = "Tambah Siaran Baru";
-"EDIT_STATION_WINDOW_TITLE" = "Sunting Siaran";
+"EDIT_STATION_WINDOW_TITLE" = "sunting siaran";
 
-"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nama";
-"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://tautan/untuk/streaming";
-"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Pilih Gambar";
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "nama";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://tautan/menuju/aliran";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "pilih gambar";
 
 "ADD_COLLECTION_WINDOW_TITLE" = "Tambah Koleksi Baru";
 "EDIT_COLLECTION_WINDOW_TITLE" = "Sunting Koleksi";
@@ -75,39 +74,39 @@
 "STATION_CONTEXT_MOVE" = "Pindah ke Koleksi";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Hapus \"%@\"";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Anda yakin untuk menghapus Koleksi ini dan semua Siaran di dalamnya?";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Yakinkah anda akan menghapus Koleksi ini dan semua Siaran di dalamnya?";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Hapus \"%@\"";
-"CONTEXT_ALERT_DELETE_STATION_BODY" = "Anda yakin untuk menghapus Siaran ini?";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Yakinkah anda akan menghapus Siaran ini?";
 
-"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Tidak ada Siaran";
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Tak ada Siaran";
 
-"WELCOME_COPY" = "Selamat datang di Broadcasts! Jika anda menginginkannya, kami telah menyediakan Siaran dari negara kami, Irlandia, sebagai pengisi awal pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk membeli, anda bisa menambakan Siaran pilihan anda secara manual, atau memilih dari ribuan Siaran di dalam Direktori.";
+"WELCOME_COPY" = "Selamat datang di Broadcasts! Jika menginginkannya, kami menyediakan berbagai Siaran berasal dari negara aplikasi ini dibuat untuk mengisi pustaka anda (Presets).\n\nAtau, tambahkan siaran pilihan anda secara manual, atau pilih dari ribuan siaran di dalam Direktori.";
 
-"WELCOME_UPSELL" = "Selamat datang di Broadcasts! Di versi tidak berbayar ini, kami telah menyediakan Siaran dari negara kami, Irlandia, sebagai pengisi awal pustaka koleksi anda.\n\nAtau, jika anda memutuskan untuk membeli, anda bisa menambakan Siaran pilihan anda secara manual, atau memilih dari ribuan Siaran di dalam Direktori.";
+"WELCOME_UPSELL" = "Selamat datang di Broadcasts! Dalam versi tak berbayar ini, kami menyediakan berbagai Siaran berasal dari negara aplikasi ini dibuat untuk mengisi pustaka anda (Preset).\n\nAtau, jika membeli Versi Lengkap, anda bisa menambahkan siaran pilihan anda secara manual atau pilih dari ribuan siaran di dalam Direktori.";
 
-"WELCOME_ADD_PRESETS" = "Tambahkan Preset";
+"WELCOME_ADD_PRESETS" = "Tambahkan Presets";
 "WELCOME_NO_THANKS" = "Tidak, Terima kasih";
 
 "GENERATED_COLLECTION_TITLE" = "Koleksiku";
 
-"UPSELL_COPY" = "Terima kasih telah menggunakan Broadcasts!\n\nJika menginginkannya, anda bisa menambah fasilitas lanjutan di Broadcasts dengan melakukan pembelian di dalam aplikasi.\n\nAtau, anda bisa langsung menggunakan dan juga menyunting Siaran yang sudah ada!";
-"UPSELL_BUY" = "Pembelian (%@)";
-"UPSELL_NOT_AVAILABLE" = "Tidak Tersedia";
+"UPSELL_COPY" = "Terima kasih telah menggunakan Broadcasts!\n\nAnda bisa mengakses fitur lanjutan Broadcasts dengan membeli di dalam aplikasi jika anda menginginkannya.\n\nAtau, anda pun bisa langsung menggunakannya dan menyunting siaran di Presets!";
+"UPSELL_BUY" = "Beli (%@)";
+"UPSELL_NOT_AVAILABLE" = "Tidak tersedia";
 "UPSELL_RESTORE" = "Pulihkan Pembelian";
 "UPSELL_NO_THANKS" = "Tidak, Terima kasih";
 
 "TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Koleksi Baru";
 "TOOLBAR_ADD_STATION_TOOLTIP" = "Tambah Siaran";
-"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Perlihatkan Koleksi";
-"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Beralih ke Bilah Samping";
-"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Beralih Tampilan";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Tunjukkan Koleksi";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Bilah Samping";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Tampilan";
 
 "IMAGE_WELL_REMOVE" = "Hapus";
 "IMAGE_WELL_PASTE" = "Tempel";
 "IMAGE_WELL_COPY" = "Salin";
 
-"CARPLAY_EMPTY_LIBRARY" = "Tidak ada koleksi";
+"CARPLAY_EMPTY_LIBRARY" = "Tak ada Koleksi";
 "CARPLAY_ALL_STATIONS" = "Semua Siaran";
 
 "MAC_ADD_STATION_BUTTON" = "Tambah Siaran";
@@ -116,45 +115,99 @@
 "MAC_ADD_COLLECTION_BUTTON" = "Tambah Koleksi";
 "MAC_EDIT_COLLECTION_BUTTON" = "Sunting Koleksi";
 
-"STATION_DIRECTORY_WINDOW_TITLE" = "Pencari Siaran";
+"STATION_DIRECTORY_WINDOW_TITLE" = "Peramban Siaran";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Negara";
 "STATION_DIRECTORY_STATIONS" = "%@ Siaran";
 "STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Siaran";
 
-"STATION_DIRECTORY_NO_CONNECTION" = "Tidak ada koneksi";
+"STATION_DIRECTORY_NO_CONNECTION" = "Tak ada koneksi";
 "STATION_DIRECTORY_CONNECTING" = "Memuat…";
 
-"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Menambahkan Manual";
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Tambah manual";
 "STATION_DIRECTORY_TOOLBAR_DONE" = "Selesai";
 
-"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Mencari Negara";
-"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Mencari Siaran";
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Cari Negara";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Cari Siaran";
 
-"ADD_STATION_CONTEXT_ADD_STATION" = "Menambahkan manual";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Menambahkan dari Direktori";
+"ADD_STATION_CONTEXT_ADD_STATION" = "Tambah Manual";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Tambah dari Direktori";
 
-"LIBRARY_STATE_UPLOADING" = "Mengunggah…";
-"LIBRARY_STATE_DOWNLOADING" = "Mengunduh…";
+"LIBRARY_STATE_UPLOADING" = "Pengunggahan…";
+"LIBRARY_STATE_DOWNLOADING" = "Pengunduhan…";
 "LIBRARY_STATE_PREPARING" = "Mempersiapkan…";
-"LIBRARY_STATE_READY" = "Terkini";
+"LIBRARY_STATE_READY" = "Mutakhir";
 "LIBRARY_STATE_MIGRATING" = "Memindahkan…";
-"LIBRARY_STATE_LOCALONLY" = "Hanya di dalam penyimpanan lokal";
+"LIBRARY_STATE_LOCALONLY" = "Hanya dalam Perangkat";
 
 "TV_TAB_ALL_STATIONS" = "Semua Siaran";
-"TV_TAB_RECENTS" = "Baru saja dimainkan";
+"TV_TAB_RECENTS" = "Terakhir main";
 "TV_TAB_COLLECTIONS" = "Koleksi";
 
-"TV_NO_LIBRARY_MESSAGE" = "Mulai pustaka Broadcasts-mu di iPhone, iPad atau Mac dan sinkronkan ke Apple TV.";
+"TV_NO_LIBRARY_MESSAGE" = "Mulai pustaka Broadcasts di iPhone, iPad atau Mac dan pustaka akan tersinkronisasi ke Apple TV.";
 
-"WATCH_NOW_PLAYING_TITLE" = "Sedang dimainkan";
-"WATCH_SOURCE_RECENTS" = "Baru saja";
+"WATCH_NOW_PLAYING_TITLE" = "Sekarang diputar";
+"WATCH_SOURCE_RECENTS" = "Baru diputar";
 "WATCH_SOURCE_COLLECTIONS" = "Koleksi";
 
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sinkronisasi…";
 
 "ALERT_IMPORT" = "Impor";
 "IMPORT_TITLE" = "Impor \"%@\"?";
-"IMPORT_BODY" = "Koleksi bersama ini memiliki %ld Siaran.";
+"IMPORT_BODY" = "Koleksi bersama ini memiliki sejumlah %ld siaran.";
 
 "MOVE_DIALOG_TITLE" = "Pindah \"%@\"";
-"MOVE_DIALOG_BODY" = "Pilih koleksi untuk memindahkan Siaran ini ke.";
+"MOVE_DIALOG_BODY" = "Pilih koleksi untuk memindahkan siaran ini.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Galat: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Tidak Log In";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Kapasitas simpan habis";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Telusuri";
+"SIDEBAR_TITLE_DIRECTORY" = "Direktori";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Radio Internet";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Stasiun tanpa nama";
+
+"WELCOME_BUTTON_CONTINUE" = "Lanjutkan";
+"WELCOME_BUTTON_GETSTARTED" = "Mulai";
+
+"WELCOME_NEWFEATURES_TITLE" = "Fitur-fitur Baru";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Tampilan dan nuansa Modern";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Waktu Istirahat";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Toolbar Kendali AirPlay";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Peringatan yang tak mengganggu";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Penskalaan Piksel secara Native";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Mendukung Apple Silicon";
+
+"MENU_CONTROLS" = "Controls";
+"MENU_CONTROLS_PLAY" = "Mainkan";
+"MENU_CONTROLS_PAUSE" = "Jeda";
+"MENU_CONTROLS_NEXT" = "Selanjutnya";
+"MENU_CONTROLS_PREVIOUS" = "Sebelumnya";
+
+"SLEEP_TIMER_MENU" = "Waktu Istirahat";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Dinonaktifkan";
+"SLEEP_TIMER_MENU_1" = "1 Menit";
+"SLEEP_TIMER_MENU_15" = "15 Menit";
+"SLEEP_TIMER_MENU_30" = "30 Menit";
+"SLEEP_TIMER_MENU_60" = "60 Menit";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "nama";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "alamat";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "gambar sampul";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "pilih gambar…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "batas waktu percobaan fitur pustaka sudah terlewati. silakan upgrade untuk menambahkan siaran.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Sebelumnya";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Selanjutnya";
+
+"ALERT_UPGRADE" = "Upgrade";
+
+"MENU_APPLICATION_UPGRADE" = "Upgrade ke Versi Lengkap…";
