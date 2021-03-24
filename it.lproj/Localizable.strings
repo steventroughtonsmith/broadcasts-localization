@@ -5,7 +5,7 @@
   Created by Steven Troughton-Smith on 01/11/2019.
   Copyright © 2019 High Caffeine Content. All rights reserved.
   
-  Italian translation by pirafrank
+  Italian translation by pirafrank, Andrea Martini
 */
 
 "SHORTCUT_PLAY" = "Play";
@@ -160,3 +160,57 @@
 
 "MOVE_DIALOG_TITLE" = "Sposta \"%@\"";
 "MOVE_DIALOG_BODY" = "Scegli una raccolta in cui spostare questa stazione.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Errore: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Non autenticato";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Spazio esaurito";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Sfoglia";
+"SIDEBAR_TITLE_DIRECTORY" = "Lista stazioni";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Web Radio";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Stazione senza titolo";
+
+"WELCOME_BUTTON_CONTINUE" = "Continua";
+"WELCOME_BUTTON_GETSTARTED" = "Inizia";
+
+"WELCOME_NEWFEATURES_TITLE" = "Nuove funzionalità";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Look & feel moderno";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep Timer";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Controlli AirPlay";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Avvisi meno intrusivi";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Pixel scaling nativo";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Supporto per Apple Silicon";
+
+"MENU_CONTROLS" = "Controlli";
+"MENU_CONTROLS_PLAY" = "Play";
+"MENU_CONTROLS_PAUSE" = "Pausa";
+"MENU_CONTROLS_NEXT" = "Successivo";
+"MENU_CONTROLS_PREVIOUS" = "Precedente";
+
+"SLEEP_TIMER_MENU" = "Sleep Timer";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Disabilitato";
+"SLEEP_TIMER_MENU_1" = "1 minuto";
+"SLEEP_TIMER_MENU_15" = "15 minuti";
+"SLEEP_TIMER_MENU_30" = "30 minuti";
+"SLEEP_TIMER_MENU_60" = "60 minuti";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "nome";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "indirizzo";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "immagine";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Scegli immagine…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Hai raggiunto il limite della libreria di prova. Aggiorna per aggiungere altre stazioni.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Precedente";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Successivo";
+
+"ALERT_UPGRADE" = "Aggiorna";
+
+"MENU_APPLICATION_UPGRADE" = "Aggiorna alla versione completa…";
