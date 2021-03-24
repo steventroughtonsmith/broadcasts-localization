@@ -144,7 +144,7 @@
 "TV_TAB_RECENTS" = "Recentment reproduït";
 "TV_TAB_COLLECTIONS" = "Col·leccions";
 
-"TV_NO_LIBRARY_MESSAGE" = "Inicieu la vostra biblioteca de Broadcasts en iPhone, iPad o Mac i es sincronitzarà amb Apple TV.";
+"TV_NO_LIBRARY_MESSAGE" = "Inicieu la vostra biblioteca de Broadcasts en iPhone, iPad o Mac i se sincronitzarà amb Apple TV.";
 
 "WATCH_NOW_PLAYING_TITLE" = "En reproducció";
 "WATCH_SOURCE_RECENTS" = "Recents";
@@ -153,8 +153,62 @@
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Sincronitzant…";
 
 "ALERT_IMPORT" = "Importa";
-"IMPORT_TITLE" = "¿Importa \"%@\"?";
-"IMPORT_BODY" = "Aquesta col·lecció compartida conté% ld emissores.";
+"IMPORT_TITLE" = "Importa \"%@\"?";
+"IMPORT_BODY" = "Aquesta col·lecció compartida conté %ld emissores.";
 
-"MOVE_DIALOG_TITLE" = "Moure \"%@\"";
+"MOVE_DIALOG_TITLE" = "Mou \"%@\"";
 "MOVE_DIALOG_BODY" = "Trieu una col·lecció a on moure aquesta emissora.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Error: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Sessió no iniciada";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Sense espai";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Explora";
+"SIDEBAR_TITLE_DIRECTORY" = "Directori";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Ràdio en línia";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Emissora sense nom";
+
+"WELCOME_BUTTON_CONTINUE" = "Continua";
+"WELCOME_BUTTON_GETSTARTED" = "Comença";
+
+"WELCOME_NEWFEATURES_TITLE" = "Noves funcions";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Aparença moderna";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Temporitzador";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Controls en la barra d'AirPlay";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Alertes menys intrusives";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Escalat natiu";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Suporta Apple Silicon";
+
+"MENU_CONTROLS" = "Controls";
+"MENU_CONTROLS_PLAY" = "Reprodueix";
+"MENU_CONTROLS_PAUSE" = "Pausa";
+"MENU_CONTROLS_NEXT" = "Següent";
+"MENU_CONTROLS_PREVIOUS" = "Anterior";
+
+"SLEEP_TIMER_MENU" = "Temporitzador";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Desactivat";
+"SLEEP_TIMER_MENU_1" = "1 minut";
+"SLEEP_TIMER_MENU_15" = "15 minuts";
+"SLEEP_TIMER_MENU_30" = "30 minuts";
+"SLEEP_TIMER_MENU_60" = "60 minuts";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "nom";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "adreça";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "imatge";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Selecciona imatge…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Límit d'emissores assolit. Per favor, actualitza a la versió completa per a afegir més emissores.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Anterior";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Següent";
+
+"ALERT_UPGRADE" = "Actualitza";
+
+"MENU_APPLICATION_UPGRADE" = "Actualitza a la versió completa…";
