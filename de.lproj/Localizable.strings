@@ -160,3 +160,55 @@
 "MOVE_DIALOG_TITLE" = "„%@“ verschieben";
 "MOVE_DIALOG_BODY" = "Wähle die Sammlung aus, in die dieser Sender verschoben werden soll.";
 
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Fehler: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Nicht angemeldet";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Kein Speicherplatz mehr";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Durchsuchen";
+"SIDEBAR_TITLE_DIRECTORY" = "Mediathek";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internet Radio";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Unbenannter Sender";
+
+"WELCOME_BUTTON_CONTINUE" = "Weiter";
+"WELCOME_BUTTON_GETSTARTED" = "Beginnen";
+
+"WELCOME_NEWFEATURES_TITLE" = "Neue Funktionen";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Modernes Design";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep Timer";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay Steuerung";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Weniger aufdringliche Benachrichtigungen";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Native Pixelskalierung";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Unterstützt Apple Silicon";
+
+"MENU_CONTROLS" = "Steuerelemente";
+"MENU_CONTROLS_PLAY" = "Wiedergabe";
+"MENU_CONTROLS_PAUSE" = "Pause";
+"MENU_CONTROLS_NEXT" = "Weiter";
+"MENU_CONTROLS_PREVIOUS" = "Zurück";
+
+"SLEEP_TIMER_MENU" = "Sleep-Timer";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Deaktiviert";
+"SLEEP_TIMER_MENU_1" = "1 Minute";
+"SLEEP_TIMER_MENU_15" = "15 Minuten";
+"SLEEP_TIMER_MENU_30" = "30 Minuten";
+"SLEEP_TIMER_MENU_60" = "60 Minuten";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "Name";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "Adresse";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "Bild";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Wähle Bild…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Du hast die Grenze der kostenlosen Version erreicht. Bitte upgrade mit dem In-App-Kauf, um mehr Stationen hinzuzufügen.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Zurück";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Weiter";
+
+"ALERT_UPGRADE" = "Upgrade";
+"MENU_APPLICATION_UPGRADE" = "Upgrade auf Vollversion…";
