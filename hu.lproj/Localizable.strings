@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Hungarian version. Created by Predrag Todic (https://github.com/ptodic) on 2020-05-16.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Lejátszás";
+"SHORTCUT_PAUSE" = "szünetelés";
+
+"TOOLBAR_NOTHING_PLAYING" = "Nincs lejátszás";
+"TOOLBAR_STREAMING_RADIO" = "Rádió streamelés";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Lejátszás/Szünetelés";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Lejátszás/Szünetelés";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Némítás";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Hangerő";
+
+"SIDEBAR_TITLE_LIBRARY" = "Könyvtár";
+"SIDEBAR_TITLE_STATIONS" = "Gyűjtemények";
+"SIDEBAR_TITLE_RADIO" = "Rádió";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Minden állomás";
+"SIDEBAR_CATEGORY_RECENTS" = "Legutóbbiak";
+
+"LIST_HEADER_STATION" = "Állomás";
+
+"MENU_NEW" = "Új";
+"MENU_NEW_STATION" = "Állomás…";
+"MENU_NEW_GROUP" = "Gyűjtemény";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Új Állomás";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Űj Gyűjtemény";
+
+"MENU_VIEW_AS_GRID" = "rácsként";
+"MENU_VIEW_AS_LIST" = "listaként";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Nézet rácsként";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Nézet listaként";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Oldalsáv megjelenítése";
+"MENU_VIEW_HIDE_SIDEBAR" = "Oldalsáv elrejtése";
+
+"MENU_HELP_GETSUPPORT" = "Kérjen támogatást a Twitter-en...";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Üdvözlőpanel megjelenítése";
+
+"PLAYBACK_ERROR_STALL" = "Az állomáshoz való kapcsolat megszakadt.";
+
+"SEARCH_PLACEHOLDER" = "Keresés";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Hozzáad";
+"ALERT_CANCEL" = "Mégsem";
+"ALERT_DELETE" = "Törlés";
+
+"ADD_STATION_WINDOW_TITLE" = "Új állomás hozzáadása";
+"EDIT_STATION_WINDOW_TITLE" = "Állomás szerkesztése";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Név";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://útvonal/a/streamelésre";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Kép kijelölése";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Új gyűjtemény hozzáadása";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Gyűjtemény szerkesztése";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Gyűjteményem";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Szerkesztés";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Gyűjtemény törlése";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Megosztás";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Szerkesztés";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Állomás törlése";
+"STATION_CONTEXT_MOVE" = "Áthelyezés Gyűjteményhez";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "\"%@\" törlése";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Biztosan törli ezt a gyűjteményt és az összes állomást?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "\"%@\" törlése";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Biztosan törli ezt az állomást?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Nincs állomás";
+
+"WELCOME_COPY" = "Üdvözöljük a Broadcasts-ben! Ha szeretné, van otthonunkból néhány előre beállított állomás, amellyel elindíthatjuk a könyvtárat.\n\nVagy, ha úgy tetszik, manuálisan adjon hozzá saját állomásokat, vagy válasszon a listában található többezer közül.";
+
+"WELCOME_UPSELL" = "Üdvözöljük a Broadcasts-ben! Ebben az ingyenes verzióban vannak olyan előre beállított állomások otthonunkból, amelyekkel elindíthatjuk a könyvtárat.\n\nVagy ha jobban szeretne frissíteni a fizetett verzióra, manuálisan hozzáadhatja saját állomásait, vagy választhat többezer közül a listábol.";
+
+"WELCOME_ADD_PRESETS" = "Előre beállított állomások hozzáadása";
+"WELCOME_NO_THANKS" = "Köszönöm nem";
+
+"GENERATED_COLLECTION_TITLE" = "Gyűjteményem";
+
+"UPSELL_COPY" = "Köszönjük, hogy használja a Broadcasts-et!\n\nA Broadcasts speciális funkcióit az alkalmazáson belüli vásárlással feloldhatja, ha szeretné.\n\nVagy ha szeretné, folytassa az előre beállított állomások használatát és szerkesztését!";
+"UPSELL_BUY" = "(%@) vásárlása";
+"UPSELL_NOT_AVAILABLE" = "Nem elérhető";
+"UPSELL_RESTORE" = "Vásárlás visszaállítása";
+"UPSELL_NO_THANKS" = "Köszönöm nem";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Új Gyűjtemény";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Állomás hozzáadása";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Gyűjtemények megjelenítése";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Oldalsáv";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Nézet";
+
+"IMAGE_WELL_REMOVE" = "Eltávolítás";
+"IMAGE_WELL_PASTE" = "Beilesztés";
+"IMAGE_WELL_COPY" = "Másolás";
+
+"CARPLAY_EMPTY_LIBRARY" = "Nincs gyűjtemény";
+"CARPLAY_ALL_STATIONS" = "Minden állomás";
+
+"MAC_ADD_STATION_BUTTON" = "Állomás hozzáadása";
+"MAC_EDIT_STATION_BUTTON" = "Állomás szerkesztése";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Gyűjtemény hozzáadása";
+"MAC_EDIT_COLLECTION_BUTTON" = "Gyűjtemény szerkesztése";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Állomás böngésző";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Országok";
+"STATION_DIRECTORY_STATIONS" = "%@ Állomás";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Állomás";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Nincs kapcsolat";
+"STATION_DIRECTORY_CONNECTING" = "Betöltés…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Kézi hozzáadás";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Kész";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Országok keresése";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Állomások keresése";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Kézi hozzáadás";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Listából hozzáad";
+
+"LIBRARY_STATE_UPLOADING" = "Feltöltés…";
+"LIBRARY_STATE_DOWNLOADING" = "Letöltés…";
+"LIBRARY_STATE_PREPARING" = "Előkészítés…";
+"LIBRARY_STATE_READY" = "Naprakész";
+"LIBRARY_STATE_MIGRATING" = "Migrálás…";
+"LIBRARY_STATE_LOCALONLY" = "Csak helyi";
+
+"TV_TAB_ALL_STATIONS" = "Minden állomás";
+"TV_TAB_RECENTS" = "Nemrégiben játszott";
+"TV_TAB_COLLECTIONS" = "Gyűjtemények";
+
+"TV_NO_LIBRARY_MESSAGE" = "Indítsa el Broadcasts könyvtárát iPhone, iPad vagy Mac rendszeren, és szinkronizálódni fog az Apple TV-vel.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Most játszik";
+"WATCH_SOURCE_RECENTS" = "Legutóbbiak";
+"WATCH_SOURCE_COLLECTIONS" = "Gyűjtemények";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Szinkronizálás…";
+
+"ALERT_IMPORT" = "Importálás";
+"IMPORT_TITLE" = "\"%@\" importálása ?";
+"IMPORT_BODY" = "Ez a megosztott gyűjtemény %ld állomást tartalmaz.";
+
+"MOVE_DIALOG_TITLE" = "Áthelyez \"%@\"";
+"MOVE_DIALOG_BODY" = "Válasszon egy gyűjteményt, ahová az állomást áthelyezi.";

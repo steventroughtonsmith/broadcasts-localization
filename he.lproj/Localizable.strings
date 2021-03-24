@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "נגן";
+"SHORTCUT_PAUSE" = "השהה";
+
+"TOOLBAR_NOTHING_PLAYING" = "לא מנגן";
+"TOOLBAR_STREAMING_RADIO" = "מזרים רדיו";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "נגן/השהה";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "נגן/השהה";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "השתק/בטל השתקה";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "עוצמת שמע";
+
+"SIDEBAR_TITLE_LIBRARY" = "ספרייה";
+"SIDEBAR_TITLE_STATIONS" = "אוספים";
+"SIDEBAR_TITLE_RADIO" = "רדיו";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "כל התחנות";
+"SIDEBAR_CATEGORY_RECENTS" = "תחנות אחרונות";
+
+"LIST_HEADER_STATION" = "תחנה";
+
+"MENU_NEW" = "חדש";
+"MENU_NEW_STATION" = "תחנה…";
+"MENU_NEW_GROUP" = "אוסף…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "תחנה חדשה";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "אוסף חדש";
+
+"MENU_VIEW_AS_GRID" = "תצוגת טבלה";
+"MENU_VIEW_AS_LIST" = "תצוגת רשימה";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "הצג כטבלה";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "הצג כרשימה";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "הצג סרגל צד";
+"MENU_VIEW_HIDE_SIDEBAR" = "הסתר סרגל צד";
+
+"MENU_HELP_GETSUPPORT" = "קבל תמיכה ב־Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "הראה מסך ברוכים הבאים";
+
+"PLAYBACK_ERROR_STALL" = "החיבור לתחנה אבד.";
+
+"SEARCH_PLACEHOLDER" = "חיפוש";
+
+"ALERT_OK" = "אישור";
+"ALERT_ADD" = "הוספה";
+"ALERT_CANCEL" = "ביטול";
+"ALERT_DELETE" = "מחיקה";
+
+"ADD_STATION_WINDOW_TITLE" = "הוסף תחנה חדשה";
+"EDIT_STATION_WINDOW_TITLE" = "ערוך תחנה";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "שם";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "בחר תמונה";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "הוסף אוסף חדש";
+"EDIT_COLLECTION_WINDOW_TITLE" = "ערוך אוסף";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "האוסף שלי";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "ערוך";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "מחק אוסף";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "שתף";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "ערוך";
+"STATION_CONTEXT_DELETE_COLLECTION" = "מחק תחנה";
+"STATION_CONTEXT_MOVE" = "העבר לאוסף";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "מחק את \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "האם אתה בטוח שברצונך למחוק את האוסף הזה ואת כל התחנות שבתוכו?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "מחק את \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "האם אתה בטוח שברצונך למחוק את התחנה הזאת?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "אין תחנות";
+
+"WELCOME_COPY" = "ברוכים הבאים ל־Broadcasts! אם תרצו, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו, הוסיפו תחנות משלכם באופן ידני או בחרו מתןך אלפי תחנות במדריך.";
+
+"WELCOME_UPSELL" = "ברוכים הבאים ל־Broadcasts! בגרסה החינמית הזאת, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו לשדרג לגרסה בתשלום, תוכלו להוסיף תחנות משלכם באופן ידני או לבחור מתוך אלפי תחנות במדריך.";
+
+"WELCOME_ADD_PRESETS" = "הוסף תחנות מוגדרות מראש";
+"WELCOME_NO_THANKS" = "לא תודה";
+
+"GENERATED_COLLECTION_TITLE" = "האוסף שלי";
+
+"UPSELL_COPY" = "תודה על השימוש ב־Broadcasts!\n\nתוכלו לפתוח את התכונות המתקדמות של Broadcasts באמצעות רכישה בתוך האפליקציה, אם תרצו.\n\nאו, אם תעדיפו, המשיכו להשתמש ולערוך את התחנות המוגדרות מראש!";
+"UPSELL_BUY" = "רכישה (%@)";
+"UPSELL_NOT_AVAILABLE" = "לא זמין";
+"UPSELL_RESTORE" = "שחזר רכישה";
+"UPSELL_NO_THANKS" = "לא תודה";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "אוסף חדש";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "הוסף תחנה";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "הראה אוספים";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "הצג/הסתר את סרגל הצד";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "שנה תצוגה";
+
+"IMAGE_WELL_REMOVE" = "הסר";
+"IMAGE_WELL_PASTE" = "הדבק";
+"IMAGE_WELL_COPY" = "העתק";
+
+"CARPLAY_EMPTY_LIBRARY" = "אין אוספים";
+"CARPLAY_ALL_STATIONS" = "כל התחנות";
+
+"MAC_ADD_STATION_BUTTON" = "הוסף תחנה";
+"MAC_EDIT_STATION_BUTTON" = "ערוך תחנה";
+
+"MAC_ADD_COLLECTION_BUTTON" = "הוסף אוסף";
+"MAC_EDIT_COLLECTION_BUTTON" = "ערוך אוסף";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "סייר התחנות";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "מדינות";
+"STATION_DIRECTORY_STATIONS" = "%@ תחנה";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ תחנות";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "אין חיבור";
+"STATION_DIRECTORY_CONNECTING" = "טוען…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "הוסף ידנית";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "בוצע";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "חפש מדינות";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "חפש תחנות";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "הוסף ידנית";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "הוסף מהמדריך";
+
+"LIBRARY_STATE_UPLOADING" = "מעלה…";
+"LIBRARY_STATE_DOWNLOADING" = "מוריד…";
+"LIBRARY_STATE_PREPARING" = "מכין…";
+"LIBRARY_STATE_READY" = "מעודכן";
+"LIBRARY_STATE_MIGRATING" = "מעביר…";
+"LIBRARY_STATE_LOCALONLY" = "מקומי בלבד";
+
+"TV_TAB_ALL_STATIONS" = "כל התחנות";
+"TV_TAB_RECENTS" = "נוגן לאחרונה";
+"TV_TAB_COLLECTIONS" = "אוספים";
+
+"TV_NO_LIBRARY_MESSAGE" = "התחל ליצור את ספריית Broadcasts על iPhone, iPad או Mac והיא תסונכרן ל־Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "מנגן כעת";
+"WATCH_SOURCE_RECENTS" = "אחרונות";
+"WATCH_SOURCE_COLLECTIONS" = "אוספים";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "מסנכרן…";
+
+"ALERT_IMPORT" = "יבא";
+"IMPORT_TITLE" = "האם לייבא את \"%@\"?";
+"IMPORT_BODY" = "האוסף המשותף הזה מכיל %ld תחנות.";
+
+"MOVE_DIALOG_TITLE" = "העבר את \"%@\"";
+"MOVE_DIALOG_BODY" = "בחר אוסף להעביר אליו את התחנה הזאת.";

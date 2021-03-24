@@ -1,0 +1,160 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Ameer Idreis on 2020-05-25.
+  Copyright © 2020 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "تشغيل";
+"SHORTCUT_PAUSE" = "توقف";
+
+"TOOLBAR_NOTHING_PLAYING" = "لا شيء يعرض";
+"TOOLBAR_STREAMING_RADIO" = "جاري البث";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "تشغيل/إيقاف";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "تشغيل/إيقاف";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "تشغيل/إيقاف الصوت";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "مستوى الصوت";
+
+"SIDEBAR_TITLE_LIBRARY" = "المكتبة";
+"SIDEBAR_TITLE_STATIONS" = "المجموعات";
+"SIDEBAR_TITLE_RADIO" = "الراديو";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "جميع المحطات";
+"SIDEBAR_CATEGORY_RECENTS" = "أستمع له مؤخراً";
+
+"LIST_HEADER_STATION" = "محطة";
+
+"MENU_NEW" = "جديد";
+"MENU_NEW_STATION" = "…محطة جديدة";
+"MENU_NEW_GROUP" = "…مجموعة جديدة";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "محطة جديدة";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "مجموعة جديدة";
+
+"MENU_VIEW_AS_GRID" = "عرض كمعرض";
+"MENU_VIEW_AS_LIST" = "عرض كقائمة";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "عرض المحطات كمعرض";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "عرض المحطات كقائمة";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "إظهار الشريط الجانبي";
+"MENU_VIEW_HIDE_SIDEBAR" = "إخفاء الشريط الجانبي";
+
+"MENU_HELP_GETSUPPORT" = "…إحصل على المساعدة على تويتر";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "إظهار لوحة الترحيب";
+
+"PLAYBACK_ERROR_STALL" = "انقطع الاتصال بالمحطة.";
+
+"SEARCH_PLACEHOLDER" = "بحث";
+
+"ALERT_OK" = "تم";
+"ALERT_ADD" = "إضافة";
+"ALERT_CANCEL" = "إلغاء";
+"ALERT_DELETE" = "نعم";
+
+"ADD_STATION_WINDOW_TITLE" = "إضافة محطة جديدة";
+"EDIT_STATION_WINDOW_TITLE" = "تحرير المحطة";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "اسم";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "إختر صورة";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "إضافة مجموعة جديدة";
+"EDIT_COLLECTION_WINDOW_TITLE" = "تحرير المجموعة";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "مجموعتي";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "تحرير";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "حذف المجموعة";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "مشاركة";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "تحرير";
+"STATION_CONTEXT_DELETE_COLLECTION" = "حذف المحطة";
+"STATION_CONTEXT_MOVE" = "الإنتقال إلى مجموعة";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "\"%@\" حذف";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "هل أنت متأكد أنك تريد حذف هذه المجموعة وجميع المحطات الموجودة فيها؟";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "\"%@\" حذف";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "هل أنت متأكد أنك تريد حذف هذه المحطة؟";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "لا توجد محطات";
+
+"WELCOME_COPY" = "مرحباً بك إلى Broadcasts! لدينا بعض المحطات المعدة مسبقاً من ايرلندا والتي يمكن أن تبدأ مكتبتك بها إذا كنت ترغب في ذلك.\n\n أو بإمكانك إضافة محطاتك الخاصة يدوياً أو الإختيار من بين الآلاف في الدليل.";
+
+"WELCOME_UPSELL" = "مرحباً بك إلى Broadcasts! في هذه النسخة المجانية لديك بعض المحطات المعدة مسبقاً من ايرلندا والتي يمكن أن تبدأ مكتبتك بها إذا كنت ترغب في ذلك.\n\nأو بإمكانك رفع المستوى إلى النسخة المدفوعة لتضيف محطاتك الخاصة يدوياً أو لتختيار من بين الآلاف في الدليل.";
+
+"WELCOME_ADD_PRESETS" = "إضافة المحطات المعدة مسبقاً";
+"WELCOME_NO_THANKS" = "لا شكراً";
+
+"GENERATED_COLLECTION_TITLE" = "مجموعتي";
+
+"UPSELL_COPY" = "شكراً لإستخدام Broadcasts!\n\n يمكنك رفع المستوى لتحصل على الميزات المتقدمة لBroadcasts .من خلال الشراء داخل التطبيق إذا كنت ترغب في ذلك. أو استمر في استخدام المحطات المعدة مسبقاً";
+"UPSELL_BUY" = "(%@) شراء";
+"UPSELL_NOT_AVAILABLE" = "غير متوفر";
+"UPSELL_RESTORE" = "استعادة عملية الشراء";
+"UPSELL_NO_THANKS" = "لا شكراً";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "مجموعة جديدة";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "إضافة محطة";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "إظهار المجموعات";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "إظهار/إخفاء الشريط الجانبي";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "تبديل العرض";
+
+"IMAGE_WELL_REMOVE" = "إزالة";
+"IMAGE_WELL_PASTE" = "لصق";
+"IMAGE_WELL_COPY" = "نسخ";
+
+"CARPLAY_EMPTY_LIBRARY" = "لا توجد مجموعات";
+"CARPLAY_ALL_STATIONS" = "جميع المحطات";
+
+"MAC_ADD_STATION_BUTTON" = "إضافة محطة";
+"MAC_EDIT_STATION_BUTTON" = "تحرير المحطة";
+
+"MAC_ADD_COLLECTION_BUTTON" = "إضافة مجموعة";
+"MAC_EDIT_COLLECTION_BUTTON" = "تحرير المجموعة";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "دليل المحطات";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "دول";
+"STATION_DIRECTORY_STATIONS" = "محطة %@";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "محطات %@";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "لا يوجد إتصال";
+"STATION_DIRECTORY_CONNECTING" = "…جاري التحميل";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "إضافة يدوية";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "تم";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "بحث حسب الدول";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "بحث المحطات";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "إضافة يدوية";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "إضافة من الدليل";
+
+"LIBRARY_STATE_UPLOADING" = "…جاري التحميل";
+"LIBRARY_STATE_DOWNLOADING" = "…جاري التنزيل";
+"LIBRARY_STATE_PREPARING" = "…جاري التجهيز";
+"LIBRARY_STATE_READY" = "محدَّث";
+"LIBRARY_STATE_MIGRATING" = "…جاري النقل";
+"LIBRARY_STATE_LOCALONLY" = "على الجهاز فقط";
+
+"TV_TAB_ALL_STATIONS" = "جميع المحطات";
+"TV_TAB_RECENTS" = "أستمع له مؤخراً";
+"TV_TAB_COLLECTIONS" = "المجموعات";
+
+"TV_NO_LIBRARY_MESSAGE" = "إبدأ المكتبة الخاصة بك من Broadcasts على iPhone أو iPad أو Mac وستتم مزامنتها مع Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "يتم الآن تشغيل";
+"WATCH_SOURCE_RECENTS" = "أستمع له مؤخراً";
+"WATCH_SOURCE_COLLECTIONS" = "المجموعات";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "…جاري المزامنة";
+
+"ALERT_IMPORT" = "إستيراد";
+"IMPORT_TITLE" = "هل تريد إستيراد \"%@\"؟";
+"IMPORT_BODY" = "محطات %ld تحتوي هذه المجموعة المشتركة";
+
+"MOVE_DIALOG_TITLE" = "\"%@\" نقل";
+"MOVE_DIALOG_BODY" = ".إختر مجموعة لتنقل هذه المحطة إليها";
