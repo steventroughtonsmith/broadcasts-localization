@@ -161,7 +161,7 @@
 
 /* Broadcasts v2.0 */
 
-"ERROR_ALERT_TITLE" = "出了点意外： %@";
+"ERROR_ALERT_TITLE" = "出了点意外：%@";
 
 "LIBRARY_STATE_UNAUTHENTICATED" = "未登录";
 "LIBRARY_STATE_QUOTA_EXCEEDED" = "空间不足";
