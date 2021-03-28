@@ -158,3 +158,57 @@
 
 "MOVE_DIALOG_TITLE" = "Преместване на \"%@\"";
 "MOVE_DIALOG_BODY" = "Изберете колекция, в която да преместите тази станция.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Грешка: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Не сте влезли в профила си";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Недостатъчно дисково пространство";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Разглеждане";
+"SIDEBAR_TITLE_DIRECTORY" = "Директория";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Интернет радио";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Неименувана станция";
+
+"WELCOME_BUTTON_CONTINUE" = "Продължаване";
+"WELCOME_BUTTON_GETSTARTED" = "Започване";
+
+"WELCOME_NEWFEATURES_TITLE" = "Нова функционалност";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Модерен изглед и усещане";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Таймер за приспиване";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay контроли";
+"WELCOME_NEWFEATURES_2_ALERTS" = "По-малко натрапчиви предупреждения";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Мащабиране на пикселите според устройството";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Поддържане на Apple Silicon";
+
+"MENU_CONTROLS" = "Контроли";
+"MENU_CONTROLS_PLAY" = "Пускане";
+"MENU_CONTROLS_PAUSE" = "Пауза";
+"MENU_CONTROLS_NEXT" = "Следваща";
+"MENU_CONTROLS_PREVIOUS" = "Предишна";
+
+"SLEEP_TIMER_MENU" = "Таймер за приспиване";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Изключено";
+"SLEEP_TIMER_MENU_1" = "1 минута";
+"SLEEP_TIMER_MENU_15" = "15 минути";
+"SLEEP_TIMER_MENU_30" = "30 минути";
+"SLEEP_TIMER_MENU_60" = "60 минути";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "име";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "адрес";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "обложка";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Избор на изображение…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Лимитът за библиотеката на пробния период е достигнат. Моля, надградете до пълната версия, за да може да добавите повече станции.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Предишна";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Следваща";
+
+"ALERT_UPGRADE" = "Надграждане";
+
+"MENU_APPLICATION_UPGRADE" = "Надграждане до пълната версия…";
