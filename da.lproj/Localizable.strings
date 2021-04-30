@@ -1,0 +1,213 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+*/
+
+"SHORTCUT_PLAY" = "Afspil";
+"SHORTCUT_PAUSE" = "Pause";
+
+"TOOLBAR_NOTHING_PLAYING" = "Intet spiller";
+"TOOLBAR_STREAMING_RADIO" = "Internet radio afspiller";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Afspil/Pause";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Play/Pause";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Toggle Mute";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
+
+"SIDEBAR_TITLE_LIBRARY" = "Bibliotek";
+"SIDEBAR_TITLE_STATIONS" = "Samlinger";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Alle stationer";
+"SIDEBAR_CATEGORY_RECENTS" = "Seneste";
+
+"LIST_HEADER_STATION" = "Station";
+
+"MENU_NEW" = "Ny";
+"MENU_NEW_STATION" = "Station…";
+"MENU_NEW_GROUP" = "Samling…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Ny station";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Ny samling";
+
+"MENU_VIEW_AS_GRID" = "som gitter";
+"MENU_VIEW_AS_LIST" = "som liste";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Vis som gitter";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Vis som liste";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Vis sidepanel";
+"MENU_VIEW_HIDE_SIDEBAR" = "Skjul sidepanel";
+
+"MENU_HELP_GETSUPPORT" = "Få support via Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Vis velkomstpanel";
+
+"PLAYBACK_ERROR_STALL" = "Forbindelsen til stationen er blevet afbrudt.";
+
+"SEARCH_PLACEHOLDER" = "Søg";
+
+"ALERT_OK" = "Ok";
+"ALERT_ADD" = "Tilføj";
+"ALERT_CANCEL" = "Afbryd";
+"ALERT_DELETE" = "Slet";
+
+"ADD_STATION_WINDOW_TITLE" = "Tilføj ny station";
+"EDIT_STATION_WINDOW_TITLE" = "Redigér station";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Navn";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://address/på/internet/radio/station";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Vælg billede";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Tilføj ny samling";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Redigér samling";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Min samling";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Redigér";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Slet samling";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Del";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Redigér";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Slet station";
+"STATION_CONTEXT_MOVE" = "Flyt til samling";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Slet \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Er du sikker på at du ønsker at slette denne samling og alle de stationerne den indeholder?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Slet \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Er du sikker på at du ønsker at slette denne station?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Ingen stationer";
+
+"WELCOME_COPY" = "Velkommen til Broadcasts! Hvis du ønsker, så findes nogle udvalgte stationer fra udviklerens hjemland som du kan starte dit bibliotek med.\n\nHvis du fortrækker det kan du også tilføje dine egne stationer manuelt eller vælge mellem tusindvis fra Broadcasts katalog.";
+
+"WELCOME_UPSELL" = "Velkommen til Broadcasts! I denne gratis version findes nogle udvalgte stationer fra udviklerens hjemland som du kan starte dit bibliotek med.\n\Hvis du fortrækker det kan du opgraderer til den betalte version, du kan også tilføje dine egne stationer manuelt eller vælge mellem tusindvis fra Broadcasts katalog.";
+
+"WELCOME_ADD_PRESETS" = "Tilføj udvalgte stationer";
+"WELCOME_NO_THANKS" = "Nej tak";
+
+"GENERATED_COLLECTION_TITLE" = "Min samling";
+
+"UPSELL_COPY" = "Mange tak fordi du bruger Broadcasts!\n\nHvis du ønsker det så kan du kan åbne for Broadcasts advancerede funktioner med en betaling via applikationen\n\nDu kan ogsp forsætte med at bruge og redigerer de udvalgte stationer!";
+"UPSELL_BUY" = "Køb (%@)";
+"UPSELL_NOT_AVAILABLE" = "Ikke tilgængelig";
+"UPSELL_RESTORE" = "Genopret køb";
+"UPSELL_NO_THANKS" = "Nej tak";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Ny samling";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Tilføj station";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Vis samlinger";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Vis/Skjul sidepanel";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Vis/Skjul visning";
+
+"IMAGE_WELL_REMOVE" = "Fjern";
+"IMAGE_WELL_PASTE" = "Indsæt";
+"IMAGE_WELL_COPY" = "Kopiér";
+
+"CARPLAY_EMPTY_LIBRARY" = "Ingen samlinger";
+"CARPLAY_ALL_STATIONS" = "Alle stationer";
+
+"MAC_ADD_STATION_BUTTON" = "Tilføj station";
+"MAC_EDIT_STATION_BUTTON" = "Redigér station";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Tilføj samling";
+"MAC_EDIT_COLLECTION_BUTTON" = "Redigér samling";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Station oversigt";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Lande";
+"STATION_DIRECTORY_STATIONS" = "%@ station";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ stationer";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Ingen forbindelse";
+"STATION_DIRECTORY_CONNECTING" = "Indlæser…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Tilføj manuelt";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Færdig";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Søg efter lande";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Søg efter stationer";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Tilføj manuelt";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Tilføj fra katalog";
+
+"LIBRARY_STATE_UPLOADING" = "Sender…";
+"LIBRARY_STATE_DOWNLOADING" = "Henter…";
+"LIBRARY_STATE_PREPARING" = "Forbereder…";
+"LIBRARY_STATE_READY" = "Up to date";
+"LIBRARY_STATE_MIGRATING" = "Opdaterér…";
+"LIBRARY_STATE_LOCALONLY" = "Kun stationer og samlinger på denne enhed";
+
+"TV_TAB_ALL_STATIONS" = "Alle stationer";
+"TV_TAB_RECENTS" = "Seneste afspillede";
+"TV_TAB_COLLECTIONS" = "Samlinger";
+
+"TV_NO_LIBRARY_MESSAGE" = "Begynd dit Broadcast bibliotek på dine iPhone, iPad eller Mac og den vil automatisk blive synkroniseret til dit Apple TV.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Spiller nu";
+"WATCH_SOURCE_RECENTS" = "Seneste";
+"WATCH_SOURCE_COLLECTIONS" = "Samlinger";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Synkroniserer…";
+
+"ALERT_IMPORT" = "Importér";
+"IMPORT_TITLE" = "Importér \"%@\"?";
+"IMPORT_BODY" = "Den delte samling indeholder %ld stationer.";
+
+"MOVE_DIALOG_TITLE" = "Flyt \"%@\"";
+"MOVE_DIALOG_BODY" = "Vælg en samling denne station skal flyttes til.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Fejl: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Ikke logget ind";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Ikke tilstrækkeligt plads tilgængeligt";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Gennemse";
+"SIDEBAR_TITLE_DIRECTORY" = "Katalog";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internet radio";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Station uden navn";
+
+"WELCOME_BUTTON_CONTINUE" = "Forsæt";
+"WELCOME_BUTTON_GETSTARTED" = "Begynd at prøve Broadcasts";
+
+"WELCOME_NEWFEATURES_TITLE" = "Nye funktioner";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Moderne udseende";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep timer";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay værktøjslinjekontrol";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Mere diskrete meddelser";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Naturlig opskalering af applikationens udseende";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Understøtter Apple Silicon";
+
+"MENU_CONTROLS" = "Værktøj";
+"MENU_CONTROLS_PLAY" = "Afspil";
+"MENU_CONTROLS_PAUSE" = "Pause";
+"MENU_CONTROLS_NEXT" = "Næste";
+"MENU_CONTROLS_PREVIOUS" = "Forrige";
+
+"SLEEP_TIMER_MENU" = "Sleep timer";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Slået fra";
+"SLEEP_TIMER_MENU_1" = "1 minut";
+"SLEEP_TIMER_MENU_15" = "15 minutter";
+"SLEEP_TIMER_MENU_30" = "30 minutter";
+"SLEEP_TIMER_MENU_60" = "60 minutter";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "navn";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "addresse";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "illustration";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Vælg billede…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Det maksimale antal stationer i den gratise version er nået, for at tilføje flere er det nødvendigt at opgraderer til den betalte version.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Forrige";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Næste";
+
+"ALERT_UPGRADE" = "Opgradér";
+
+"MENU_APPLICATION_UPGRADE" = "Opgradér til den betalte version…";
