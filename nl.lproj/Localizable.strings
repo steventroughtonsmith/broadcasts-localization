@@ -82,16 +82,16 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Geen zenders";
 
-"WELCOME_COPY" = "Welkom bij Broadcasts! Als u wilt, kunnen we enkele voorkeurszenders uit ons thuisland Ierland toevoegen waarmee u uw bibliotheek kunt starten. Of, als dat uw voorkeur heeft, kunt u handmatig uw eigen zenders toevoegen of er één kiezen uit de duizenden zenders in het zenderoverzicht.";
+"WELCOME_COPY" = "Welkom bij Broadcasts! Als u wilt, kunnen we enkele vooraf ingestelde zenders uit ons thuisland Ierland toevoegen waarmee u uw bibliotheek kunt starten. Of, als dat uw voorkeur heeft, kunt u handmatig uw eigen zenders toevoegen of er één kiezen uit de duizenden zenders in het zenderoverzicht.";
 
-"WELCOME_UPSELL" = "Welkom bij Broadcasts! In deze gratis versie kunnen we enkele voorkeurszenders uit ons thuisland Ierland toevoegen waarmee u uw bibliotheek kunt starten. Of, als u liever upgradet naar de betaalde versie, kunt u uw eigen stations handmatig toevoegen of kiezen uit duizenden zenders in het zenderoverzicht.";
+"WELCOME_UPSELL" = "Welkom bij Broadcasts! In deze gratis versie kunnen we enkele vooraf ingestelde zenders uit ons thuisland Ierland toevoegen waarmee u uw bibliotheek kunt starten. Of, als u liever upgradet naar de betaalde versie, kunt u uw eigen stations handmatig toevoegen of kiezen uit duizenden zenders in het zenderoverzicht.";
 
 "WELCOME_ADD_PRESETS" = "Voeg voorkeuren toe";
 "WELCOME_NO_THANKS" = "Nee, bedankt";
 
 "GENERATED_COLLECTION_TITLE" = "Mijn verzameling";
 
-"UPSELL_COPY" = "Bedankt voor het gebruiken van Broadcast!\n\nAls u dit wilt, kunt u de geavanceerde functies van Broadcasts ontgrendelen met een in-app-aankoop.\n\nOf, als u dit wilt, kunt u de vooraf ingestelde zenders blijven gebruiken en bewerken!";
+"UPSELL_COPY" = "Bedankt voor het gebruiken van Broadcasts!\n\nAls u wilt, kunt u de geavanceerde functies van Broadcasts ontgrendelen met een in-app-aankoop.\n\nOf, als u dit wilt, kunt u de vooraf ingestelde zenders blijven gebruiken en bewerken!";
 "UPSELL_BUY" = "Koop (%@)";
 "UPSELL_NOT_AVAILABLE" = "Niet beschikbaar";
 "UPSELL_RESTORE" = "Herstel aankopen";
@@ -144,7 +144,7 @@
 "TV_TAB_RECENTS" = "Onlangs afgespeeld";
 "TV_TAB_COLLECTIONS" = "Verzamelingen";
 
-"TV_NO_LIBRARY_MESSAGE" = "Begin een Broadcasts-bibliotheek op uw iPhone, iPad of Mac en deze zal ook gesynchroniseerd worden naar uw Apple TV.";
+"TV_NO_LIBRARY_MESSAGE" = "Begin een Broadcasts-bibliotheek op uw iPhone, iPad of Mac; deze zal ook gesynchroniseerd worden naar uw Apple TV.";
 
 "WATCH_NOW_PLAYING_TITLE" = "Huidige";
 "WATCH_SOURCE_RECENTS" = "Onlangs afgespeeld";
