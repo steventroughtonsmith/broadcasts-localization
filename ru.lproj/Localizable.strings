@@ -74,10 +74,10 @@
 "STATION_CONTEXT_DELETE_COLLECTION" = "Удалить станцию";
 "STATION_CONTEXT_MOVE" = "Переместить в коллекцию";
 
-"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Удалить \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Удалить «%@»";
 "CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Вы уверены, что хотите удалить эту коллекцию и все станции в ней?";
 
-"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Удалить \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Удалить «%@»";
 "CONTEXT_ALERT_DELETE_STATION_BODY" = "Вы уверены, что хотите удалить эту станцию?";
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Нет станций";
@@ -133,8 +133,8 @@
 "ADD_STATION_CONTEXT_ADD_STATION" = "Добавить вручную";
 "ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Добавить из каталога";
 
-"LIBRARY_STATE_UPLOADING" = "Загружается…";
-"LIBRARY_STATE_DOWNLOADING" = "Скачивается…";
+"LIBRARY_STATE_UPLOADING" = "Загрузка…";
+"LIBRARY_STATE_DOWNLOADING" = "Скачивание…";
 "LIBRARY_STATE_PREPARING" = "Подготовка…";
 "LIBRARY_STATE_READY" = "Обновлено";
 "LIBRARY_STATE_MIGRATING" = "Миграция…";
@@ -153,8 +153,62 @@
 "WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Синхронизация…";
 
 "ALERT_IMPORT" = "Импортировать";
-"IMPORT_TITLE" = "Импортировать \"%@\"?";
+"IMPORT_TITLE" = "Импортировать «%@»?";
 "IMPORT_BODY" = "Эта общая коллекция содержит %ld ст.";
 
-"MOVE_DIALOG_TITLE" = "Переместить \"%@\"";
+"MOVE_DIALOG_TITLE" = "Переместить «%@»";
 "MOVE_DIALOG_BODY" = "Выберите коллекцию, в которую хотите переместить эту станцию.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Ошибка: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Вход не выполнен";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Место заполнено";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Просмотр";
+"SIDEBAR_TITLE_DIRECTORY" = "Каталог";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Интернет-радио";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Новая станция";
+
+"WELCOME_BUTTON_CONTINUE" = "Продолжить";
+"WELCOME_BUTTON_GETSTARTED" = "Начать использование";
+
+"WELCOME_NEWFEATURES_TITLE" = "Что нового";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Современный внешний вид";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Таймер автовыключения";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Управление AirPlay в панели инструментов";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Менее навязчивые оповещения";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Нативное пиксельное масштабирование";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Поддержка Apple Silicon";
+
+"MENU_CONTROLS" = "Управление";
+"MENU_CONTROLS_PLAY" = "Воспроизвести";
+"MENU_CONTROLS_PAUSE" = "Пауза";
+"MENU_CONTROLS_NEXT" = "Следующая станция";
+"MENU_CONTROLS_PREVIOUS" = "Предыдущая станция";
+
+"SLEEP_TIMER_MENU" = "Таймер автовыключения";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Отключен";
+"SLEEP_TIMER_MENU_1" = "1 минута";
+"SLEEP_TIMER_MENU_15" = "15 минут";
+"SLEEP_TIMER_MENU_30" = "30 минут";
+"SLEEP_TIMER_MENU_60" = "60 минут";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "название";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "адрес";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "изображение";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Выбрать изображение…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Достигнуто ограничение по размеру библиотеки в пробной версии. Пожалуйста, перейдите на полную версию, чтобы добавить больше станций.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Предыдущая станция";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Следующая станция";
+
+"ALERT_UPGRADE" = "Перейти";
+
+"MENU_APPLICATION_UPGRADE" = "Перейти на полную версию…";

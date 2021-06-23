@@ -1,0 +1,215 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Localization contributed by Joe Pham on 10/10/2020.
+  Copyright © 2020 High Caffeine Content. All rights reserved.
+*/
+
+"SHORTCUT_PLAY" = "Phát";
+"SHORTCUT_PAUSE" = "Tạm dừng";
+
+"TOOLBAR_NOTHING_PLAYING" = "Đang không phát";
+"TOOLBAR_STREAMING_RADIO" = "Đang stream đài";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Phát/Tạm dừng";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "Phát/Tạm dừng";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Tắt tiếng";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Âm lượng";
+
+"SIDEBAR_TITLE_LIBRARY" = "Thư viện";
+"SIDEBAR_TITLE_STATIONS" = "Danh sách";
+"SIDEBAR_TITLE_RADIO" = "Radio";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Tất cả các đài";
+"SIDEBAR_CATEGORY_RECENTS" = "Các đài gần đây";
+
+"LIST_HEADER_STATION" = "Đài";
+
+"MENU_NEW" = "Mới";
+"MENU_NEW_STATION" = "Đài…";
+"MENU_NEW_GROUP" = "Danh sách…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "Đài mới";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nhóm mới";
+
+"MENU_VIEW_AS_GRID" = "dạng Lưới";
+"MENU_VIEW_AS_LIST" = "dạng Danh sách";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Xem dưới dạng Lưới";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Xem dưới dạng Danh sách";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "Hiện Thanh bên";
+"MENU_VIEW_HIDE_SIDEBAR" = "Ẩn Thanh bên";
+
+"MENU_HELP_GETSUPPORT" = "Nhận hỗ trợ từ Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Hiện Màn hình Chào mừng";
+
+"PLAYBACK_ERROR_STALL" = "Kết nối đến đài đã bị ngắt.";
+
+"SEARCH_PLACEHOLDER" = "Tìm kiếm";
+
+"ALERT_OK" = "OK";
+"ALERT_ADD" = "Thêm";
+"ALERT_CANCEL" = "Huỷ";
+"ALERT_DELETE" = "Xoá";
+
+"ADD_STATION_WINDOW_TITLE" = "Thêm đài mới";
+"EDIT_STATION_WINDOW_TITLE" = "Sửa đổi đài";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Tên";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://đường/dẫn/tới/đài";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Chọn hình";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "Thêm nhóm mới";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Sửa đổi nhóm";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Nhóm của tôi";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Sửa đổi";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Xoá nhóm";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Chia sẻ";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "Sửa đổi";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Xoá đài";
+"STATION_CONTEXT_MOVE" = "Chuyển sang nhóm khác";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Xoá \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Bạn chắc chắn muốn xoá nhóm này và các đài đi kèm chứ?";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "Xoá \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Bạn chắc chắn muốn xoá đài này chứ?";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Không có đài";
+
+"WELCOME_COPY" = "Chào mừng bạn đến với Broadcasts! Nếu bạn thích, trong thư viện đã có sẵn một số đài từ Ireland để bạn có thể bắt đầu nghe.\n\nHoặc không thì bạn có thể thêm thủ công các đài ưa thích, hoặc chọn từ Danh mục hàng ngàn đài có sẵn.";
+
+"WELCOME_UPSELL" = "Chào mừng bạn đến với Broadcasts! Ở bản miễn phí này, trong thư viện đã có sẵn một số đài từ Ireland để bạn có thể bắt đầu nghe.\n\nHoặc một khi bạn nâng cấp lên bản trả phí, bạn có thể thêm thủ công các đài ưa thích hoặc từ Danh mục hàng ngàn đài có sẵn.";
+
+"WELCOME_ADD_PRESETS" = "Thêm thiết đặt";
+"WELCOME_NO_THANKS" = "Thôi cảm ơn";
+
+"GENERATED_COLLECTION_TITLE" = "Danh sách của tôi";
+
+"UPSELL_COPY" = "Cảm ơn bạn đã dùng Broadcasts!\n\nNếu thích, bạn có thể mở khoá thêm các tính năng của Broadcasts với tính năng mua in-app.\n\nHoặc bạn cũng có thể tiếp tục sử dụng và sửa đổi các đài sẵn có!";
+"UPSELL_BUY" = "Mua (%@)";
+"UPSELL_NOT_AVAILABLE" = "Không khả dụng";
+"UPSELL_RESTORE" = "Khôi phục bản trả phí đã mua";
+"UPSELL_NO_THANKS" = "Thôi cảm ơn";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Mhóm mới";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Thêm đài";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Hiện các nhóm";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Bật Thanh bên";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Đổi chế độ xem";
+
+"IMAGE_WELL_REMOVE" = "Xoá";
+"IMAGE_WELL_PASTE" = "Dán";
+"IMAGE_WELL_COPY" = "Sao chép";
+
+"CARPLAY_EMPTY_LIBRARY" = "Không có nhóm";
+"CARPLAY_ALL_STATIONS" = "Tất cả nhóm";
+
+"MAC_ADD_STATION_BUTTON" = "Thêm đài";
+"MAC_EDIT_STATION_BUTTON" = "Sửa đổi đài";
+
+"MAC_ADD_COLLECTION_BUTTON" = "Thêm nhóm";
+"MAC_EDIT_COLLECTION_BUTTON" = "Sửa nhóm";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "Trình chọn đài";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "Quốc gia";
+"STATION_DIRECTORY_STATIONS" = "Đài %@";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "Số đài hiện có: %@";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "Không có kết nối";
+"STATION_DIRECTORY_CONNECTING" = "Đang tải…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Thêm thủ công";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "Xong";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Tìm quốc gia";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Tìm tên đài";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "Thêm thủ công";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Thêm từ Danh mục";
+
+"LIBRARY_STATE_UPLOADING" = "Đang tải lên…";
+"LIBRARY_STATE_DOWNLOADING" = "Đang tải xuống…";
+"LIBRARY_STATE_PREPARING" = "Đang chuẩn bị…";
+"LIBRARY_STATE_READY" = "Đã cập nhật";
+"LIBRARY_STATE_MIGRATING" = "Đang nhập…";
+"LIBRARY_STATE_LOCALONLY" = "Chỉ cục bộ";
+
+"TV_TAB_ALL_STATIONS" = "Tất cả đài";
+"TV_TAB_RECENTS" = "Đã chơi gần đây";
+"TV_TAB_COLLECTIONS" = "Nhóm";
+
+"TV_NO_LIBRARY_MESSAGE" = "Tạo thư viện đài trên iPhone, iPad hay Mac trước để tự động đồng bộ sang Apple TV của bạn.";
+
+"WATCH_NOW_PLAYING_TITLE" = "Đang phát";
+"WATCH_SOURCE_RECENTS" = "Gần đây";
+"WATCH_SOURCE_COLLECTIONS" = "Danh sách";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "Đang đồng bộ…";
+
+"ALERT_IMPORT" = "Nhập";
+"IMPORT_TITLE" = "Nhập \"%@\"?";
+"IMPORT_BODY" = "Danh sách được chia sẻ này có %ld đài.";
+
+"MOVE_DIALOG_TITLE" = "Di chuyển \"%@\"";
+"MOVE_DIALOG_BODY" = "Hãy chọn Danh sách để chuyển Đài này sang.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Lỗi: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Chưa đăng nhập";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Hết dung lượng";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Duyệt";
+"SIDEBAR_TITLE_DIRECTORY" = "Danh mục";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Radio Internet";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Đài chưa đặt tên";
+
+"WELCOME_BUTTON_CONTINUE" = "Tiếp tục";
+"WELCOME_BUTTON_GETSTARTED" = "Bắt đầu";
+
+"WELCOME_NEWFEATURES_TITLE" = "Các tính năng mới";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Giao diện mới, hiện đại";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Hẹn giờ tắt";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Điều khiển phát AirPlay";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Thông báo ít phiền hơn";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Tính năng Native pixel scaling";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Hỗ trợ chip Apple Silicon";
+
+"MENU_CONTROLS" = "Điều khiển";
+"MENU_CONTROLS_PLAY" = "Phát";
+"MENU_CONTROLS_PAUSE" = "Dừng";
+"MENU_CONTROLS_NEXT" = "Tiếp theo";
+"MENU_CONTROLS_PREVIOUS" = "Trước";
+
+"SLEEP_TIMER_MENU" = "Hẹn giờ tắt";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Chưa hẹn";
+"SLEEP_TIMER_MENU_1" = "1 phút";
+"SLEEP_TIMER_MENU_15" = "15 phút";
+"SLEEP_TIMER_MENU_30" = "30 phút";
+"SLEEP_TIMER_MENU_60" = "60 phút";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "tên đài";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "địa chỉ";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "ảnh đại diện";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Chọn hình…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Đã vượt quá số lượng định sẵn cho bản dùng thử. Xin bạn vui lòng nâng cấp lên bản trả phí để thêm được nhiều đài hơn.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Trước";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Tiếp theo";
+
+"ALERT_UPGRADE" = "Nâng cấp";
+
+"MENU_APPLICATION_UPGRADE" = "Nâng cấp lên Bản đầy đủ…";
