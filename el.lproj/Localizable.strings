@@ -158,3 +158,76 @@
 
 "MOVE_DIALOG_TITLE" = "Μεταφορά \"%@\"";
 "MOVE_DIALOG_BODY" = "Επιλέξτε συλλογή για να μεταφέρετε αυτό το σταθμό.";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "Error: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "Not Logged In";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Out of Space";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "Browse";
+"SIDEBAR_TITLE_DIRECTORY" = "Directory";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internet Radio";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "Untitled Station";
+
+"WELCOME_BUTTON_CONTINUE" = "Continue";
+"WELCOME_BUTTON_GETSTARTED" = "Get Started";
+
+"WELCOME_NEWFEATURES_TITLE" = "New Features";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "Modern look & feel";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep Timer";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay toolbar controls";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Less-intrusive alerts";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Native pixel scaling";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Supports Apple Silicon";
+
+"MENU_CONTROLS" = "Controls";
+"MENU_CONTROLS_PLAY" = "Play";
+"MENU_CONTROLS_PAUSE" = "Pause";
+"MENU_CONTROLS_NEXT" = "Next";
+"MENU_CONTROLS_PREVIOUS" = "Previous";
+
+"SLEEP_TIMER_MENU" = "Sleep Timer";
+
+"SLEEP_TIMER_MENU_DISABLED" = "Disabled";
+"SLEEP_TIMER_MENU_1" = "1 Minute";
+"SLEEP_TIMER_MENU_15" = "15 Minutes";
+"SLEEP_TIMER_MENU_30" = "30 Minutes";
+"SLEEP_TIMER_MENU_60" = "60 Minutes";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "name";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "address";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "artwork";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Choose Image…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Trial library limit reached. Please upgrade to add more stations.";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Previous";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Next";
+
+"ALERT_UPGRADE" = "Upgrade";
+
+"MENU_APPLICATION_UPGRADE" = "Upgrade to Full Version…";
+
+/* V2.2 */
+
+"INSPECTOR_NO_STATION" = "No Station Selected";
+
+"INSPECTOR_SECTION_DETAILS" = "Details";
+"INSPECTOR_SECTION_TAGS" = "Tags";
+"INSPECTOR_SECTION_CODEC" = "Codec";
+"INSPECTOR_SECTION_BITRATE" = "Bitrate";
+"INSPECTOR_SECTION_HOMEPAGE" = "Homepage";
+
+"INSPECTOR_ADD_TO_LIBRARY" = "Add to Library";
+"INSPECTOR_ADD_TO_COLLECTION" = "Add to…";
+"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Added";
+"INSPECTOR_SECTION_TAGS_NONE" = "No tags";
+
+"PREVIEW_BUTTON_PREVIEW" = "PREVIEW";
+
+"DIRECTORY_OTHER" = "Other";
