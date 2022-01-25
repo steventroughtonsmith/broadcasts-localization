@@ -70,7 +70,7 @@
 "SIDEBAR_CONTEXT_SHARE_COLLECTION" = "اشتراک گذاری";
 
 "STATION_CONTEXT_EDIT_COLLECTION" = "ویرایش";
-"STATION_CONTEXT_DELETE_COLLECTION" = "حذف ایستگاه";
+"STATION_CONTEXT_DELETE_COLLECTION" = "حذف دسته";
 "STATION_CONTEXT_MOVE" = "انتقال به دسته";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "حذف \"%@\"";
@@ -98,7 +98,7 @@
 
 "TOOLBAR_NEW_CATEGORY_TOOLTIP" = "دسته جدید";
 "TOOLBAR_ADD_STATION_TOOLTIP" = "افزودن ایستگاه";
-"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "نمایش دسته‌ها";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "نمایش منابع";
 "TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "نمایش/مخفی کردن ستون کناری";
 "TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "تغییر وضعیت نمایش";
 
@@ -106,7 +106,7 @@
 "IMAGE_WELL_PASTE" = "چسباندن";
 "IMAGE_WELL_COPY" = "کپی";
 
-"CARPLAY_EMPTY_LIBRARY" = "بدون دسته";
+"CARPLAY_EMPTY_LIBRARY" = "کتابخانه خالی";
 "CARPLAY_ALL_STATIONS" = "همه ایستگاه‌ها";
 
 "MAC_ADD_STATION_BUTTON" = "افزودن ایستگاه";
@@ -180,7 +180,7 @@
 "WELCOME_NEWFEATURES_2_DESIGN" = "طراحی مدرن";
 "WELCOME_NEWFEATURES_2_SLEEPTIMER" = "تایمر خواب";
 "WELCOME_NEWFEATURES_2_AIRPLAY" = "دکمه AirPlay در نوار ابزار";
-"WELCOME_NEWFEATURES_2_ALERTS" = "هشدارهای کمتر ناگهانی";
+"WELCOME_NEWFEATURES_2_ALERTS" = "هشدارهای ناگهانی کمتر";
 "WELCOME_NEWFEATURES_2_NATIVESCALING" = "تغییر اندازه طبیعی پیکسلی";
 "WELCOME_NEWFEATURES_2_APPLESILICON" = "پشتیبانی از سیلیکون اپل";
 
@@ -214,19 +214,19 @@
 
 /* V2.2 */
 
-"INSPECTOR_NO_STATION" = "No Station Selected";
+"INSPECTOR_NO_STATION" = "هیچ ایستگاهی انتخاب نشده است.";
 
-"INSPECTOR_SECTION_DETAILS" = "Details";
-"INSPECTOR_SECTION_TAGS" = "Tags";
-"INSPECTOR_SECTION_CODEC" = "Codec";
-"INSPECTOR_SECTION_BITRATE" = "Bitrate";
-"INSPECTOR_SECTION_HOMEPAGE" = "Homepage";
+"INSPECTOR_SECTION_DETAILS" = "جزئیات";
+"INSPECTOR_SECTION_TAGS" = "برچسب‌ها";
+"INSPECTOR_SECTION_CODEC" = "کُدک";
+"INSPECTOR_SECTION_BITRATE" = "بیت‌ریت";
+"INSPECTOR_SECTION_HOMEPAGE" = "صفحه اول";
 
-"INSPECTOR_ADD_TO_LIBRARY" = "Add to Library";
-"INSPECTOR_ADD_TO_COLLECTION" = "Add to…";
-"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Added";
-"INSPECTOR_SECTION_TAGS_NONE" = "No tags";
+"INSPECTOR_ADD_TO_LIBRARY" = "افزودن به کتابخانه";
+"INSPECTOR_ADD_TO_COLLECTION" = "افزودن به…";
+"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "اضافه شد";
+"INSPECTOR_SECTION_TAGS_NONE" = "بدون برچسب";
 
-"PREVIEW_BUTTON_PREVIEW" = "PREVIEW";
+"PREVIEW_BUTTON_PREVIEW" = "پیش‌نمایش";
 
-"DIRECTORY_OTHER" = "Other";
+"DIRECTORY_OTHER" = "بقیه";
