@@ -2,8 +2,7 @@
   Localizable.strings
   MobileRadio
 
-  Created by João Gabriel Pozzobon dos Santos on 05/08/2020.
-  Updated by Seltun on 12/02/2022.
+  Created by Seltun on 12/02/2022.
 
   Copyright © 2019 High Caffeine Content. All rights reserved.
 */
@@ -12,18 +11,18 @@
 "SHORTCUT_PAUSE" = "Pausar";
 
 "TOOLBAR_NOTHING_PLAYING" = "Nada em reprodução";
-"TOOLBAR_STREAMING_RADIO" = "Escutando Rádio";
+"TOOLBAR_STREAMING_RADIO" = "Ouvindo Rádio";
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Reproduzir/Pausar";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "Reproduzir/Pausar";
-"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Silenciar";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "Alternar Silenciar";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "Volume";
 
 "SIDEBAR_TITLE_LIBRARY" = "Biblioteca";
 "SIDEBAR_TITLE_STATIONS" = "Coleções";
 "SIDEBAR_TITLE_RADIO" = "Rádio";
 
-"SIDEBAR_CATEGORY_ALL_STATIONS" = "Todas as estações";
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "Todas As Estações";
 "SIDEBAR_CATEGORY_RECENTS" = "Recentes";
 
 "LIST_HEADER_STATION" = "Estação";
@@ -32,14 +31,14 @@
 "MENU_NEW_STATION" = "Estação…";
 "MENU_NEW_GROUP" = "Coleção…";
 
-"DISCOVERABILITY_HUD_NEW_STATION" = "Nova estação";
-"DISCOVERABILITY_HUD_NEW_GROUP" = "Nova coleção";
+"DISCOVERABILITY_HUD_NEW_STATION" = "Nova Estação";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "Nova Coleção";
 
 "MENU_VIEW_AS_GRID" = "em Grade";
 "MENU_VIEW_AS_LIST" = "em Lista";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Ver em grade";
-"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Ver em lista";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Ver Em Grade";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Ver Em Lista";
 
 "MENU_VIEW_SHOW_SIDEBAR" = "Mostrar barra lateral";
 "MENU_VIEW_HIDE_SIDEBAR" = "Esconder barra lateral";
@@ -47,7 +46,7 @@
 "MENU_HELP_GETSUPPORT" = "Obter suporte no Twitter…";
 "MENU_HELP_SHOW_WELCOME_SCREEN" = "Mostrar painel de boas-vindas";
 
-"PLAYBACK_ERROR_STALL" = "A conexão com a estação foi perdida.";
+"PLAYBACK_ERROR_STALL" = "Ligação com a estação foi perdida.";
 
 "SEARCH_PLACEHOLDER" = "Pesquisar";
 
@@ -56,97 +55,97 @@
 "ALERT_CANCEL" = "Cancelar";
 "ALERT_DELETE" = "Apagar";
 
-"ADD_STATION_WINDOW_TITLE" = "Adicionar nova estação";
-"EDIT_STATION_WINDOW_TITLE" = "Editar estação";
+"ADD_STATION_WINDOW_TITLE" = "Adicionar Nova Estação";
+"EDIT_STATION_WINDOW_TITLE" = "Editar Estação";
 
 "EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nome";
 "EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://caminho/para/transmissão";
-"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Selecionar imagem";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Selecionar Imagem";
 
-"ADD_COLLECTION_WINDOW_TITLE" = "Adicionar nova coleção";
-"EDIT_COLLECTION_WINDOW_TITLE" = "Editar coleção";
+"ADD_COLLECTION_WINDOW_TITLE" = "Adicionar Nova Coleção";
+"EDIT_COLLECTION_WINDOW_TITLE" = "Editar Coleção";
 
-"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Minha coleção";
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Minha Coleção";
 
 "SIDEBAR_CONTEXT_EDIT_COLLECTION" = "Editar";
-"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Apagar coleção";
-"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Compartilhar";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "Apagar Coleção";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "Partilhar";
 
 "STATION_CONTEXT_EDIT_COLLECTION" = "Editar";
-"STATION_CONTEXT_DELETE_COLLECTION" = "Apagar estação";
+"STATION_CONTEXT_DELETE_COLLECTION" = "Apagar Estação";
 "STATION_CONTEXT_MOVE" = "Mover para Coleção";
 
 "CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "Apagar \"%@\"";
-"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Você tem certeza que quer apagar essa coleção e todas as suas estações?";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "Tem a certeza que quer apagar esta coleção e todas as estações nela?";
 
 "CONTEXT_ALERT_DELETE_STATION_TITLE" = "Apagar \"%@\"";
-"CONTEXT_ALERT_DELETE_STATION_BODY" = "Você tem certeza que quer apagar essa estação?";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "Tem a certeza que quer apagar esta estação?";
 
-"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Sem estações";
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Sem Estações";
 
-"WELCOME_COPY" = "Bem-vindo ao Broadcasts! Se você quiser, temos algumas estações predefinidas para que você comece a sua biblioteca.\n\nOu, se você preferir, pode adicionar as suas próprias estações manualmente ou procurar no diretório.";
+"WELCOME_COPY" = "Bem-vindo a Broadcasts! Se quiser, temos algumas estações predefinidas para que você comece a sua biblioteca.\n\nOu, se preferir, adicionar as suas próprias estações manualmente ou escolher de entre milhares no diretório.";
 
-"WELCOME_UPSELL" = "Bem-vindo ao Broadcasts! Nesta versão gratuita, nós temos algumas estações predefinidas para você começar a sua biblioteca.\n\nOu, se você preferir ir para a versão paga, você poderá adicionar as suas próprias estações manualmente ou procurar no diretório.";
+"WELCOME_UPSELL" = "Bem-vindo a Broadcasts! Nesta versão gratuita, temos algumas estações predefinidas para que você comece a sua biblioteca.\n\nOu, se preferir actualizar para a versão paga, poderá adicionar as suas próprias estações manualmente ou escolher de entre milhares no diretório.";
 
-"WELCOME_ADD_PRESETS" = "Adicionar estações predefinidas";
-"WELCOME_NO_THANKS" = "Não, obrigado";
+"WELCOME_ADD_PRESETS" = "Adicionar Predefinidas";
+"WELCOME_NO_THANKS" = "Não, Obrigado";
 
-"GENERATED_COLLECTION_TITLE" = "Minha coleção";
+"GENERATED_COLLECTION_TITLE" = "Minha Coleção";
 
-"UPSELL_COPY" = "Obrigado por usar o Broadcasts!\n\n Você pode desbloquear as funcionalidades avançadas com uma compra interna, se você quiser.\n\nOu, se você preferir, pode continuar a usar e editar as estações predefinidas!";
+"UPSELL_COPY" = "Obrigado por usar Broadcasts!\n\n Pode desbloquear as funcionalidades avançadas de Broadcasts com uma compra na aplicação, se quiser.\n\nOu, se preferir, pode continuar a usar e editar as estações predefinidas!";
 "UPSELL_BUY" = "Comprar (%@)";
 "UPSELL_NOT_AVAILABLE" = "Indísponivel";
-"UPSELL_RESTORE" = "Restaurar compra";
-"UPSELL_NO_THANKS" = "Não, obrigado";
+"UPSELL_RESTORE" = "Restaurar Compra";
+"UPSELL_NO_THANKS" = "Não, Obrigado";
 
-"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nova coleção";
-"TOOLBAR_ADD_STATION_TOOLTIP" = "Adicionar estação";
-"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Mostrar coleções";
-"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Alternar barra lateral";
-"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Alternar visualização";
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Nova Coleção";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "Adicionar Estação";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Mostrar Coleções";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Alternar Barra Lateral";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "Alternar Visualização";
 
 "IMAGE_WELL_REMOVE" = "Remover";
 "IMAGE_WELL_PASTE" = "Colar";
 "IMAGE_WELL_COPY" = "Copiar";
 
-"CARPLAY_EMPTY_LIBRARY" = "Sem coleções";
-"CARPLAY_ALL_STATIONS" = "Todas as estações";
+"CARPLAY_EMPTY_LIBRARY" = "Sem Coleções";
+"CARPLAY_ALL_STATIONS" = "Todas As Estações";
 
-"MAC_ADD_STATION_BUTTON" = "Adicionar estação";
-"MAC_EDIT_STATION_BUTTON" = "Editar estação";
+"MAC_ADD_STATION_BUTTON" = "Adicionar Estação";
+"MAC_EDIT_STATION_BUTTON" = "Editar Estação";
 
-"MAC_ADD_COLLECTION_BUTTON" = "Adicionar coleção";
-"MAC_EDIT_COLLECTION_BUTTON" = "Editar coleção";
+"MAC_ADD_COLLECTION_BUTTON" = "Adicionar Coleção";
+"MAC_EDIT_COLLECTION_BUTTON" = "Editar Coleção";
 
-"STATION_DIRECTORY_WINDOW_TITLE" = "Procura de estações";
+"STATION_DIRECTORY_WINDOW_TITLE" = "Procura De Estações";
 "STATION_DIRECTORY_COUNTRIES_TITLE" = "Países";
-"STATION_DIRECTORY_STATIONS" = "%@ estação";
-"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ estações";
+"STATION_DIRECTORY_STATIONS" = "%@ Estação";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ Estações";
 
-"STATION_DIRECTORY_NO_CONNECTION" = "Sem conexão";
+"STATION_DIRECTORY_NO_CONNECTION" = "Sem Ligação";
 "STATION_DIRECTORY_CONNECTING" = "Carregando…";
 
-"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Adicionar manualmente";
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "Adicionar Manualmente";
 "STATION_DIRECTORY_TOOLBAR_DONE" = "Feito";
 
-"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Procurar países";
-"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Procurar estações";
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "Procurar Países";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "Procurar Estações";
 
-"ADD_STATION_CONTEXT_ADD_STATION" = "Adicionar manualmente";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Adicionar pelo diretório";
+"ADD_STATION_CONTEXT_ADD_STATION" = "Adicionar Manualmente";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "Adicionar do diretório";
 
 "LIBRARY_STATE_UPLOADING" = "Enviando…";
-"LIBRARY_STATE_DOWNLOADING" = "Baixando…";
+"LIBRARY_STATE_DOWNLOADING" = "Descarregando…";
 "LIBRARY_STATE_PREPARING" = "Preparando…";
 "LIBRARY_STATE_READY" = "Atualizado";
 "LIBRARY_STATE_MIGRATING" = "Migrando…";
-"LIBRARY_STATE_LOCALONLY" = "Apenas local";
+"LIBRARY_STATE_LOCALONLY" = "Apenas Local";
 
-"TV_TAB_ALL_STATIONS" = "Todas as estações";
-"TV_TAB_RECENTS" = "Tocadas recentemente";
+"TV_TAB_ALL_STATIONS" = "Todas As Estações";
+"TV_TAB_RECENTS" = "Tocadas Recentemente";
 "TV_TAB_COLLECTIONS" = "Coleções";
 
-"TV_NO_LIBRARY_MESSAGE" = "Comece a sua biblioteca no seu iPhone, iPad ou Mac e ela sincronizará com a sua Apple TV.";
+"TV_NO_LIBRARY_MESSAGE" = "Comece a sua biblioteca no iPhone, iPad ou Mac e ela sincronizará com a Apple TV.";
 
 "WATCH_NOW_PLAYING_TITLE" = "Reproduzindo";
 "WATCH_SOURCE_RECENTS" = "Recentes";
@@ -156,16 +155,16 @@
 
 "ALERT_IMPORT" = "Importar";
 "IMPORT_TITLE" = "Importar \"%@\"?";
-"IMPORT_BODY" = "Essa coleção compartilhada contém %ld estações.";
+"IMPORT_BODY" = "Essa coleção partilhada contém %ld estações.";
 
 "MOVE_DIALOG_TITLE" = "Mover \"%@\"";
-"MOVE_DIALOG_BODY" = "Escolha uma coleção para mover essa estação.";
+"MOVE_DIALOG_BODY" = "Escolha uma coleção para onde mover esta estação.";
 
 /* Broadcasts v2.0 */
 
 "ERROR_ALERT_TITLE" = "Erro: %@";
 
-"LIBRARY_STATE_UNAUTHENTICATED" = "Não conectado";
+"LIBRARY_STATE_UNAUTHENTICATED" = "Não Autenticado";
 "LIBRARY_STATE_QUOTA_EXCEEDED" = "Sem Espaço";
 
 "SIDEBAR_CATEGORY_DIRECTORY" = "Navegar";
