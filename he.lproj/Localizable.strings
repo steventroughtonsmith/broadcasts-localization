@@ -164,7 +164,7 @@
 "ERROR_ALERT_TITLE" = "שגיאה: %@";
 
 "LIBRARY_STATE_UNAUTHENTICATED" = "לא מחובר";
-"LIBRARY_STATE_QUOTA_EXCEEDED" = "שטח האכסון מלא";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "שטח האחסון מלא";
 
 "SIDEBAR_CATEGORY_DIRECTORY" = "עיון";
 "SIDEBAR_TITLE_DIRECTORY" = "סייר התחנות";
@@ -181,7 +181,7 @@
 "WELCOME_NEWFEATURES_2_DESIGN" = "מראה ותחושה מודרניים";
 "WELCOME_NEWFEATURES_2_SLEEPTIMER" = "שעון עצר לשינה";
 "WELCOME_NEWFEATURES_2_AIRPLAY" = "שליטה על AirPlay";
-"WELCOME_NEWFEATURES_2_ALERTS" = "התראות עדינות";
+"WELCOME_NEWFEATURES_2_ALERTS" = "התראות פחות מפריעות";
 "WELCOME_NEWFEATURES_2_NATIVESCALING" = "תמיכה ברזולוציות מסך גבוהות";
 "WELCOME_NEWFEATURES_2_APPLESILICON" = "תמיכה ב- Apple Silicon";
 
@@ -223,7 +223,7 @@
 "INSPECTOR_SECTION_BITRATE" = "קצב נתונים";
 "INSPECTOR_SECTION_HOMEPAGE" = "דף הבית";
 
-"INSPECTOR_ADD_TO_LIBRARY" = "הוסף לספריה";
+"INSPECTOR_ADD_TO_LIBRARY" = "הוסף לספרייה";
 "INSPECTOR_ADD_TO_COLLECTION" = "הוסף ל...";
 "INSPECTOR_ADD_TO_COLLECTION_ADDED" = "נוסף";
 "INSPECTOR_SECTION_TAGS_NONE" = "ללא תגיות";
