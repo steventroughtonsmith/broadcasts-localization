@@ -43,7 +43,7 @@
 "MENU_VIEW_HIDE_SIDEBAR" = "Скрыть боковое меню";
 
 "MENU_HELP_GETSUPPORT" = "Получить поддержку через Twitter…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "Показать панель приветствия";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Показать приветствие";
 
 "PLAYBACK_ERROR_STALL" = "Подключение к станции потеряно.";
 
@@ -82,16 +82,16 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Нет станций";
 
-"WELCOME_COPY" = "Добро пожаловать в Broadcasts! Если хотите, Вы можете попробовать уже установленные станции из Ирландии, которые помогут Вам начать заполнять библиотеку.\n\nИли же Вы можете вручную добавить свои собственные станции либо выбрать подходящие из тысяч доступных в каталоге.";
+"WELCOME_COPY" = "Добро пожаловать в Broadcasts! Мы добавили несколько станций, которые помогут наполнить библиотеку в приложении.\n\nТакже вы можете вручную добавить собственные станции либо выбрать подходящие из тысяч доступных в каталоге.";
 
-"WELCOME_UPSELL" = "Добро пожаловать в Broadcasts! В бесплатной версии Вы можете попробовать уже установленные станции из Ирландии, которые помогут Вам начать заполнять библиотеку.\n\nЕсли Вы захотите перейти на платную версию, Вы сможете вручную добавить свои собственные станции либо выбрать подходящие из тысяч доступных в каталоге.";
+"WELCOME_UPSELL" = "Добро пожаловать в Broadcasts! В бесплатной версии можно попробовать добавленные станции, которые помогут наполнить библиотеку в приложении.\n\nЕсли вы захотите перейти на платную версию, вы сможете вручную добавить собственные станции либо выбрать подходящие из тысяч доступных в каталоге.";
 
 "WELCOME_ADD_PRESETS" = "Добавить установленные станции";
 "WELCOME_NO_THANKS" = "Нет, спасибо";
 
 "GENERATED_COLLECTION_TITLE" = "Моя коллекция";
 
-"UPSELL_COPY" = "Спасибо за использование Broadcasts!\n\nЕсли хотите, Вы можете разблокировать расширенные возможности Broadcasts с помощью встроенной покупки.\n\nИли, если имеющиеся функции Вас уже устраивают, продолжайте использовать и редактировать уже установленные станции!";
+"UPSELL_COPY" = "Спасибо за использование Broadcasts!\n\nДополнительные функции Broadcasts можно разблокировать с помощью встроенной покупки.\n\nЕсли имеющиеся функции вас устраивают, продолжайте использовать и редактировать уже установленные станции.";
 "UPSELL_BUY" = "Купить (%@)";
 "UPSELL_NOT_AVAILABLE" = "Недоступно";
 "UPSELL_RESTORE" = "Восстановить покупку";
@@ -204,7 +204,7 @@
 "EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "изображение";
 
 "EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Выбрать изображение…";
-"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Достигнуто ограничение по размеру библиотеки в пробной версии. Пожалуйста, перейдите на полную версию, чтобы добавить больше станций.";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "В пробной версии количество станций в библиотеке ограничено. Пожалуйста, перейдите на полную версию, чтобы добавить больше станций.";
 
 "TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Предыдущая станция";
 "TOOLBAR_NEXTBUTTON_TOOLTIP" = "Следующая станция";
@@ -215,19 +215,19 @@
 
 /* V2.2 */
 
-"INSPECTOR_NO_STATION" = "No Station Selected";
+"INSPECTOR_NO_STATION" = "Нет выбранных станций";
 
-"INSPECTOR_SECTION_DETAILS" = "Details";
-"INSPECTOR_SECTION_TAGS" = "Tags";
-"INSPECTOR_SECTION_CODEC" = "Codec";
-"INSPECTOR_SECTION_BITRATE" = "Bitrate";
-"INSPECTOR_SECTION_HOMEPAGE" = "Homepage";
+"INSPECTOR_SECTION_DETAILS" = "Подробнее";
+"INSPECTOR_SECTION_TAGS" = "Теги";
+"INSPECTOR_SECTION_CODEC" = "Кодек";
+"INSPECTOR_SECTION_BITRATE" = "Битрейт";
+"INSPECTOR_SECTION_HOMEPAGE" = "Главная страница";
 
-"INSPECTOR_ADD_TO_LIBRARY" = "Add to Library";
-"INSPECTOR_ADD_TO_COLLECTION" = "Add to…";
-"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Added";
-"INSPECTOR_SECTION_TAGS_NONE" = "No tags";
+"INSPECTOR_ADD_TO_LIBRARY" = "Добавить в библиотеку";
+"INSPECTOR_ADD_TO_COLLECTION" = "Добавить в…";
+"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Добавлено";
+"INSPECTOR_SECTION_TAGS_NONE" = "Теги отсутствуют";
 
-"PREVIEW_BUTTON_PREVIEW" = "PREVIEW";
+"PREVIEW_BUTTON_PREVIEW" = "ПРЕДПРОСМОТР";
 
-"DIRECTORY_OTHER" = "Other";
+"DIRECTORY_OTHER" = "Другое";
