@@ -17,7 +17,7 @@
 "TOOLBAR_MUTEBUTTON_TOOLTIP" = "השתק/בטל השתקה";
 "TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "עוצמת שמע";
 
-"SIDEBAR_TITLE_LIBRARY" = "ספריה";
+"SIDEBAR_TITLE_LIBRARY" = "ספרייה";
 "SIDEBAR_TITLE_STATIONS" = "אוספים";
 "SIDEBAR_TITLE_RADIO" = "רדיו";
 
@@ -82,9 +82,9 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "אין תחנות";
 
-"WELCOME_COPY" = "ברוכים הבאים ל־Broadcasts! אם תרצו, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספריה שלכם בתור התחלה.\n\nאו, אם תעדיפו, הוסיפו תחנות משלכם באופן ידני או בחרו מתןך אלפי תחנות במדריך.";
+"WELCOME_COPY" = "ברוכים הבאים ל־Broadcasts! אם תרצו, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו, הוסיפו תחנות משלכם באופן ידני או בחרו מתןך אלפי תחנות במדריך.";
 
-"WELCOME_UPSELL" = "ברוכים הבאים ל־Broadcasts! בגרסה החינמית הזאת, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספריה שלכם בתור התחלה.\n\nאו, אם תעדיפו לשדרג לגרסה בתשלום, תוכלו להוסיף תחנות משלכם באופן ידני או לבחור מתוך אלפי תחנות במדריך.";
+"WELCOME_UPSELL" = "ברוכים הבאים ל־Broadcasts! בגרסה החינמית הזאת, יש לנו כמה תחנות מוגדרות מראש מאירלנד שנוכל להוסיף לספרייה שלכם בתור התחלה.\n\nאו, אם תעדיפו לשדרג לגרסה בתשלום, תוכלו להוסיף תחנות משלכם באופן ידני או לבחור מתוך אלפי תחנות במדריך.";
 
 "WELCOME_ADD_PRESETS" = "הוסף תחנות מוגדרות מראש";
 "WELCOME_NO_THANKS" = "לא תודה";
@@ -211,7 +211,7 @@
 
 "ALERT_UPGRADE" = "שדרג";
 
-"MENU_APPLICATION_UPGRADE" = "שדרג לגירסא המלאה...";
+"MENU_APPLICATION_UPGRADE" = "שדרג לגרסה המלאה...";
 
 /* V2.2 */
 
@@ -223,7 +223,7 @@
 "INSPECTOR_SECTION_BITRATE" = "קצב נתונים";
 "INSPECTOR_SECTION_HOMEPAGE" = "דף הבית";
 
-"INSPECTOR_ADD_TO_LIBRARY" = "הוסף לספריה";
+"INSPECTOR_ADD_TO_LIBRARY" = "הוסף לספרייה";
 "INSPECTOR_ADD_TO_COLLECTION" = "הוסף ל...";
 "INSPECTOR_ADD_TO_COLLECTION_ADDED" = "נוסף";
 "INSPECTOR_SECTION_TAGS_NONE" = "ללא תגיות";
