@@ -81,9 +81,9 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Aucune station";
 
-"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous pouvons charger des stations prédéfinies dans votre bibliothèque.\n\nOu, si vous préférez, ajoutez vos propres stations manuellement ou en choisissant parmi des milliers dans le catalogue.";
+"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous pouvons ajouter des stations prédéfinies dans votre bibliothèque.\n\nOu, si vous préférez, ajoutez-les manuellement ou en choisissant parmi des milliers dans le catalogue.";
 
-"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations prédéfinies avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez ajouter vos propres stations manuellement ou en choisissant parmi des milliers dans le catalogue.";
+"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations prédéfinies avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez les ajouter manuellement ou en choisissant parmi des milliers dans le catalogue.";
 
 "WELCOME_ADD_PRESETS" = "Ajouter les stations prédéfinies";
 "WELCOME_NO_THANKS" = "Non merci";
@@ -178,7 +178,7 @@
 "WELCOME_NEWFEATURES_TITLE" = "Nouvelles fonctionnalités";
 
 "WELCOME_NEWFEATURES_2_DESIGN" = "Apparence moderne";
-"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Minuterie de sommeil";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Minuterie de veille";
 "WELCOME_NEWFEATURES_2_AIRPLAY" = "Contrôles AirPlay dans la barre d’outils";
 "WELCOME_NEWFEATURES_2_ALERTS" = "Alertes moins intrusives";
 "WELCOME_NEWFEATURES_2_NATIVESCALING" = "Pixels à l’échelle native";
