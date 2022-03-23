@@ -8,8 +8,8 @@
 "SHORTCUT_PLAY" = "Lecture";
 "SHORTCUT_PAUSE" = "Pause";
 
-"TOOLBAR_NOTHING_PLAYING" = "Rien en lecture";
-"TOOLBAR_STREAMING_RADIO" = "Diffusion radio";
+"TOOLBAR_NOTHING_PLAYING" = "Aucune lecture";
+"TOOLBAR_STREAMING_RADIO" = "Lecture en cours";
 
 "TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "Lecture/pause";
 "TOOLBAR_PLAYBUTTON_TOOLTIP" = "Lecture/pause";
@@ -35,14 +35,14 @@
 "MENU_VIEW_AS_GRID" = "en grille";
 "MENU_VIEW_AS_LIST" = "en liste";
 
-"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Voir en grille";
-"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Voir en liste";
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "Affichage grille";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "Affichage liste";
 
 "MENU_VIEW_SHOW_SIDEBAR" = "Afficher la barre latérale";
 "MENU_VIEW_HIDE_SIDEBAR" = "Masquer la barre latérale";
 
 "MENU_HELP_GETSUPPORT" = "Obtenir de l’aide sur Twitter…";
-"MENU_HELP_SHOW_WELCOME_SCREEN" = "Afficher le panneau de bienvenue";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "Afficher le panneau d'accueil";
 
 "PLAYBACK_ERROR_STALL" = "La connexion à la station a été perdue.";
 
@@ -57,7 +57,7 @@
 "EDIT_STATION_WINDOW_TITLE" = "Modifier la station";
 
 "EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "Nom";
-"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://chemin/vers/le/flux";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "https://chemin/vers/le/flux";
 "EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Sélectionner une image";
 
 "ADD_COLLECTION_WINDOW_TITLE" = "Ajouter une nouvelle collection";
@@ -81,16 +81,16 @@
 
 "COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "Aucune station";
 
-"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous avons quelques stations préréglées de chez nous avec lesquelles nous pouvons commencer votre bibliothèque.\n\nOu, si vous préférez, ajoutez vos propres stations manuellement ou choisissez-en parmi des milliers dans le catalogue.";
+"WELCOME_COPY" = "Bienvenue sur Broadcasts ! Si vous le souhaitez, nous pouvons ajouter des stations prédéfinies dans votre bibliothèque.\n\nOu, si vous préférez, ajoutez-les manuellement ou en choisissant parmi des milliers dans le catalogue.";
 
-"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations préréglées de notre maison avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez ajouter vos propres stations manuellement ou en choisir parmi des milliers dans le catalogue.";
+"WELCOME_UPSELL" = "Bienvenue sur Broadcasts ! Dans cette version gratuite, nous avons quelques stations prédéfinies avec lesquelles nous pouvons démarrer votre bibliothèque.\n\nOu, si vous préférez passer à la version payante, vous pouvez les ajouter manuellement ou en choisissant parmi des milliers dans le catalogue.";
 
-"WELCOME_ADD_PRESETS" = "Ajouter les préréglages";
+"WELCOME_ADD_PRESETS" = "Ajouter les stations prédéfinies";
 "WELCOME_NO_THANKS" = "Non merci";
 
 "GENERATED_COLLECTION_TITLE" = "Ma collection";
 
-"UPSELL_COPY" = "Merci d’utiliser Broadcasts ! Vous pouvez débloquer les fonctionnalités avancées de Broadcasts avec un achat intégré, si vous le souhaitez.\n\nOu, si vous préférez, continuez à utiliser et à modifier les stations préréglées !";
+"UPSELL_COPY" = "Merci d’utiliser Broadcasts ! Vous pouvez débloquer les fonctionnalités avancées de Broadcasts avec un achat intégré, si vous le souhaitez.\n\nOu, si vous préférez, continuez à utiliser et à modifier les stations prédéfinies !";
 "UPSELL_BUY" = "Acheter (%@)";
 "UPSELL_NOT_AVAILABLE" = "Non disponible";
 "UPSELL_RESTORE" = "Restaurer l’achat";
@@ -140,7 +140,7 @@
 "LIBRARY_STATE_LOCALONLY" = "Local uniquement";
 
 "TV_TAB_ALL_STATIONS" = "Toutes les stations";
-"TV_TAB_RECENTS" = "Récemment diffusés";
+"TV_TAB_RECENTS" = "Récemment diffusées";
 "TV_TAB_COLLECTIONS" = "Collections";
 
 "TV_NO_LIBRARY_MESSAGE" = "Commencez votre bibliothèque Broadcasts sur iPhone, iPad ou Mac et elle se synchronisera avec votre Apple TV.";
@@ -163,7 +163,7 @@
 "ERROR_ALERT_TITLE" = "Erreur : %@";
 
 "LIBRARY_STATE_UNAUTHENTICATED" = "Non connecté";
-"LIBRARY_STATE_QUOTA_EXCEEDED" = "À court d’espace";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Stockage insuffisant";
 
 "SIDEBAR_CATEGORY_DIRECTORY" = "Explorer";
 "SIDEBAR_TITLE_DIRECTORY" = "Répertoire";
@@ -178,7 +178,7 @@
 "WELCOME_NEWFEATURES_TITLE" = "Nouvelles fonctionnalités";
 
 "WELCOME_NEWFEATURES_2_DESIGN" = "Apparence moderne";
-"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Minuterie de sommeil";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Minuterie de veille";
 "WELCOME_NEWFEATURES_2_AIRPLAY" = "Contrôles AirPlay dans la barre d’outils";
 "WELCOME_NEWFEATURES_2_ALERTS" = "Alertes moins intrusives";
 "WELCOME_NEWFEATURES_2_NATIVESCALING" = "Pixels à l’échelle native";
@@ -190,7 +190,7 @@
 "MENU_CONTROLS_NEXT" = "Suivant";
 "MENU_CONTROLS_PREVIOUS" = "Précédent";
 
-"SLEEP_TIMER_MENU" = "Minuterie de sommeil";
+"SLEEP_TIMER_MENU" = "Minuterie de veille";
 
 "SLEEP_TIMER_MENU_DISABLED" = "Désactivé";
 "SLEEP_TIMER_MENU_1" = "1 minute";
