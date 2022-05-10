@@ -61,7 +61,7 @@
 "EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://aseman/osoite";
 "EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "Valitse kuva";
 
-"ADD_COLLECTION_WINDOW_TITLE" = "Lisää uusi kokoelma";
+"ADD_COLLECTION_WINDOW_TITLE" = "Luo uusi kokoelma";
 "EDIT_COLLECTION_WINDOW_TITLE" = "Muokkaa kokoelmaa";
 
 "EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "Kokoelmani";
@@ -97,7 +97,7 @@
 "UPSELL_RESTORE" = "Palauta ostos";
 "UPSELL_NO_THANKS" = "Ei kiitos";
 
-"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Lisää kokoelma";
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "Luo kokoelma";
 "TOOLBAR_ADD_STATION_TOOLTIP" = "Lisää asema";
 "TOOLBAR_SHOW_SOURCES_TOOLTIP" = "Näytä kokoelmat";
 "TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "Kytke sivupalkki";
@@ -113,7 +113,7 @@
 "MAC_ADD_STATION_BUTTON" = "Lisää asema";
 "MAC_EDIT_STATION_BUTTON" = "Muokkaa asemaa";
 
-"MAC_ADD_COLLECTION_BUTTON" = "Lisää kokoelma";
+"MAC_ADD_COLLECTION_BUTTON" = "Luo kokoelma";
 "MAC_EDIT_COLLECTION_BUTTON" = "Muokkaa kokoelmaa";
 
 "STATION_DIRECTORY_WINDOW_TITLE" = "Asemahakemisto";
@@ -161,73 +161,73 @@
 
 /* Broadcasts v2.0 */
 
-"ERROR_ALERT_TITLE" = "Error: %@";
+"ERROR_ALERT_TITLE" = "Virhe: %@";
 
-"LIBRARY_STATE_UNAUTHENTICATED" = "Not Logged In";
-"LIBRARY_STATE_QUOTA_EXCEEDED" = "Out of Space";
+"LIBRARY_STATE_UNAUTHENTICATED" = "Ei kirjautuneena sisään";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Ei riittävästi tilaa";
 
-"SIDEBAR_CATEGORY_DIRECTORY" = "Browse";
-"SIDEBAR_TITLE_DIRECTORY" = "Directory";
+"SIDEBAR_CATEGORY_DIRECTORY" = "Selaa";
+"SIDEBAR_TITLE_DIRECTORY" = "Hakemisto";
 
-"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internet Radio";
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internet-radio";
 
-"STATION_METADATA_NAME_PLACEHOLDER" = "Untitled Station";
+"STATION_METADATA_NAME_PLACEHOLDER" = "Nimetön asema";
 
-"WELCOME_BUTTON_CONTINUE" = "Continue";
-"WELCOME_BUTTON_GETSTARTED" = "Get Started";
+"WELCOME_BUTTON_CONTINUE" = "Jatka";
+"WELCOME_BUTTON_GETSTARTED" = "Aloita";
 
-"WELCOME_NEWFEATURES_TITLE" = "New Features";
+"WELCOME_NEWFEATURES_TITLE" = "Uudet ominaisuudet";
 
-"WELCOME_NEWFEATURES_2_DESIGN" = "Modern look & feel";
-"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep Timer";
-"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay toolbar controls";
-"WELCOME_NEWFEATURES_2_ALERTS" = "Less-intrusive alerts";
-"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Native pixel scaling";
-"WELCOME_NEWFEATURES_2_APPLESILICON" = "Supports Apple Silicon";
+"WELCOME_NEWFEATURES_2_DESIGN" = "Modernin näköinen ja tuntuinen";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Uniajastin";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay-ohjaimet";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Vähemmän häiritsevät ilmoitukset";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Natiivi pikseliskaalaus";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Tuki Apple sirulle";
 
-"MENU_CONTROLS" = "Controls";
-"MENU_CONTROLS_PLAY" = "Play";
-"MENU_CONTROLS_PAUSE" = "Pause";
-"MENU_CONTROLS_NEXT" = "Next";
-"MENU_CONTROLS_PREVIOUS" = "Previous";
+"MENU_CONTROLS" = "Ohjaimet";
+"MENU_CONTROLS_PLAY" = "Toista";
+"MENU_CONTROLS_PAUSE" = "Pysäytä";
+"MENU_CONTROLS_NEXT" = "Seuraava";
+"MENU_CONTROLS_PREVIOUS" = "Edellinen";
 
-"SLEEP_TIMER_MENU" = "Sleep Timer";
+"SLEEP_TIMER_MENU" = "Uniajastin";
 
-"SLEEP_TIMER_MENU_DISABLED" = "Disabled";
-"SLEEP_TIMER_MENU_1" = "1 Minute";
-"SLEEP_TIMER_MENU_15" = "15 Minutes";
-"SLEEP_TIMER_MENU_30" = "30 Minutes";
-"SLEEP_TIMER_MENU_60" = "60 Minutes";
+"SLEEP_TIMER_MENU_DISABLED" = "Pois päältä";
+"SLEEP_TIMER_MENU_1" = "1 minuutti";
+"SLEEP_TIMER_MENU_15" = "15 minuuttia";
+"SLEEP_TIMER_MENU_30" = "30 minuuttia";
+"SLEEP_TIMER_MENU_60" = "60 minuuttia";
 
-"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "name";
-"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "address";
-"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "artwork";
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "nimi";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "osoite";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "kansikuva";
 
-"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Choose Image…";
-"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Trial library limit reached. Please upgrade to add more stations.";
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Valitse kuva…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Ilmaisen kokeilun sisältämä kirjasto on täyttynyt. Saat lisää asemia ostamalla sovelluksen täyden version.";
 
-"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Previous";
-"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Next";
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Edellinen";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Seuraava";
 
-"ALERT_UPGRADE" = "Upgrade";
+"ALERT_UPGRADE" = "Osta täysi versio";
 
-"MENU_APPLICATION_UPGRADE" = "Upgrade to Full Version…";
+"MENU_APPLICATION_UPGRADE" = "Osta sovelluksen täysi versio…";
 
 /* V2.2 */
 
-"INSPECTOR_NO_STATION" = "No Station Selected";
+"INSPECTOR_NO_STATION" = "Ei valittua asemaa";
 
-"INSPECTOR_SECTION_DETAILS" = "Details";
-"INSPECTOR_SECTION_TAGS" = "Tags";
-"INSPECTOR_SECTION_CODEC" = "Codec";
-"INSPECTOR_SECTION_BITRATE" = "Bitrate";
-"INSPECTOR_SECTION_HOMEPAGE" = "Homepage";
+"INSPECTOR_SECTION_DETAILS" = "Yksityiskohdat";
+"INSPECTOR_SECTION_TAGS" = "Tagit";
+"INSPECTOR_SECTION_CODEC" = "Koodekki";
+"INSPECTOR_SECTION_BITRATE" = "Bittinopeus";
+"INSPECTOR_SECTION_HOMEPAGE" = "Etusivu";
 
-"INSPECTOR_ADD_TO_LIBRARY" = "Add to Library";
-"INSPECTOR_ADD_TO_COLLECTION" = "Add to…";
-"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Added";
-"INSPECTOR_SECTION_TAGS_NONE" = "No tags";
+"INSPECTOR_ADD_TO_LIBRARY" = "Lisää kirjastoon";
+"INSPECTOR_ADD_TO_COLLECTION" = "Lisää…";
+"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Lisätty";
+"INSPECTOR_SECTION_TAGS_NONE" = "Ei tageja";
 
-"PREVIEW_BUTTON_PREVIEW" = "PREVIEW";
+"PREVIEW_BUTTON_PREVIEW" = "ESIKATSELU";
 
-"DIRECTORY_OTHER" = "Other";
+"DIRECTORY_OTHER" = "Muu";
