@@ -1,0 +1,234 @@
+/* 
+  Localizable.strings
+  MobileRadio
+
+  Created by Steven Troughton-Smith on 01/11/2019.
+
+  Thai language translation by watchakorn-18k
+*/
+
+"SHORTCUT_PLAY" = "เล่น";
+"SHORTCUT_PAUSE" = "พัก";
+
+"TOOLBAR_NOTHING_PLAYING" = "ไม่มีอะไรเล่นอยู่";
+"TOOLBAR_STREAMING_RADIO" = "วิทยุสตรีมมิ่ง";
+
+"TOOLBAR_PLAYBUTTON_ACCESSIBILITY_LABEL" = "เล่น/พัก";
+"TOOLBAR_PLAYBUTTON_TOOLTIP" = "เล่น/พัก";
+"TOOLBAR_MUTEBUTTON_TOOLTIP" = "สลับปิดเสียง";
+"TOOLBAR_VOLUMESLIDER_ACCESSIBILITY_LABEL" = "ระดับเสียง";
+
+"SIDEBAR_TITLE_LIBRARY" = "ห้องสมุด";
+"SIDEBAR_TITLE_STATIONS" = "สถานี";
+"SIDEBAR_TITLE_RADIO" = "วิทยุ";
+
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "สถานีทั้งหมด";
+"SIDEBAR_CATEGORY_RECENTS" = "ล่าสุด";
+
+"LIST_HEADER_STATION" = "สถานี";
+
+"MENU_NEW" = "ใหม่";
+"MENU_NEW_STATION" = "สถานี…";
+"MENU_NEW_GROUP" = "กลุ่ม…";
+
+"DISCOVERABILITY_HUD_NEW_STATION" = "สถานีใหม่";
+"DISCOVERABILITY_HUD_NEW_GROUP" = "สร้างกลุ่มใหม่";
+
+"MENU_VIEW_AS_GRID" = "เป็นแบบตาราง";
+"MENU_VIEW_AS_LIST" = "เป็นแบบรายการ";
+
+"DISCOVERABILITY_HUD_VIEW_AS_GRID" = "ดูแบบเป็นตาราง";
+"DISCOVERABILITY_HUD_VIEW_AS_LIST" = "ดูแบบเป็นรายการ";
+
+"MENU_VIEW_SHOW_SIDEBAR" = "แสดงแถบด้านข้าง";
+"MENU_VIEW_HIDE_SIDEBAR" = "ซ่อนแถบด้านข้าง";
+
+"MENU_HELP_GETSUPPORT" = "รับช่วยเหลือได้ที่ Twitter…";
+"MENU_HELP_SHOW_WELCOME_SCREEN" = "แสดงแผงต้อนรับ";
+
+"PLAYBACK_ERROR_STALL" = "ขาดการเชื่อมต่อกับสถานี";
+
+"SEARCH_PLACEHOLDER" = "ค้นหา";
+
+"ALERT_OK" = "ตกลง";
+"ALERT_ADD" = "เพิ่ม";
+"ALERT_CANCEL" = "ยกเลิก";
+"ALERT_DELETE" = "ลบ";
+
+"ADD_STATION_WINDOW_TITLE" = "เพิ่มสถานีใหม่";
+"EDIT_STATION_WINDOW_TITLE" = "แก้ไขสถานีใหม่";
+
+"EDIT_STATION_WINDOW_NAME_PLACEHOLDER" = "ชื่อ";
+"EDIT_STATION_WINDOW_URL_PLACEHOLDER" = "http://path/to/stream";
+"EDIT_STATION_WINDOW_IMAGE_ACCESSIBILITY_LABEL" = "เลือกรูปภาพ";
+
+"ADD_COLLECTION_WINDOW_TITLE" = "เพิ่มคอลเลกชั่นใหม่";
+"EDIT_COLLECTION_WINDOW_TITLE" = "แก้ไขคอลเลกชั่น";
+
+"EDIT_COLLECTION_WINDOW_NAME_PLACEHOLDER" = "คอลเลกชั่นของฉัน";
+
+"SIDEBAR_CONTEXT_EDIT_COLLECTION" = "แก้ไข";
+"SIDEBAR_CONTEXT_DELETE_COLLECTION" = "ลบคอลเลกชัน";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION" = "แชร์";
+
+"STATION_CONTEXT_EDIT_COLLECTION" = "แก้ไข";
+"STATION_CONTEXT_DELETE_COLLECTION" = "ลบสถานี";
+"STATION_CONTEXT_MOVE" = "ย้ายไปยังคอลเลกชัน";
+
+"CONTEXT_ALERT_DELETE_COLLECTION_TITLE" = "ลบ \"%@\"";
+"CONTEXT_ALERT_DELETE_COLLECTION_BODY" = "คุณแน่ใจหรือไม่ว่าต้องการลบคอลเลกชันนี้และสถานีทั้งหมดที่อยู่ในคอลเลกชันนี้";
+
+"CONTEXT_ALERT_DELETE_STATION_TITLE" = "ลบ \"%@\"";
+"CONTEXT_ALERT_DELETE_STATION_BODY" = "คุณแน่ใจใช่หรือไม่ว่าต้องการลบสถานีนี้";
+
+"COLLECTION_VIEW_EMPTY_SECTION_TITLE" = "ไม่มีสถานี";
+
+"WELCOME_COPY" = "ยินดีต้อนรับสู่ Broadcasts! หากคุณต้องการ เรามีสถานีที่ตั้งไว้ล่วงหน้าจากเราแล้ว ซึ่งเราสามารถให้คุณเริ่มใช้ห้องสมุดของคุณได้\n\nหรือหากต้องการ เพิ่มสถานีของคุณเองด้วยตนเอง หรือจะเลือกจากหลายพันสถานีในไดเรกทอรี";
+
+"WELCOME_UPSELL" = "ยินดีต้อนรับสู่ Broadcasts! ในเวอร์ชันฟรีนี้ เรามีสถานีที่ตั้งไว้ล่วงหน้าจากเราแล้ว ซึ่งเราสามารถให้คุณเริ่มใช้ห้องสมุดของคุณได้\n\nหรือหากคุณต้องการอัปเกรดเป็นเวอร์ชันที่ต้องชำระเงิน คุณสามารถเพิ่มสถานีของคุณเองได้ด้วยตนเอง หรือเลือกจากหลายพันสถานีในไดเรกทอรี";
+
+"WELCOME_ADD_PRESETS" = "เพิ่มสิ่งที่ตั้งไว้ล่วงหน้า";
+"WELCOME_NO_THANKS" = "ไม่ขอบคุณ";
+
+"GENERATED_COLLECTION_TITLE" = "คอลเลกชันของฉัน";
+
+"UPSELL_COPY" = "ขอบคุณที่ใช้ Broadcasts!\n\nคุณสามารถปลดล็อกคุณสมบัติขั้นสูงของ Broadcasts ด้วยการซื้อในแอปได้หากต้องการ\n\nหรือหากต้องการ ใช้งานและแก้ไขสถานีที่ตั้งไว้ล่วงหน้าได้หากต้องการ!";
+"UPSELL_BUY" = "ซื้อ (%@)";
+"UPSELL_NOT_AVAILABLE" = "ไม่ว่าง";
+"UPSELL_RESTORE" = "เรียกเงินคืน";
+"UPSELL_NO_THANKS" = "ไม่ขอบคุณ";
+
+"TOOLBAR_NEW_CATEGORY_TOOLTIP" = "คอลเลกชันใหม้";
+"TOOLBAR_ADD_STATION_TOOLTIP" = "เพิ่มสถานี";
+"TOOLBAR_SHOW_SOURCES_TOOLTIP" = "แสดงคอลเลกชัน";
+"TOOLBAR_TOGGLE_SIDEBAR_TOOLTIP" = "สลับแถบด้านข้าง";
+"TOOLBAR_TOGGLE_VIEW_TOOLTIP" = "สลับมุมมอง";
+
+"IMAGE_WELL_REMOVE" = "ลบ";
+"IMAGE_WELL_PASTE" = "วาง";
+"IMAGE_WELL_COPY" = "คัดลอก";
+
+"CARPLAY_EMPTY_LIBRARY" = "ไม่มีคอลเลกชัน";
+"CARPLAY_ALL_STATIONS" = "ทุกสถานี";
+
+"MAC_ADD_STATION_BUTTON" = "เพิ่มสถานี";
+"MAC_EDIT_STATION_BUTTON" = "แก้ไขสถานี";
+
+"MAC_ADD_COLLECTION_BUTTON" = "เพิ่มคอลเลกชั่น";
+"MAC_EDIT_COLLECTION_BUTTON" = "แก้ไขคอลเลกชั่น";
+
+"STATION_DIRECTORY_WINDOW_TITLE" = "เบราว์เซอร์สถานี";
+"STATION_DIRECTORY_COUNTRIES_TITLE" = "ประเทศ";
+"STATION_DIRECTORY_STATIONS" = "%@ สถานี";
+"STATION_DIRECTORY_STATIONS_PLURAL" = "%@ สถานี";
+
+"STATION_DIRECTORY_NO_CONNECTION" = "ไม่มีการเชื่อมต่อ";
+"STATION_DIRECTORY_CONNECTING" = "กำลังโหลด…";
+
+"STATION_DIRECTORY_TOOLBAR_ADD_MANUALLY" = "เพิ่มด้วยตนเอง";
+"STATION_DIRECTORY_TOOLBAR_DONE" = "เสร็จสิ้น";
+
+"STATION_DIRECTORY_COUNTRIES_SEARCH_PLACEHOLDER" = "ค้นหาประเทศ";
+"STATION_DIRECTORY_STATIONS_SEARCH_PLACEHOLDER" = "ค้นหาสถานี";
+
+"ADD_STATION_CONTEXT_ADD_STATION" = "เพิ่มด้วยตนเอง";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY" = "เพิ่มจากไดเรกทอรี";
+
+"LIBRARY_STATE_UPLOADING" = "กำลังอัพโหลด…";
+"LIBRARY_STATE_DOWNLOADING" = "กำลังดาวน์โหลด…";
+"LIBRARY_STATE_PREPARING" = "กำลังเตรียมพร้อม…";
+"LIBRARY_STATE_READY" = "ปัจจุบัน";
+"LIBRARY_STATE_MIGRATING" = "กำลังย้าย…";
+"LIBRARY_STATE_LOCALONLY" = "เฉพาะในพื้นที่";
+
+"TV_TAB_ALL_STATIONS" = "ทุกสถานี";
+"TV_TAB_RECENTS" = "เล่นล่าสุด";
+"TV_TAB_COLLECTIONS" = "คอลเลกชั่น";
+
+"TV_NO_LIBRARY_MESSAGE" = "เริ่มไลบรารี Broadcasts ของคุณบน iPhone, iPad หรือ Mac แล้วห้องสมุดจะซิงค์กับ Apple TV";
+
+"WATCH_NOW_PLAYING_TITLE" = "กำลังเล่น";
+"WATCH_SOURCE_RECENTS" = "ล่าสุด";
+"WATCH_SOURCE_COLLECTIONS" = "คอลเลกชั่น";
+
+"WATCH_LIBRARY_SYNC_IN_PROGRESS" = "กำลังซิงค์…";
+
+"ALERT_IMPORT" = "นำเข้า";
+"IMPORT_TITLE" = "นำเข้า \"%@\"หรือเปล่า";
+"IMPORT_BODY" = "คอลเลกชั่นที่แบ่งปันนี้มีสถานี %ld";
+
+"MOVE_DIALOG_TITLE" = "ย้าย \"%@\"";
+"MOVE_DIALOG_BODY" = "เลือกคอลเลกชันที่จะย้ายสถานีนี้ไป";
+
+/* Broadcasts v2.0 */
+
+"ERROR_ALERT_TITLE" = "ข้อผิดพลาด: %@";
+
+"LIBRARY_STATE_UNAUTHENTICATED" = "ไม่ได้เข้าสู่ระบบ";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "นอกพื้นที่";
+
+"SIDEBAR_CATEGORY_DIRECTORY" = "เรียกดู";
+"SIDEBAR_TITLE_DIRECTORY" = "ไดเรกทอรี";
+
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "วิทยุอินเทอร์เน็ต";
+
+"STATION_METADATA_NAME_PLACEHOLDER" = "สถานีไม่มีชื่อ";
+
+"WELCOME_BUTTON_CONTINUE" = "ดำเนินการต่อ";
+"WELCOME_BUTTON_GETSTARTED" = "เริ่มต้น";
+
+"WELCOME_NEWFEATURES_TITLE" = "คุณสมบัติใหม่";
+
+"WELCOME_NEWFEATURES_2_DESIGN" = "รูปลักษณ์ที่ทันสมัย";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "จับเวลานอน";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "การควบคุมแถบเครื่องมือ AirPlay";
+"WELCOME_NEWFEATURES_2_ALERTS" = "การแจ้งเตือนที่รบกวนน้อยลง";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "พื้นฐานปรับขนาดพิกเซลดั้งเดิม";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "รองรับ Apple Silicon";
+
+"MENU_CONTROLS" = "การควบคุม";
+"MENU_CONTROLS_PLAY" = "เล่น";
+"MENU_CONTROLS_PAUSE" = "พัก";
+"MENU_CONTROLS_NEXT" = "ถัดไป";
+"MENU_CONTROLS_PREVIOUS" = "ก่อนหน้า";
+
+"SLEEP_TIMER_MENU" = "ตัวจับเวลานอน";
+
+"SLEEP_TIMER_MENU_DISABLED" = "ปิดใช้งาน";
+"SLEEP_TIMER_MENU_1" = "1 นาที";
+"SLEEP_TIMER_MENU_15" = "15 นาที";
+"SLEEP_TIMER_MENU_30" = "30 นาที";
+"SLEEP_TIMER_MENU_60" = "60 นาที";
+
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "ชื่อ";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "ที่อยู่";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "รูปภาพ";
+
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "เลือกรูป…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "ถึงขีดจำกัดของไลบรารีทดลองแล้ว โปรดอัปเกรดเพื่อเพิ่มสถานีเพิ่มเติม";
+
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "ก่อนหน้า";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "ถัดไป";
+
+"ALERT_UPGRADE" = "อัปเกรด";
+
+"MENU_APPLICATION_UPGRADE" = "อัปเกรดเวอร์ชั่นเต็ม…";
+
+/* V2.2 */
+
+"INSPECTOR_NO_STATION" = "ไม่ได้เลือกสถานี";
+
+"INSPECTOR_SECTION_DETAILS" = "รายละเอียด";
+"INSPECTOR_SECTION_TAGS" = "แท็ก";
+"INSPECTOR_SECTION_CODEC" = "แปลงสัญญาณ";
+"INSPECTOR_SECTION_BITRATE" = "บิตเรต";
+"INSPECTOR_SECTION_HOMEPAGE" = "หน้าโฮมเพจ";
+
+"INSPECTOR_ADD_TO_LIBRARY" = "เพิ่มในห้องสมุด";
+"INSPECTOR_ADD_TO_COLLECTION" = "เพิ่มไปยัง…";
+"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "เพิ่มแล้ว";
+"INSPECTOR_SECTION_TAGS_NONE" = "ไม่มีแท็ก";
+
+"PREVIEW_BUTTON_PREVIEW" = "ดูตัวอย่าง";
+
+"DIRECTORY_OTHER" = "อื่นๆ";
