@@ -235,145 +235,145 @@
 /* V3.0 */
 
 /* Preferences */
-"PREFERENCES_TITLE" = "Settings";
+"PREFERENCES_TITLE" = "Inställningar";
 
-"MENU_PREFERENCES" = "Preferences…";
-"MENU_PREFERENCES_VENTURA" = "Settings…";
+"MENU_PREFERENCES" = "Inställningar…";
+"MENU_PREFERENCES_VENTURA" = "Inställningar…";
 
-"PREFERENCES_GENERAL_TITLE" = "General";
+"PREFERENCES_GENERAL_TITLE" = "Allmänt";
 
-"PREFERENCES_GENERAL_VIEW_HEADER" = "View";
-"PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "List item size";
-"PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "List item size:";
+"PREFERENCES_GENERAL_VIEW_HEADER" = "Vy";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "Storlek på listobjekt";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "Storlek på listobjekt:";
 
-"PREFERENCES_GENERAL_LIST_SIZE_REGULAR" = "Regular";
-"PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "Large";
-"PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "Extra Large";
+"PREFERENCES_GENERAL_LIST_SIZE_REGULAR" = "Standard";
+"PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "Stor";
+"PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "Extra stor";
 
-"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Zoom artwork on hover";
-"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Allow artwork tinting";
+"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Zooma omslag vid hovring";
+"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Tillåt toning av omslag";
 
 "PREFERENCES_SYNC_TITLE" = "Sync";
 
 "PREFERENCES_SYNC_ICLOUD" = "iCloud";
-"PREFERENCES_SYNC_STATUS_SYNCED_NOW" = "Updated a moment ago";
-"PREFERENCES_SYNC_STATUS_SYNCING" = "Syncing…";
-"PREFERENCES_SYNC_STATUS_SYNCED_NEVER" = "Not synced with iCloud";
-"PREFERENCES_SYNC_OPEN_SETTINGS" = "Open iCloud Settings";
-"PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "Last updated: %@";
+"PREFERENCES_SYNC_STATUS_SYNCED_NOW" = "Uppdaterades nyss";
+"PREFERENCES_SYNC_STATUS_SYNCING" = "Synkar…";
+"PREFERENCES_SYNC_STATUS_SYNCED_NEVER" = "Inte synkat med iCloud";
+"PREFERENCES_SYNC_OPEN_SETTINGS" = "Öppna iCloud-inställningar";
+"PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "Senast uppdaterat: %@";
 
-"PREFERENCES_SYNC_SYNC_NOW" = "Sync Now";
-"PREFERENCES_SYNC_ADVANCED" = "Advanced";
-"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Upload…";
-"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Download…";
+"PREFERENCES_SYNC_SYNC_NOW" = "Synka nu";
+"PREFERENCES_SYNC_ADVANCED" = "Avancerat";
+"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Ladda upp…";
+"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Ladda ner…";
 
-"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Help & Support";
-"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Email Support";
-"PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Tweet @GetBroadcasts";
+"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Hjälp & support";
+"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "E-posta support";
+"PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Twittra @GetBroadcasts";
 
-"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Our Apps";
-"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "See More in App Store";
+"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Våra appar";
+"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "Se mer på App Store";
 
 "PREFERENCES_GENERAL_PASTEL_LINK" = "Pastel"; /* Do not localize */
 
-"PREFERENCES_GENERAL_ADVANCED" = "Advanced";
-"PREFERENCES_GENERAL_NETWORK_HEADER" = "Network";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Directory timeout";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Directory timeout:";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 seconds";
+"PREFERENCES_GENERAL_ADVANCED" = "Avancerat";
+"PREFERENCES_GENERAL_NETWORK_HEADER" = "Nätverk";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Katalog-timeout";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Katalog-timeout:";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 sekunder";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 sekunder";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 sekunder";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 sekunder";
 
-"PREFERENCES_GENERAL_HARDWARE_HEADER" = "Devices";
-"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Enable Game Controller";
-"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Show Now Playing on External Displays";
+"PREFERENCES_GENERAL_HARDWARE_HEADER" = "Enheter";
+"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Aktivera spelkontroll";
+"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Visa nu spelas på extern skärm";
 
 /* Mini Player */
-"MENU_MINIPLAYER" = "Show MiniPlayer";
+"MENU_MINIPLAYER" = "Visa MiniPlayer";
 "MINI_PLAYER_TITLE" = "MiniPlayer";
-"MENU_MINIPLAYER_FLOAT" = "Float on Top";
+"MENU_MINIPLAYER_FLOAT" = "Visa alltid överst";
 
 /* Help & Support */
-"MENU_HELP_GETSUPPORT_EMAIL" = "Contact Support…";
+"MENU_HELP_GETSUPPORT_EMAIL" = "Kontakta support…";
 
-"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "Share…";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "Dela…";
 
 /* Search */
-"SEARCH_SEARCH_PLACEHOLDER" = "Search";
-"SEARCH_BROWSER" = "All Stations";
-"SEARCH_YOUR_LIBRARY" = "Your Library";
+"SEARCH_SEARCH_PLACEHOLDER" = "Sök";
+"SEARCH_BROWSER" = "Alla stationer";
+"SEARCH_YOUR_LIBRARY" = "Ditt bibliotek";
 
-"SEARCH_MENU_CACHE" = "Cache All Stations";
-"SEARCH_MENU_SEARCH_TAGS" = "Search Tags";
+"SEARCH_MENU_CACHE" = "Cacha alla stations";
+"SEARCH_MENU_SEARCH_TAGS" = "Sök taggar";
 
 /* Misc */
-"COLLECTIONS_LIST_CLEAR_RECENTS" = "Clear Recents";
-"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Preview";
+"COLLECTIONS_LIST_CLEAR_RECENTS" = "Rensa senaste";
+"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Förhandsvisa";
 
 "MENU_VISUALIZER" = "Visualizer";
-"FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "Dismiss Now Playing screen";
+"FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "Stäng fönstret nu spelas";
 
-"COLLECTIONS_SEARCH_PLACEHOLDER" = "Find in Collections";
-"STATIONS_SEARCH_PLACEHOLDER" = "Find in %@";
+"COLLECTIONS_SEARCH_PLACEHOLDER" = "Sök i samlingar";
+"STATIONS_SEARCH_PLACEHOLDER" = "Sök i %@";
 
-"EDIT_COLLECTION_BUTTON_SHORT" = "Edit";
-"ADD_COLLECTION_BUTTON_SHORT" = "Add";
+"EDIT_COLLECTION_BUTTON_SHORT" = "Redigera";
+"ADD_COLLECTION_BUTTON_SHORT" = "Lägg till";
 
-"EDIT_STATION_BUTTON_SHORT" = "Edit";
-"ADD_STATION_BUTTON_SHORT" = "Add";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY_BROWSE" = "Browse";
+"EDIT_STATION_BUTTON_SHORT" = "Redigera";
+"ADD_STATION_BUTTON_SHORT" = "Lägg till";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY_BROWSE" = "Bläddra";
 
 /* Shazam */
 
 "PREFERENCES_GENERAL_SHAZAM_HEADER" = "Shazam";
 "PREFERENCES_GENERAL_SHAZAM_HEADER_BETA" = "Shazam (Beta)";
-"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Enable Shazam";
-"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam uses your microphone to provide metadata for music playing through the speakers or nearby.";
+"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Aktivera Shazam";
+"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam använder din mikrofon för att presentera metadata för musik som spelas från högtalarna eller i närheten.";
 
-"VIEW_ON_APPLE_MUSIC" = "View on Apple Music";
-"NOWPLAYING_SHAZAM" = "Find with Shazam";
-"SHAZAM_VIEW_HISTORY" = "History";
-"SHAZAM_HISTORY_TITLE" = "History";
-"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Find in History";
+"VIEW_ON_APPLE_MUSIC" = "Visa i Apple Music";
+"NOWPLAYING_SHAZAM" = "Sök med Shazam";
+"SHAZAM_VIEW_HISTORY" = "Historik";
+"SHAZAM_HISTORY_TITLE" = "Historik";
+"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Sök i historik";
 
 /* Artwork Picker */
 "ARTWORK_EDITOR_HEADER_TEXT" = "Text";
-"ARTWORK_EDITOR_HEADER_STYLE" = "Style";
+"ARTWORK_EDITOR_HEADER_STYLE" = "Stil";
 
-"ARTWORK_PICKER_PICK_PHOTO" = "Photos";
-"ARTWORK_PICKER_PICK_FILE" = "File";
+"ARTWORK_PICKER_PICK_PHOTO" = "Bilder";
+"ARTWORK_PICKER_PICK_FILE" = "Fil";
 "ARTWORK_PICKER_PICK_TEXT" = "Text";
-"ARTWORK_PICKER_PICK_PRESET" = "Preset";
+"ARTWORK_PICKER_PICK_PRESET" = "Förval";
 
-"ARTWORK_PICKER_STYLE_PASTEL" = "Pastel";
-"ARTWORK_PICKER_STYLE_VIBRANT" = "Vibrant";
+"ARTWORK_PICKER_STYLE_PASTEL" = "Pastell";
+"ARTWORK_PICKER_STYLE_VIBRANT" = "Livfull";
 
 "ARTWORK_EDITOR_TITLE_TEXT" = "Text";
-"ARTWORK_EDITOR_TITLE_PRESET" = "Preset";
-"ARTWORK_EDITOR_TITLE_BACK" = "Back";
-"ARTWORK_EDITOR_TITLE_DONE" = "Choose";
+"ARTWORK_EDITOR_TITLE_PRESET" = "Förval";
+"ARTWORK_EDITOR_TITLE_BACK" = "Tillbaka";
+"ARTWORK_EDITOR_TITLE_DONE" = "Välj";
 
-"ARTWORK_PICKER_HEADING_MORE" = "More";
+"ARTWORK_PICKER_HEADING_MORE" = "Mer";
 
-"ARTWORK_PICKER_BUTTONS_DONE" = "Done";
-"ARTWORK_PICKER_BUTTONS_CANCEL" = "Cancel";
-"ARTWORK_PICKER_TITLE" = "Choose Artwork";
+"ARTWORK_PICKER_BUTTONS_DONE" = "Klart";
+"ARTWORK_PICKER_BUTTONS_CANCEL" = "Avbryt";
+"ARTWORK_PICKER_TITLE" = "Välj omslag";
 
 /* Playback Resume */
 
-"PREFERENCES_GENERAL_PLAYBACK_HEADER" = "Playback";
-"PREFERENCES_GENERAL_RESUME_PLAYBACK" = "Resume playback at launch";
-"PREFERENCES_GENERAL_RESUME_NEVER" = "Off";
-"PREFERENCES_GENERAL_RESUME_CARPLAY" = "When using CarPlay";
-"PREFERENCES_GENERAL_RESUME_ALWAYS" = "Always";
+"PREFERENCES_GENERAL_PLAYBACK_HEADER" = "Uppspelning";
+"PREFERENCES_GENERAL_RESUME_PLAYBACK" = "Återuppta uppspelning vid start";
+"PREFERENCES_GENERAL_RESUME_NEVER" = "Av";
+"PREFERENCES_GENERAL_RESUME_CARPLAY" = "Vid användning av CarPlay";
+"PREFERENCES_GENERAL_RESUME_ALWAYS" = "Alltid";
 
 /* Credits */
 
-"PREFERENCES_GENERAL_ACKNOWLEDGEMENTS" = "Acknowledgements";
+"PREFERENCES_GENERAL_ACKNOWLEDGEMENTS" = "Erkännanden";
 
 /* IAP */
 
-"UPSELL_V3_TITLE" = "Thanks for using Broadcasts!";
-"UPSELL_V3_COPY" = "Your Broadcasts Library can store up to five stations for free. You can remove this limit with an in-app purchase, if you'd like.\n\nOr, if you prefer, delete some stations or collections to make space.";
-"UPSELL_V3_FAMILY" = "This purchase supports Family Sharing";
+"UPSELL_V3_TITLE" = "Tack för att du använder Broadcasts!";
+"UPSELL_V3_COPY" = "Ditt bibliotek i Broadcasts kan spara upp till fem stationer gratis. Du kan ta bort den här begränsningen med ett köp inuti appen, om du vill.\n\nEller, om du föredrar, radera några stationer eller samlingar för att få mer utrymme.";
+"UPSELL_V3_FAMILY" = "Det här köpet stödjer familjedelning";
