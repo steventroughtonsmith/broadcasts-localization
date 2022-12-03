@@ -234,145 +234,145 @@
 /* V3.0 */
 
 /* Preferences */
-"PREFERENCES_TITLE" = "Settings";
+"PREFERENCES_TITLE" = "تنظیمات";
 
-"MENU_PREFERENCES" = "Preferences…";
-"MENU_PREFERENCES_VENTURA" = "Settings…";
+"MENU_PREFERENCES" = "تنظیمات…";
+"MENU_PREFERENCES_VENTURA" = "تنظیمات…";
 
-"PREFERENCES_GENERAL_TITLE" = "General";
+"PREFERENCES_GENERAL_TITLE" = "عمومی";
 
-"PREFERENCES_GENERAL_VIEW_HEADER" = "View";
-"PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "List item size";
-"PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "List item size:";
+"PREFERENCES_GENERAL_VIEW_HEADER" = "نمایش";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "اندازه موارد در لیست";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "اندازه موارد در لیست";
 
-"PREFERENCES_GENERAL_LIST_SIZE_REGULAR" = "Regular";
-"PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "Large";
-"PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "Extra Large";
+"PREFERENCES_GENERAL_LIST_SIZE_REGULAR" = "معمولی";
+"PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "بزرگ";
+"PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "خیلی بزرگ";
 
-"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Zoom artwork on hover";
-"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Allow artwork tinting";
+"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "بزرگ‌نمایی تصویر کانال با موس";
+"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "امکان تغییر رنگ تصویر کانال";
 
-"PREFERENCES_SYNC_TITLE" = "Sync";
+"PREFERENCES_SYNC_TITLE" = "همگام‌سازی";
 
 "PREFERENCES_SYNC_ICLOUD" = "iCloud";
-"PREFERENCES_SYNC_STATUS_SYNCED_NOW" = "Updated a moment ago";
-"PREFERENCES_SYNC_STATUS_SYNCING" = "Syncing…";
-"PREFERENCES_SYNC_STATUS_SYNCED_NEVER" = "Not synced with iCloud";
-"PREFERENCES_SYNC_OPEN_SETTINGS" = "Open iCloud Settings";
-"PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "Last updated: %@";
+"PREFERENCES_SYNC_STATUS_SYNCED_NOW" = "لحظاتی پیش به روز شد";
+"PREFERENCES_SYNC_STATUS_SYNCING" = "در حال همگام‌سازی…";
+"PREFERENCES_SYNC_STATUS_SYNCED_NEVER" = "هرگز با iCloud همگام‌سازی نشده است";
+"PREFERENCES_SYNC_OPEN_SETTINGS" = "باز کردن تنظیمات iCloud";
+"PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "آخرین به روز رسانی: %@";
 
-"PREFERENCES_SYNC_SYNC_NOW" = "Sync Now";
-"PREFERENCES_SYNC_ADVANCED" = "Advanced";
-"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Upload…";
-"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Download…";
+"PREFERENCES_SYNC_SYNC_NOW" = "الآن به روز رسانی کن";
+"PREFERENCES_SYNC_ADVANCED" = "پیشرفته";
+"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "آپلود…";
+"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "دانلود…";
 
-"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Help & Support";
-"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Email Support";
-"PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Tweet @GetBroadcasts";
+"PREFERENCES_GENERAL_SUPPORT_HEADER" = "کمک و پشتیبانی";
+"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "پشتیبانی ایمیلی";
+"PREFERENCES_GENERAL_SUPPORT_TWITTER" = "توییت به @GetBroadcasts";
 
-"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Our Apps";
-"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "See More in App Store";
+"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "اپ‌های ما";
+"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "دیدن موارد بیشتر در اپ استور";
 
 "PREFERENCES_GENERAL_PASTEL_LINK" = "Pastel"; /* Do not localize */
 
-"PREFERENCES_GENERAL_ADVANCED" = "Advanced";
-"PREFERENCES_GENERAL_NETWORK_HEADER" = "Network";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Directory timeout";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Directory timeout:";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 seconds";
+"PREFERENCES_GENERAL_ADVANCED" = "پیشرفته";
+"PREFERENCES_GENERAL_NETWORK_HEADER" = "شبکه";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "وقفه زمانی دریافت";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "وقفه زمانی دریافت:";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "۱۵ ثانیه";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "۳۰ ثانیه";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "۶۰ ثانیه";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "۱۲۰ ثانیه";
 
-"PREFERENCES_GENERAL_HARDWARE_HEADER" = "Devices";
-"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Enable Game Controller";
-"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Show Now Playing on External Displays";
+"PREFERENCES_GENERAL_HARDWARE_HEADER" = "دستگاه‌ها";
+"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "فعال‌سازی دسته بازی";
+"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "نمایش مورد در حال پخش در صفحه نمایش خارجی";
 
 /* Mini Player */
-"MENU_MINIPLAYER" = "Show MiniPlayer";
-"MINI_PLAYER_TITLE" = "MiniPlayer";
-"MENU_MINIPLAYER_FLOAT" = "Float on Top";
+"MENU_MINIPLAYER" = "نمایش پخش کننده کوچک";
+"MINI_PLAYER_TITLE" = "پخش کننده کوچک";
+"MENU_MINIPLAYER_FLOAT" = "پنجره شناور روی بقیه";
 
 /* Help & Support */
-"MENU_HELP_GETSUPPORT_EMAIL" = "Contact Support…";
+"MENU_HELP_GETSUPPORT_EMAIL" = "تماس با پشتیبانی…";
 
-"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "Share…";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "به اشتراک گذاری…";
 
 /* Search */
-"SEARCH_SEARCH_PLACEHOLDER" = "Search";
-"SEARCH_BROWSER" = "All Stations";
-"SEARCH_YOUR_LIBRARY" = "Your Library";
+"SEARCH_SEARCH_PLACEHOLDER" = "جستجو";
+"SEARCH_BROWSER" = "همه ایستگاه‌ها";
+"SEARCH_YOUR_LIBRARY" = "کتابخانه شما";
 
-"SEARCH_MENU_CACHE" = "Cache All Stations";
-"SEARCH_MENU_SEARCH_TAGS" = "Search Tags";
+"SEARCH_MENU_CACHE" = "ذخیره موقت همه ایستگاه‌ها";
+"SEARCH_MENU_SEARCH_TAGS" = "جستجوی برچسب‌ها";
 
 /* Misc */
-"COLLECTIONS_LIST_CLEAR_RECENTS" = "Clear Recents";
-"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Preview";
+"COLLECTIONS_LIST_CLEAR_RECENTS" = "حذف موارد اخیر";
+"PREVIEW_BUTTON_PREVIEW_NORMAL" = "پیش‌نمایش";
 
-"MENU_VISUALIZER" = "Visualizer";
-"FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "Dismiss Now Playing screen";
+"MENU_VISUALIZER" = "تصویرگر";
+"FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "بستن صفحه در حال پخش";
 
-"COLLECTIONS_SEARCH_PLACEHOLDER" = "Find in Collections";
-"STATIONS_SEARCH_PLACEHOLDER" = "Find in %@";
+"COLLECTIONS_SEARCH_PLACEHOLDER" = "جستجو در دسته‌ها";
+"STATIONS_SEARCH_PLACEHOLDER" = "جستجو در %@";
 
-"EDIT_COLLECTION_BUTTON_SHORT" = "Edit";
-"ADD_COLLECTION_BUTTON_SHORT" = "Add";
+"EDIT_COLLECTION_BUTTON_SHORT" = "ویرایش";
+"ADD_COLLECTION_BUTTON_SHORT" = "افزودن";
 
-"EDIT_STATION_BUTTON_SHORT" = "Edit";
-"ADD_STATION_BUTTON_SHORT" = "Add";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY_BROWSE" = "Browse";
+"EDIT_STATION_BUTTON_SHORT" = "ویرایش";
+"ADD_STATION_BUTTON_SHORT" = "افزودن";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY_BROWSE" = "مرور";
 
 /* Shazam */
 
 "PREFERENCES_GENERAL_SHAZAM_HEADER" = "Shazam";
 "PREFERENCES_GENERAL_SHAZAM_HEADER_BETA" = "Shazam (Beta)";
-"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Enable Shazam";
-"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam uses your microphone to provide metadata for music playing through the speakers or nearby.";
+"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "فعال‌سازی Shazam";
+"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "سرویس Shazam از میکروفون دستگاه شما استفاده می‌کند تا اطلاعات موسیقی در حال پخش از بلندگو یا پیرامون شما را پیدا کند.";
 
-"VIEW_ON_APPLE_MUSIC" = "View on Apple Music";
-"NOWPLAYING_SHAZAM" = "Find with Shazam";
-"SHAZAM_VIEW_HISTORY" = "History";
-"SHAZAM_HISTORY_TITLE" = "History";
-"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Find in History";
+"VIEW_ON_APPLE_MUSIC" = "دیدن در Apple Music";
+"NOWPLAYING_SHAZAM" = "یافتن در Shazam";
+"SHAZAM_VIEW_HISTORY" = "سابقه";
+"SHAZAM_HISTORY_TITLE" = "سابقه";
+"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "جستجو در سابقه";
 
 /* Artwork Picker */
-"ARTWORK_EDITOR_HEADER_TEXT" = "Text";
-"ARTWORK_EDITOR_HEADER_STYLE" = "Style";
+"ARTWORK_EDITOR_HEADER_TEXT" = "متن";
+"ARTWORK_EDITOR_HEADER_STYLE" = "سبک";
 
-"ARTWORK_PICKER_PICK_PHOTO" = "Photos";
-"ARTWORK_PICKER_PICK_FILE" = "File";
-"ARTWORK_PICKER_PICK_TEXT" = "Text";
-"ARTWORK_PICKER_PICK_PRESET" = "Preset";
+"ARTWORK_PICKER_PICK_PHOTO" = "عکس";
+"ARTWORK_PICKER_PICK_FILE" = "فایل";
+"ARTWORK_PICKER_PICK_TEXT" = "متن";
+"ARTWORK_PICKER_PICK_PRESET" = "طرح آماده";
 
-"ARTWORK_PICKER_STYLE_PASTEL" = "Pastel";
-"ARTWORK_PICKER_STYLE_VIBRANT" = "Vibrant";
+"ARTWORK_PICKER_STYLE_PASTEL" = "پاستل";
+"ARTWORK_PICKER_STYLE_VIBRANT" = "جذاب";
 
-"ARTWORK_EDITOR_TITLE_TEXT" = "Text";
-"ARTWORK_EDITOR_TITLE_PRESET" = "Preset";
-"ARTWORK_EDITOR_TITLE_BACK" = "Back";
-"ARTWORK_EDITOR_TITLE_DONE" = "Choose";
+"ARTWORK_EDITOR_TITLE_TEXT" = "متن";
+"ARTWORK_EDITOR_TITLE_PRESET" = "طرح آماده";
+"ARTWORK_EDITOR_TITLE_BACK" = "بازگشت";
+"ARTWORK_EDITOR_TITLE_DONE" = "انتخاب";
 
-"ARTWORK_PICKER_HEADING_MORE" = "More";
+"ARTWORK_PICKER_HEADING_MORE" = "بیشتر";
 
-"ARTWORK_PICKER_BUTTONS_DONE" = "Done";
-"ARTWORK_PICKER_BUTTONS_CANCEL" = "Cancel";
-"ARTWORK_PICKER_TITLE" = "Choose Artwork";
+"ARTWORK_PICKER_BUTTONS_DONE" = "تمام";
+"ARTWORK_PICKER_BUTTONS_CANCEL" = "انصراف";
+"ARTWORK_PICKER_TITLE" = "انتخاب طرح";
 
 /* Playback Resume */
 
-"PREFERENCES_GENERAL_PLAYBACK_HEADER" = "Playback";
-"PREFERENCES_GENERAL_RESUME_PLAYBACK" = "Resume playback at launch";
-"PREFERENCES_GENERAL_RESUME_NEVER" = "Off";
-"PREFERENCES_GENERAL_RESUME_CARPLAY" = "When using CarPlay";
-"PREFERENCES_GENERAL_RESUME_ALWAYS" = "Always";
+"PREFERENCES_GENERAL_PLAYBACK_HEADER" = "پخش";
+"PREFERENCES_GENERAL_RESUME_PLAYBACK" = "ادامه پخش پس از باز شدن اپ";
+"PREFERENCES_GENERAL_RESUME_NEVER" = "هرگز";
+"PREFERENCES_GENERAL_RESUME_CARPLAY" = "در هنگام استفاده از CarPlay";
+"PREFERENCES_GENERAL_RESUME_ALWAYS" = "همیشه";
 
 /* Credits */
 
-"PREFERENCES_GENERAL_ACKNOWLEDGEMENTS" = "Acknowledgements";
+"PREFERENCES_GENERAL_ACKNOWLEDGEMENTS" = "سپاسگزاری";
 
 /* IAP */
 
-"UPSELL_V3_TITLE" = "Thanks for using Broadcasts!";
-"UPSELL_V3_COPY" = "Your Broadcasts Library can store up to five stations for free. You can remove this limit with an in-app purchase, if you'd like.\n\nOr, if you prefer, delete some stations or collections to make space.";
-"UPSELL_V3_FAMILY" = "This purchase supports Family Sharing";
+"UPSELL_V3_TITLE" = "ممنون از که Broadcasts استفاده می‌کنید!";
+"UPSELL_V3_COPY" = "کتابخانه شما در Broadcasts می‌تواند به صورت رایگان تا پنج ایستگاه را ذخیره کند. اگر دوست دارید، می‌توانید این محدودیت را با یک پرداخت درون برنامه‌ای حذف کنید.\n\nیا می‌توانید چند ایستگاه یا دسته را پاک کنید تا فضا باز شود.";
+"UPSELL_V3_FAMILY" = "می‌توانید این خرید را با خانواده به اشتراک بگذارید.";
