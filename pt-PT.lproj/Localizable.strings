@@ -378,3 +378,8 @@
 "UPSELL_V3_TITLE" = "Thanks for using Broadcasts!";
 "UPSELL_V3_COPY" = "Your Broadcasts Library can store up to five stations for free. You can remove this limit with an in-app purchase, if you'd like.\n\nOr, if you prefer, delete some stations or collections to make space.";
 "UPSELL_V3_FAMILY" = "This purchase supports Family Sharing";
+
+/* Volume Menu */
+
+"CONTROLS_VOLUME_UP" = "Aumentar volume";
+"CONTROLS_VOLUME_DOWN" = "Diminuir volume";

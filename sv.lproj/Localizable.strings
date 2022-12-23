@@ -377,3 +377,8 @@
 "UPSELL_V3_TITLE" = "Tack för att du använder Broadcasts!";
 "UPSELL_V3_COPY" = "Ditt bibliotek i Broadcasts kan spara upp till fem stationer gratis. Du kan ta bort den här begränsningen med ett köp inuti appen, om du vill.\n\nEller, om du föredrar, radera några stationer eller samlingar för att få mer utrymme.";
 "UPSELL_V3_FAMILY" = "Det här köpet stödjer familjedelning";
+
+/* Volume Menu */
+
+"CONTROLS_VOLUME_UP" = "Öka volymen";
+"CONTROLS_VOLUME_DOWN" = "Minska volymen";

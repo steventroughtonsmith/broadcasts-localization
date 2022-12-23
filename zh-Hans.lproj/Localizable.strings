@@ -377,3 +377,8 @@
 "UPSELL_V3_TITLE" = "感谢使用Broadcasts！";
 "UPSELL_V3_COPY" = "你的Broadcasts电台库可以免费存储最多5个电台。如果你喜欢的话，可以通过应用内购买来解除这个限制。\n\n或者，你也可以删除一些电台或合集来腾出空间。";
 "UPSELL_V3_FAMILY" = "此项购买支持家人共享。";
+
+/* Volume Menu */
+
+"CONTROLS_VOLUME_UP" = "提高音量";
+"CONTROLS_VOLUME_DOWN" = "降低音量";
