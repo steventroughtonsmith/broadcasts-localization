@@ -382,3 +382,24 @@
 
 "CONTROLS_VOLUME_UP" = "Hangerő növelése";
 "CONTROLS_VOLUME_DOWN" = "Hangerő csökkentése";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Nincsenek állomások";
+"ONBOARDING_NO_STATIONS_COPY" = "Adja hozzá kedvenc állomásait az Állomásböngészőből, vagy kezdje a mintaállomásokkal.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Mintaállomások hozzáadása";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

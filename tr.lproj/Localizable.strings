@@ -382,3 +382,24 @@
 
 "CONTROLS_VOLUME_UP" = "Ses Yüksekliğini Artır";
 "CONTROLS_VOLUME_DOWN" = "Ses Yüksekliğini Azalt";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Hiç Kanal Yok";
+"ONBOARDING_NO_STATIONS_COPY" = "Kanal Tarayıcısından tercih ettiğiniz kanalları ekleyin veya örnek kanallarla başlayın.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Örnek kanalları ekle";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

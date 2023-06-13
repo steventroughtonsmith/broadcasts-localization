@@ -383,3 +383,24 @@
 
 "CONTROLS_VOLUME_UP" = "Lautstärke erhöhen";
 "CONTROLS_VOLUME_DOWN" = "Lautstärke verringern";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Keine Sender";
+"ONBOARDING_NO_STATIONS_COPY" = "Fügen Sie Ihre bevorzugten Sender aus dem Sender-Browser hinzu oder beginnen Sie mit den Beispiel-Sendern.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Beispiel-Sender hinzufügen";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

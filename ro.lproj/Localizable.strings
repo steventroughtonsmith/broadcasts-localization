@@ -382,3 +382,24 @@
 
 "CONTROLS_VOLUME_UP" = "Increase Volume";
 "CONTROLS_VOLUME_DOWN" = "Decrease Volume";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Nicio stație";
+"ONBOARDING_NO_STATIONS_COPY" = "Adăugați stațiile preferate din Browser-ul de stații sau începeți cu stațiile de probă.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Adăugați stații de probă";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

@@ -383,3 +383,24 @@
 
 "CONTROLS_VOLUME_UP" = "Tăng âm lượng";
 "CONTROLS_VOLUME_DOWN" = "Giảm âm lượng";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Không có đài phát thanh nào";
+"ONBOARDING_NO_STATIONS_COPY" = "Thêm các đài phát thanh yêu thích của bạn từ Trình duyệt đài, hoặc bắt đầu với các đài mẫu.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Thêm đài mẫu";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

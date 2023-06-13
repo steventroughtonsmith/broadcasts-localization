@@ -2,8 +2,8 @@
   Localizable.strings
   MobileRadio
 
-  Δημιουργήθηκε από τον Steven Troughton-Smith στις 01/11/2019.
-  Πνευματικά Δικαιώματα © 2019 High Caffeine Content. Με επιφύλαξη κάθε νόμιμου δικαιώματος.
+  Created by Steven Troughton-Smith on 01/11/2019.
+  Copyright © 2019 High Caffeine Content. All rights reserved.
 */
 
 "SHORTCUT_PLAY" = "Αναπαραγωγή";
@@ -382,3 +382,24 @@
 
 "CONTROLS_VOLUME_UP" = "Αύξηση έντασης ήχου";
 "CONTROLS_VOLUME_DOWN" = "Μείωση έντασης ήχου";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Χωρίς σταθμούς";
+"ONBOARDING_NO_STATIONS_COPY" = "Προσθέστε τους αγαπημένους σας σταθμούς από τον περιηγητή σταθμών ή ξεκινήστε με τους δείγματα σταθμών.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Προσθήκη δειγμάτων σταθμών";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

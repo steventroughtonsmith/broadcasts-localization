@@ -381,3 +381,24 @@
 
 "CONTROLS_VOLUME_UP" = "Forøg lydstyrke";
 "CONTROLS_VOLUME_DOWN" = "Formindsk lydstyrke";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Ingen stationer";
+"ONBOARDING_NO_STATIONS_COPY" = "Tilføj dine foretrukne stationer fra Station Browseren, eller begynd med de prøve stationer.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Tilføj prøve stationer";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

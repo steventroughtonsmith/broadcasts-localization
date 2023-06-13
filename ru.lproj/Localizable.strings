@@ -382,3 +382,24 @@
 
 "CONTROLS_VOLUME_UP" = "Увеличить громкость";
 "CONTROLS_VOLUME_DOWN" = "Уменьшить громкость";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Нет станций";
+"ONBOARDING_NO_STATIONS_COPY" = "Добавьте свои любимые станции из Браузера станций или начните с примерных станций.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Добавить примерные станции";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

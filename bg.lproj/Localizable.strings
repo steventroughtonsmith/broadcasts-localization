@@ -382,3 +382,24 @@
 
 "CONTROLS_VOLUME_UP" = "Increase Volume";
 "CONTROLS_VOLUME_DOWN" = "Decrease Volume";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Няма станции";
+"ONBOARDING_NO_STATIONS_COPY" = "Добавете любимите си станции от Браузъра за станции или започнете с примерните станции.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Добави примерни станции";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

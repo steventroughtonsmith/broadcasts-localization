@@ -384,3 +384,24 @@
 
 "CONTROLS_VOLUME_UP" = "Alza volume";
 "CONTROLS_VOLUME_DOWN" = "Abbassa volume";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "Nessuna stazione";
+"ONBOARDING_NO_STATIONS_COPY" = "Aggiungi le tue stazioni preferite dal Browser delle stazioni, o inizia con le stazioni di esempio.";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Aggiungi stazioni di esempio";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";

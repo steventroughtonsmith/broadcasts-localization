@@ -382,3 +382,24 @@
 
 "CONTROLS_VOLUME_UP" = "提高音量";
 "CONTROLS_VOLUME_DOWN" = "降低音量";
+
+/* Help */
+
+"MENU_HELP_HELP" = "Broadcasts Help";
+"HELP_TOC_TITLE" = "Help";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
+"SEARCH_RECENTS_TITLE" = "Recent Searches";
+"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
+"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"SEARCH_RESULTS" = "Search Results";
+
+/* V3.x Onboarding */
+
+"ONBOARDING_NO_STATIONS" = "暂无电台";
+"ONBOARDING_NO_STATIONS_COPY" = "从电台浏览器中添加您喜欢的电台，或从示例电台开始。";
+"ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "添加示例电台";
+
+/* Sharing */
+
+"SHARE_SHAREPLAY" = "SharePlay";
+"SHARE_SHARE" = "Share";
