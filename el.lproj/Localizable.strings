@@ -2,8 +2,8 @@
   Localizable.strings
   MobileRadio
 
-  Created by Steven Troughton-Smith on 01/11/2019.
-  Copyright © 2019 High Caffeine Content. All rights reserved.
+  Δημιουργήθηκε από τον Steven Troughton-Smith στις 01/11/2019.
+  Πνευματικά Δικαιώματα © 2019 High Caffeine Content. Με επιφύλαξη κάθε νόμιμου δικαιώματος.
 */
 
 "SHORTCUT_PLAY" = "Αναπαραγωγή";
@@ -154,229 +154,229 @@
 
 "ALERT_IMPORT" = "Εισαγωγή";
 "IMPORT_TITLE" = "Εισαγωγή \"%@\"?";
-"IMPORT_BODY" = "Αυτή η μοιρασμένη συλλογή περιέχει %ld σταθμούς.";
+"IMPORT_BODY" = "Αυτή η συλλογή που έχει μοιραστεί περιέχει %ld σταθμούς.";
 
 "MOVE_DIALOG_TITLE" = "Μεταφορά \"%@\"";
 "MOVE_DIALOG_BODY" = "Επιλέξτε συλλογή για να μεταφέρετε αυτό το σταθμό.";
 
 /* Broadcasts v2.0 */
 
-"ERROR_ALERT_TITLE" = "Error: %@";
+"ERROR_ALERT_TITLE" = "Σφάλμα: %@";
 
-"LIBRARY_STATE_UNAUTHENTICATED" = "Not Logged In";
-"LIBRARY_STATE_QUOTA_EXCEEDED" = "Out of Space";
+"LIBRARY_STATE_UNAUTHENTICATED" = "Μη συνδεδεμένος";
+"LIBRARY_STATE_QUOTA_EXCEEDED" = "Δεν υπάρχει ελεύθερος αποθηκευτικός χώρος";
 
-"SIDEBAR_CATEGORY_DIRECTORY" = "Browse";
-"SIDEBAR_TITLE_DIRECTORY" = "Directory";
+"SIDEBAR_CATEGORY_DIRECTORY" = "Περιήγηση";
+"SIDEBAR_TITLE_DIRECTORY" = "Κατάλογος";
 
-"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internet Radio";
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Διαδικτυακό Ράδιο";
 
-"STATION_METADATA_NAME_PLACEHOLDER" = "Untitled Station";
+"STATION_METADATA_NAME_PLACEHOLDER" = "Σταθμός Χωρίς Τίτλο";
 
-"WELCOME_BUTTON_CONTINUE" = "Continue";
-"WELCOME_BUTTON_GETSTARTED" = "Get Started";
+"WELCOME_BUTTON_CONTINUE" = "Συνέχεια";
+"WELCOME_BUTTON_GETSTARTED" = "Εκκίνηση";
 
-"WELCOME_NEWFEATURES_TITLE" = "New Features";
+"WELCOME_NEWFEATURES_TITLE" = "Νέες λειτουργίες";
 
-"WELCOME_NEWFEATURES_2_DESIGN" = "Modern look & feel";
-"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep Timer";
-"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay toolbar controls";
-"WELCOME_NEWFEATURES_2_ALERTS" = "Less-intrusive alerts";
-"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Native pixel scaling";
-"WELCOME_NEWFEATURES_2_APPLESILICON" = "Supports Apple Silicon";
+"WELCOME_NEWFEATURES_2_DESIGN" = "Μοντέρνα μορφή & περιεχόμενο";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Χρονοδιακόπτης ύπνου";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "Χειρισμός AirPlay από γραμμή εργαλείων";
+"WELCOME_NEWFEATURES_2_ALERTS" = "Λιγότερο παρεμβατικές ειδοποιήσεις";
+"WELCOME_NEWFEATURES_2_NATIVESCALING" = "Εγγενή κλιμάκωση pixel";
+"WELCOME_NEWFEATURES_2_APPLESILICON" = "Υποστηρίζει Apple Silicon";
 
-"MENU_CONTROLS" = "Controls";
-"MENU_CONTROLS_PLAY" = "Play";
-"MENU_CONTROLS_PAUSE" = "Pause";
-"MENU_CONTROLS_NEXT" = "Next";
-"MENU_CONTROLS_PREVIOUS" = "Previous";
+"MENU_CONTROLS" = "Ελέγχοι";
+"MENU_CONTROLS_PLAY" = "Αναπαραγωγή";
+"MENU_CONTROLS_PAUSE" = "Παύση";
+"MENU_CONTROLS_NEXT" = "Επόμενο";
+"MENU_CONTROLS_PREVIOUS" = "Προηγούμενο";
 
-"SLEEP_TIMER_MENU" = "Sleep Timer";
+"SLEEP_TIMER_MENU" = "Χρονοδιακόπτης Ύπνου";
 
-"SLEEP_TIMER_MENU_DISABLED" = "Disabled";
-"SLEEP_TIMER_MENU_1" = "1 Minute";
-"SLEEP_TIMER_MENU_15" = "15 Minutes";
-"SLEEP_TIMER_MENU_30" = "30 Minutes";
-"SLEEP_TIMER_MENU_60" = "60 Minutes";
+"SLEEP_TIMER_MENU_DISABLED" = "Απενεργοποιημένος";
+"SLEEP_TIMER_MENU_1" = "1 λεπτό";
+"SLEEP_TIMER_MENU_15" = "15 λεπτά";
+"SLEEP_TIMER_MENU_30" = "30 λεπτά";
+"SLEEP_TIMER_MENU_60" = "60 λεπτά";
 
-"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "name";
-"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "address";
-"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "artwork";
+"EDIT_STATION_WINDOW_NAME_FIELD_LABEL" = "όνομα";
+"EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "διεύθυνση";
+"EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "γραφικά στοιχεία";
 
-"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Choose Image…";
-"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Trial library limit reached. Please upgrade to add more stations.";
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Επιλογή εικόνας…";
+"EDIT_STATION_WINDOW_LIMIT_REACHED" = "Έχει επιτευχθεί το όριο της δοκιμαστικής βιβλιοθήκης. Παρακαλώ κάνετε αναβάθμιση για να προσθέσετε περισσότερους σταθμούς.";
 
-"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Previous";
-"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Next";
+"TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Προηγούμενο";
+"TOOLBAR_NEXTBUTTON_TOOLTIP" = "Επόμενο";
 
-"ALERT_UPGRADE" = "Upgrade";
+"ALERT_UPGRADE" = "Αναβάθμιση";
 
-"MENU_APPLICATION_UPGRADE" = "Upgrade to Full Version…";
+"MENU_APPLICATION_UPGRADE" = "Αναβάθμιση στην Πλήρη Έκδοση…";
 
 /* V2.2 */
 
-"INSPECTOR_NO_STATION" = "No Station Selected";
+"INSPECTOR_NO_STATION" = "Δεν επιλέχθηκε σταθμός";
 
-"INSPECTOR_SECTION_DETAILS" = "Details";
-"INSPECTOR_SECTION_TAGS" = "Tags";
+"INSPECTOR_SECTION_DETAILS" = "Λεπτομέρειες";
+"INSPECTOR_SECTION_TAGS" = "Ετικέτες";
 "INSPECTOR_SECTION_CODEC" = "Codec";
 "INSPECTOR_SECTION_BITRATE" = "Bitrate";
-"INSPECTOR_SECTION_HOMEPAGE" = "Homepage";
+"INSPECTOR_SECTION_HOMEPAGE" = "Αρχική σελίδα";
 
-"INSPECTOR_ADD_TO_LIBRARY" = "Add to Library";
-"INSPECTOR_ADD_TO_COLLECTION" = "Add to…";
-"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Added";
-"INSPECTOR_SECTION_TAGS_NONE" = "No tags";
+"INSPECTOR_ADD_TO_LIBRARY" = "Προσθήκη στη βιβλιοθήκη";
+"INSPECTOR_ADD_TO_COLLECTION" = "Προσθήκη στη…";
+"INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Προστέθηκε";
+"INSPECTOR_SECTION_TAGS_NONE" = "Καμία ετικέτα";
 
-"PREVIEW_BUTTON_PREVIEW" = "PREVIEW";
+"PREVIEW_BUTTON_PREVIEW" = "ΠΡΟΕΠΙΣΚΟΠΗΣΗ";
 
-"DIRECTORY_OTHER" = "Other";
+"DIRECTORY_OTHER" = "Άλλο";
 
 /* V3.0 */
 
 /* Preferences */
-"PREFERENCES_TITLE" = "Settings";
+"PREFERENCES_TITLE" = "Ρυθμίσεις";
 
-"MENU_PREFERENCES" = "Preferences…";
-"MENU_PREFERENCES_VENTURA" = "Settings…";
+"MENU_PREFERENCES" = "Προτιμήσεις…";
+"MENU_PREFERENCES_VENTURA" = "Ρυθμίσεις…";
 
-"PREFERENCES_GENERAL_TITLE" = "General";
+"PREFERENCES_GENERAL_TITLE" = "Γενικά";
 
-"PREFERENCES_GENERAL_VIEW_HEADER" = "View";
-"PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "List item size";
-"PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "List item size:";
+"PREFERENCES_GENERAL_VIEW_HEADER" = "Προβολή";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER" = "Καταγραφή μεγέθους αντικειμένου";
+"PREFERENCES_GENERAL_LIST_SIZE_HEADER_MAC" = "Καταγραφή μεγέθους αντικειμένου:";
 
-"PREFERENCES_GENERAL_LIST_SIZE_REGULAR" = "Regular";
-"PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "Large";
-"PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "Extra Large";
+"PREFERENCES_GENERAL_LIST_SIZE_REGULAR" = "Κανονικό";
+"PREFERENCES_GENERAL_LIST_SIZE_LARGE" = "Μεγάλο";
+"PREFERENCES_GENERAL_LIST_SIZE_EXTRA_LARGE" = "Πολύ μεγάλο";
 
-"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Zoom artwork on hover";
-"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Allow artwork tinting";
+"PREFERENCES_GENERAL_VIEW_ZOOM_ARTWORK" = "Μεγέθυνση γραφικού στοιχείου κατά την αιώρηση";
+"PREFERENCES_GENERAL_VIEW_ENABLE_TINTING" = "Να επιτρέπεται ο αποχρωματισμός γραφικού στοιχείου";
 
-"PREFERENCES_SYNC_TITLE" = "Sync";
+"PREFERENCES_SYNC_TITLE" = "Συγχρονισμός";
 
 "PREFERENCES_SYNC_ICLOUD" = "iCloud";
-"PREFERENCES_SYNC_STATUS_SYNCED_NOW" = "Updated a moment ago";
-"PREFERENCES_SYNC_STATUS_SYNCING" = "Syncing…";
-"PREFERENCES_SYNC_STATUS_SYNCED_NEVER" = "Not synced with iCloud";
-"PREFERENCES_SYNC_OPEN_SETTINGS" = "Open iCloud Settings";
-"PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "Last updated: %@";
+"PREFERENCES_SYNC_STATUS_SYNCED_NOW" = "Ενημερώθηκε πριν λίγο";
+"PREFERENCES_SYNC_STATUS_SYNCING" = "Συγχρονισμός…";
+"PREFERENCES_SYNC_STATUS_SYNCED_NEVER" = "Δεν έχει συγχρονιστεί με iCloud";
+"PREFERENCES_SYNC_OPEN_SETTINGS" = "Άνοιγμα ρυθμίσεων iCloud";
+"PREFERENCES_SYNC_STATUS_SYNCED_TIME" = "Τελευταία ενημέρωση: %@";
 
-"PREFERENCES_SYNC_SYNC_NOW" = "Sync Now";
-"PREFERENCES_SYNC_ADVANCED" = "Advanced";
-"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Upload…";
-"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Download…";
+"PREFERENCES_SYNC_SYNC_NOW" = "Συγχρονισμός τώρα";
+"PREFERENCES_SYNC_ADVANCED" = "Προηγμένα";
+"PREFERENCES_SYNC_ADVANCED_UPLOAD" = "Μεταφόρτωση…";
+"PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "Λήψη…";
 
-"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Help & Support";
-"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Email Support";
-"PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Tweet @GetBroadcasts";
+"PREFERENCES_GENERAL_SUPPORT_HEADER" = "Βοήθεια & Υποστήριξη";
+"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Στείλτε Email στην Υποστήριξη";
+"PREFERENCES_GENERAL_SUPPORT_TWITTER" = "Κάνετε Tweet @GetBroadcasts";
 
-"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Our Apps";
-"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "See More in App Store";
+"PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "Οι εφαρμογές μας";
+"PREFERENCES_GENERAL_OTHER_APPS_LINK" = "Δείτε περισσότερα στο App Store";
 
 "PREFERENCES_GENERAL_PASTEL_LINK" = "Pastel"; /* Do not localize */
 
-"PREFERENCES_GENERAL_ADVANCED" = "Advanced";
-"PREFERENCES_GENERAL_NETWORK_HEADER" = "Network";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Directory timeout";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Directory timeout:";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 seconds";
-"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 seconds";
+"PREFERENCES_GENERAL_ADVANCED" = "Προηγμένα";
+"PREFERENCES_GENERAL_NETWORK_HEADER" = "Δίκτυο";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER" = "Χρονοδιακοπή (timeout) καταλόγου";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_HEADER_MAC" = "Χρονοδιακοπή (timeout) καταλόγου:";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_15" = "15 δευτερόλεπτα";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_30" = "30 δευτερόλεπτα";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_60" = "60 δευτερόλεπτα";
+"PREFERENCES_GENERAL_NETWORK_TIMEOUT_120" = "120 δευτερόλεπτα";
 
-"PREFERENCES_GENERAL_HARDWARE_HEADER" = "Devices";
-"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Enable Game Controller";
-"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Show Now Playing on External Displays";
+"PREFERENCES_GENERAL_HARDWARE_HEADER" = "Συσκευές";
+"PREFERENCES_GENERAL_ENABLE_GAMEPAD" = "Ενεργοποίηση χειριστηρίου παιχνιδιού";
+"PREFERENCES_GENERAL_ENABLE_MIRRORING" = "Εμφάνιση του «Παίζει τώρα» σε εξωτερικές οθόνες";
 
 /* Mini Player */
-"MENU_MINIPLAYER" = "Show MiniPlayer";
+"MENU_MINIPLAYER" = "Εμφάνιση MiniPlayer";
 "MINI_PLAYER_TITLE" = "MiniPlayer";
-"MENU_MINIPLAYER_FLOAT" = "Float on Top";
+"MENU_MINIPLAYER_FLOAT" = "Να επιπλέει";
 
 /* Help & Support */
-"MENU_HELP_GETSUPPORT_EMAIL" = "Contact Support…";
+"MENU_HELP_GETSUPPORT_EMAIL" = "Επικοινωνία με την Υποστήριξη…";
 
-"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "Share…";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "Μοιραστείτε…";
 
 /* Search */
-"SEARCH_SEARCH_PLACEHOLDER" = "Search";
-"SEARCH_BROWSER" = "All Stations";
-"SEARCH_YOUR_LIBRARY" = "Your Library";
+"SEARCH_SEARCH_PLACEHOLDER" = "Αναζήτηση";
+"SEARCH_BROWSER" = "Όλοι οι σταθμοί";
+"SEARCH_YOUR_LIBRARY" = "Η βιβλιοθήκη σας";
 
-"SEARCH_MENU_CACHE" = "Cache All Stations";
-"SEARCH_MENU_SEARCH_TAGS" = "Search Tags";
+"SEARCH_MENU_CACHE" = "Προσωρινή αποθήκευση (cache) όλων των σταθμών";
+"SEARCH_MENU_SEARCH_TAGS" = "Αναζήτηση ετικετώv";
 
 /* Misc */
-"COLLECTIONS_LIST_CLEAR_RECENTS" = "Clear Recents";
-"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Preview";
+"COLLECTIONS_LIST_CLEAR_RECENTS" = "Διαγραφή πρόσφατων";
+"PREVIEW_BUTTON_PREVIEW_NORMAL" = "Προεπισκόπηση";
 
-"MENU_VISUALIZER" = "Visualizer";
-"FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "Dismiss Now Playing screen";
+"MENU_VISUALIZER" = "Οπτικοποιητής";
+"FLUID_NOW_PLAYING_ACCESSIBILITY_CLOSE" = "Απόρριψη οθόνης «Παίζει τώρα»";
 
-"COLLECTIONS_SEARCH_PLACEHOLDER" = "Find in Collections";
-"STATIONS_SEARCH_PLACEHOLDER" = "Find in %@";
+"COLLECTIONS_SEARCH_PLACEHOLDER" = "Βρείτε στις Συλλογές";
+"STATIONS_SEARCH_PLACEHOLDER" = "Βρείτε στη %@";
 
-"EDIT_COLLECTION_BUTTON_SHORT" = "Edit";
-"ADD_COLLECTION_BUTTON_SHORT" = "Add";
+"EDIT_COLLECTION_BUTTON_SHORT" = "Επεξεργασία";
+"ADD_COLLECTION_BUTTON_SHORT" = "Προσθήκη";
 
-"EDIT_STATION_BUTTON_SHORT" = "Edit";
-"ADD_STATION_BUTTON_SHORT" = "Add";
-"ADD_STATION_CONTEXT_SHOW_DIRECTORY_BROWSE" = "Browse";
+"EDIT_STATION_BUTTON_SHORT" = "Επεξεργασία";
+"ADD_STATION_BUTTON_SHORT" = "Προσθήκη";
+"ADD_STATION_CONTEXT_SHOW_DIRECTORY_BROWSE" = "Πλοήγηση";
 
 /* Shazam */
 
 "PREFERENCES_GENERAL_SHAZAM_HEADER" = "Shazam";
 "PREFERENCES_GENERAL_SHAZAM_HEADER_BETA" = "Shazam (Beta)";
-"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Enable Shazam";
-"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Shazam uses your microphone to provide metadata for music playing through the speakers or nearby.";
+"PREFERENCES_GENERAL_ENABLE_SHAZAM" = "Ενεργοποίηση Shazam";
+"PREFERENCES_GENERAL_SHAZAM_FOOTER" = "Το Shazam χρησιμοποιεί το μικρόφωνό σας για την παρόχη μεταδεδομένων για τη μουσική που παίζει μέσω των ηχείων ή σε κοντινή απόσταση.";
 
-"VIEW_ON_APPLE_MUSIC" = "View on Apple Music";
-"NOWPLAYING_SHAZAM" = "Find with Shazam";
-"SHAZAM_VIEW_HISTORY" = "History";
-"SHAZAM_HISTORY_TITLE" = "History";
-"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Find in History";
+"VIEW_ON_APPLE_MUSIC" = "Προβολή στο Apple Music";
+"NOWPLAYING_SHAZAM" = "Εύρεση με το Shazam";
+"SHAZAM_VIEW_HISTORY" = "Ιστορικό";
+"SHAZAM_HISTORY_TITLE" = "Ιστορικό";
+"SHAZAM_HISTORY_SEARCH_PLACEHOLDER" = "Εύρεση στο ιστορικό";
 
 /* Artwork Picker */
-"ARTWORK_EDITOR_HEADER_TEXT" = "Text";
-"ARTWORK_EDITOR_HEADER_STYLE" = "Style";
+"ARTWORK_EDITOR_HEADER_TEXT" = "Κείμενο";
+"ARTWORK_EDITOR_HEADER_STYLE" = "Στυλ";
 
-"ARTWORK_PICKER_PICK_PHOTO" = "Photos";
-"ARTWORK_PICKER_PICK_FILE" = "File";
-"ARTWORK_PICKER_PICK_TEXT" = "Text";
-"ARTWORK_PICKER_PICK_PRESET" = "Preset";
+"ARTWORK_PICKER_PICK_PHOTO" = "Φωτογραφίες";
+"ARTWORK_PICKER_PICK_FILE" = "Αρχείο";
+"ARTWORK_PICKER_PICK_TEXT" = "Κείμενο";
+"ARTWORK_PICKER_PICK_PRESET" = "Προεπιλεγμένο";
 
-"ARTWORK_PICKER_STYLE_PASTEL" = "Pastel";
-"ARTWORK_PICKER_STYLE_VIBRANT" = "Vibrant";
+"ARTWORK_PICKER_STYLE_PASTEL" = "Παστέλ";
+"ARTWORK_PICKER_STYLE_VIBRANT" = "Ζωντανό";
 
-"ARTWORK_EDITOR_TITLE_TEXT" = "Text";
-"ARTWORK_EDITOR_TITLE_PRESET" = "Preset";
-"ARTWORK_EDITOR_TITLE_BACK" = "Back";
-"ARTWORK_EDITOR_TITLE_DONE" = "Choose";
+"ARTWORK_EDITOR_TITLE_TEXT" = "Κείμενο";
+"ARTWORK_EDITOR_TITLE_PRESET" = "Προεπιλεγμένο";
+"ARTWORK_EDITOR_TITLE_BACK" = "Πίσω";
+"ARTWORK_EDITOR_TITLE_DONE" = "Επιλογή";
 
-"ARTWORK_PICKER_HEADING_MORE" = "More";
+"ARTWORK_PICKER_HEADING_MORE" = "Περισσότερα";
 
-"ARTWORK_PICKER_BUTTONS_DONE" = "Done";
-"ARTWORK_PICKER_BUTTONS_CANCEL" = "Cancel";
-"ARTWORK_PICKER_TITLE" = "Choose Artwork";
+"ARTWORK_PICKER_BUTTONS_DONE" = "Τέλος";
+"ARTWORK_PICKER_BUTTONS_CANCEL" = "Άκυρο";
+"ARTWORK_PICKER_TITLE" = "Επιλογή γραφικού στοιχείου";
 
 /* Playback Resume */
 
-"PREFERENCES_GENERAL_PLAYBACK_HEADER" = "Playback";
-"PREFERENCES_GENERAL_RESUME_PLAYBACK" = "Resume playback at launch";
-"PREFERENCES_GENERAL_RESUME_NEVER" = "Off";
-"PREFERENCES_GENERAL_RESUME_CARPLAY" = "When using CarPlay";
-"PREFERENCES_GENERAL_RESUME_ALWAYS" = "Always";
+"PREFERENCES_GENERAL_PLAYBACK_HEADER" = "Αναπαραγωγή";
+"PREFERENCES_GENERAL_RESUME_PLAYBACK" = "Συνέχιση αναπαραγωγής κατά την εκκίνηση";
+"PREFERENCES_GENERAL_RESUME_NEVER" = "Απενεργοποιημένο";
+"PREFERENCES_GENERAL_RESUME_CARPLAY" = "Κατά τη χρήση CarPlay";
+"PREFERENCES_GENERAL_RESUME_ALWAYS" = "Πάντα";
 
 /* Credits */
 
-"PREFERENCES_GENERAL_ACKNOWLEDGEMENTS" = "Acknowledgements";
+"PREFERENCES_GENERAL_ACKNOWLEDGEMENTS" = "Ευχαριστίες";
 
 /* IAP */
 
-"UPSELL_V3_TITLE" = "Thanks for using Broadcasts!";
-"UPSELL_V3_COPY" = "Your Broadcasts Library can store up to five stations for free. You can remove this limit with an in-app purchase, if you'd like.\n\nOr, if you prefer, delete some stations or collections to make space.";
-"UPSELL_V3_FAMILY" = "This purchase supports Family Sharing";
+"UPSELL_V3_TITLE" = "Σας ευχαριστούμε που χρησιμοποιείτε το Broadcasts!";
+"UPSELL_V3_COPY" = "Η Βιβλιοθήκη σας στο Broadcasts μπορεί να αποθηκεύσει μέχρι και πέντε σταθμούς δωρεάν. Εάν θέλετε, μπορείτε να αφαιρέσετε αυτό τον περιορισμό με αγορά εντός εφαρφμογής.\n\nΉ, εάν προτιμάτε, διαγράψτε μερικούς σταθμούς ή συλλογές για να κάνετε χώρο.";
+"UPSELL_V3_FAMILY" = "Αυτή η αγορά υποστηρίζει Family Sharing";
 
 /* Volume Menu */
 
