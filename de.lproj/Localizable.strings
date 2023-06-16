@@ -169,9 +169,9 @@
 "LIBRARY_STATE_QUOTA_EXCEEDED" = "Kein Speicherplatz mehr";
 
 "SIDEBAR_CATEGORY_DIRECTORY" = "Durchsuchen";
-"SIDEBAR_TITLE_DIRECTORY" = "Mediathek";
+"SIDEBAR_TITLE_DIRECTORY" = "Verzeichnis";
 
-"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internet Radio";
+"EDIT_STATION_WINDOW_INTERNET_RADIO_PLACEHOLDER" = "Internetradio";
 
 "STATION_METADATA_NAME_PLACEHOLDER" = "Unbenannter Sender";
 
@@ -181,13 +181,13 @@
 "WELCOME_NEWFEATURES_TITLE" = "Neue Funktionen";
 
 "WELCOME_NEWFEATURES_2_DESIGN" = "Modernes Design";
-"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep Timer";
-"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay Steuerung";
+"WELCOME_NEWFEATURES_2_SLEEPTIMER" = "Sleep-Timer";
+"WELCOME_NEWFEATURES_2_AIRPLAY" = "AirPlay-Steuerung";
 "WELCOME_NEWFEATURES_2_ALERTS" = "Weniger aufdringliche Benachrichtigungen";
 "WELCOME_NEWFEATURES_2_NATIVESCALING" = "Native Pixelskalierung";
 "WELCOME_NEWFEATURES_2_APPLESILICON" = "Unterstützt Apple Silicon";
 
-"MENU_CONTROLS" = "Steuerelemente";
+"MENU_CONTROLS" = "Steuerung";
 "MENU_CONTROLS_PLAY" = "Wiedergabe";
 "MENU_CONTROLS_PAUSE" = "Pause";
 "MENU_CONTROLS_NEXT" = "Weiter";
@@ -205,14 +205,14 @@
 "EDIT_STATION_WINDOW_URL_FIELD_LABEL" = "Adresse";
 "EDIT_STATION_WINDOW_IMAGE_FIELD_LABEL" = "Bild";
 
-"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Wähle Bild…";
+"EDIT_STATION_WINDOW_IMAGE_BUTTON_CHOOSE" = "Bild wählen …";
 "EDIT_STATION_WINDOW_LIMIT_REACHED" = "Du hast die Grenze der kostenlosen Version erreicht. Bitte upgrade mit dem In-App-Kauf, um mehr Stationen hinzuzufügen.";
 
 "TOOLBAR_PREVIOUSBUTTON_TOOLTIP" = "Zurück";
 "TOOLBAR_NEXTBUTTON_TOOLTIP" = "Weiter";
 
 "ALERT_UPGRADE" = "Upgrade";
-"MENU_APPLICATION_UPGRADE" = "Upgrade auf Vollversion…";
+"MENU_APPLICATION_UPGRADE" = "Auf Vollversion upgraden …";
 
 /* V2.2 */
 
@@ -225,7 +225,7 @@
 "INSPECTOR_SECTION_HOMEPAGE" = "Homepage";
 
 "INSPECTOR_ADD_TO_LIBRARY" = "Zur Mediathek hinzufügen";
-"INSPECTOR_ADD_TO_COLLECTION" = "Hinzufügen zu…";
+"INSPECTOR_ADD_TO_COLLECTION" = "Hinzufügen zu …";
 "INSPECTOR_ADD_TO_COLLECTION_ADDED" = "Hinzugefügt";
 "INSPECTOR_SECTION_TAGS_NONE" = "Keine Tags";
 
