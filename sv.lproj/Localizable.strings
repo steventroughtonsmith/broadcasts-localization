@@ -385,21 +385,21 @@
 
 /* Help */
 
-"MENU_HELP_HELP" = "Broadcasts Help";
-"HELP_TOC_TITLE" = "Help";
-"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
-"SEARCH_RECENTS_TITLE" = "Recent Searches";
-"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
-"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
+"MENU_HELP_HELP" = "Broadcasts Hjälp";
+"HELP_TOC_TITLE" = "Hjälp";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "Sök";
+"SEARCH_RECENTS_TITLE" = "Senaste sökningar";
+"SEARCH_RECENTS_CLEAR" = "Rensa senaste sökningar";
+"SEARCH_RECENTS_NO_RECENTS" = "Inga senaste sökningar";
 "SEARCH_RESULTS" = "Search Results";
 
 /* V3.x Onboarding */
 
 "ONBOARDING_NO_STATIONS" = "Inga stationer";
-"ONBOARDING_NO_STATIONS_COPY" = "Lägg till dina favoritstationer från Stationsbläddraren eller börja med exempelstationerna.";
+"ONBOARDING_NO_STATIONS_COPY" = "Lägg till dina favoritstationer från stationsbläddraren eller börja med exempelstationerna.";
 "ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "Lägg till exempelstationer";
 
 /* Sharing */
 
 "SHARE_SHAREPLAY" = "SharePlay";
-"SHARE_SHARE" = "Share";
+"SHARE_SHARE" = "Dela";
