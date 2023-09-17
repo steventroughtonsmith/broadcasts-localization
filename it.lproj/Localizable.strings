@@ -405,3 +405,15 @@
 
 "SHARE_SHAREPLAY" = "SharePlay";
 "SHARE_SHARE" = "Share";
+
+/* Assistive Mode */
+
+"PREFERENCES_GENERAL_ACCESSIBILITY_HEADER" = "Accessibility";
+"ASSISTIVE_DESCRIPTION" = "Assistive Mode is a simplified read-only user interface for Broadcasts designed for use with accessibility features like Assistive Access.\n\nEnabling this mode requires a relaunch of Broadcasts.";
+"ASSISTIVE_ENTER" = "Enter Assistive Mode";
+"ASSISTIVE_EXIT" = "Exit Assistive Mode";
+"ASSISTIVE_DIALOG_TITLE" = "Assistive Mode";
+"ASSISTIVE_DIALOG_NEXT_REGULAR" = "Broadcasts will now quit. On next launch, it will use its standard user interface.";
+"ASSISTIVE_DIALOG_NEXT_ASSISTIVE" = "Broadcasts will now quit. On next launch, it will use Assistive Mode.";
+"ASSISTIVE_DIALOG_QUIT" = "Quit";
+"ASSISTIVE_TOOLBAR_EXIT" = "Exit";
