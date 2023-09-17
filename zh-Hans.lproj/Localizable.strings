@@ -21,7 +21,7 @@
 "SIDEBAR_TITLE_STATIONS" = "电台合集";
 "SIDEBAR_TITLE_RADIO" = "电台";
 
-"SIDEBAR_CATEGORY_ALL_STATIONS" = "所有电台";
+"SIDEBAR_CATEGORY_ALL_STATIONS" = "我的电台";
 "SIDEBAR_CATEGORY_RECENTS" = "最近播放";
 
 "LIST_HEADER_STATION" = "电台";
@@ -268,7 +268,7 @@
 "PREFERENCES_SYNC_ADVANCED_DOWNLOAD" = "下载…";
 
 "PREFERENCES_GENERAL_SUPPORT_HEADER" = "帮助和支持";
-"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "Email支持";
+"PREFERENCES_GENERAL_SUPPORT_EMAIL" = "电子邮件支持";
 "PREFERENCES_GENERAL_SUPPORT_TWITTER" = "发推@GetBroadcasts";
 
 "PREFERENCES_GENERAL_OTHER_APPS_HEADER" = "我们的App";
@@ -297,11 +297,11 @@
 /* Help & Support */
 "MENU_HELP_GETSUPPORT_EMAIL" = "联系支持…";
 
-"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "共享…";
+"SIDEBAR_CONTEXT_SHARE_COLLECTION_ELLIPSIS" = "分享…";
 
 /* Search */
 "SEARCH_SEARCH_PLACEHOLDER" = "搜索";
-"SEARCH_BROWSER" = "全部电台";
+"SEARCH_BROWSER" = "所有电台";
 "SEARCH_YOUR_LIBRARY" = "你的电台库";
 
 "SEARCH_MENU_CACHE" = "缓存所有电台";
@@ -385,21 +385,21 @@
 
 /* Help */
 
-"MENU_HELP_HELP" = "Broadcasts Help";
-"HELP_TOC_TITLE" = "Help";
-"HELP_TOC_SEARCH_PLACEHOLDER" = "Search";
-"SEARCH_RECENTS_TITLE" = "Recent Searches";
-"SEARCH_RECENTS_CLEAR" = "Clear Recent Searches";
-"SEARCH_RECENTS_NO_RECENTS" = "No Recent Searches";
-"SEARCH_RESULTS" = "Search Results";
+"MENU_HELP_HELP" = "Broadcasts帮助";
+"HELP_TOC_TITLE" = "帮助";
+"HELP_TOC_SEARCH_PLACEHOLDER" = "搜索";
+"SEARCH_RECENTS_TITLE" = "最近搜索";
+"SEARCH_RECENTS_CLEAR" = "清除最近搜索";
+"SEARCH_RECENTS_NO_RECENTS" = "暂无最近搜索";
+"SEARCH_RESULTS" = "搜索结果";
 
 /* V3.x Onboarding */
 
 "ONBOARDING_NO_STATIONS" = "暂无电台";
-"ONBOARDING_NO_STATIONS_COPY" = "从电台浏览器中添加您喜欢的电台，或从示例电台开始。";
+"ONBOARDING_NO_STATIONS_COPY" = "从所有电台中添加你喜欢的电台，或者试试示例电台。";
 "ONBOARDING_BUTTON_ADD_SAMPLE_STATIONS" = "添加示例电台";
 
 /* Sharing */
 
-"SHARE_SHAREPLAY" = "SharePlay";
-"SHARE_SHARE" = "Share";
+"SHARE_SHAREPLAY" = "同播共享";
+"SHARE_SHARE" = "分享";
