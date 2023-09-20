@@ -406,12 +406,12 @@
 
 /* Assistive Mode */
 
-"PREFERENCES_GENERAL_ACCESSIBILITY_HEADER" = "Accessibility";
-"ASSISTIVE_DESCRIPTION" = "Assistive Mode is a simplified read-only user interface for Broadcasts designed for use with accessibility features like Assistive Access.\n\nEnabling this mode requires a relaunch of Broadcasts.";
-"ASSISTIVE_ENTER" = "Enter Assistive Mode";
-"ASSISTIVE_EXIT" = "Exit Assistive Mode";
-"ASSISTIVE_DIALOG_TITLE" = "Assistive Mode";
-"ASSISTIVE_DIALOG_NEXT_REGULAR" = "Broadcasts will now quit. On next launch, it will use its standard user interface.";
-"ASSISTIVE_DIALOG_NEXT_ASSISTIVE" = "Broadcasts will now quit. On next launch, it will use Assistive Mode.";
-"ASSISTIVE_DIALOG_QUIT" = "Quit";
-"ASSISTIVE_TOOLBAR_EXIT" = "Exit";
+"PREFERENCES_GENERAL_ACCESSIBILITY_HEADER" = "辅助功能";
+"ASSISTIVE_DESCRIPTION" = "在辅助模式下，Broadcasts拥有极简的用户界面，它为配合辅助访问等辅助功能而设计。\n\n开启此模式需要重启Broadcasts。";
+"ASSISTIVE_ENTER" = "进入辅助模式";
+"ASSISTIVE_EXIT" = "退出辅助模式";
+"ASSISTIVE_DIALOG_TITLE" = "辅助模式";
+"ASSISTIVE_DIALOG_NEXT_REGULAR" = "即将退出Broadcasts，下次启动时将使用标准用户界面。";
+"ASSISTIVE_DIALOG_NEXT_ASSISTIVE" = "即将退出Broadcasts，下次启动时将开启辅助模式。";
+"ASSISTIVE_DIALOG_QUIT" = "退出";
+"ASSISTIVE_TOOLBAR_EXIT" = "退出";
